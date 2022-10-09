@@ -1,5 +1,5 @@
 
-try:
+''' try:
     from googlesearch import search
     import requests
     from bs4 import BeautifulSoup
@@ -19,6 +19,25 @@ for i in range(4):
 links2 = []
 for i in range(5-9):
     links2.append(results[i])
+'''
+try:
+    from googlesearch import search
+    import requests
+    from bs4 import BeautifulSoup
+    import json
+except ImportError:
+    print("No module named 'google' found")
+ 
+# to search
+query = "Software Engineering+People"
+
+links = []
+
+for j in search(query, tld="co.in", num=10, stop=50, pause=2):
+    links.append(j)
+
+with open("output.txt", "w") as f:
+    print('\n'.join(str(e) for e in links), file=f)
 
 
 
