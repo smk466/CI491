@@ -10,14 +10,29 @@ except ImportError:
 # to search
 query = "Software Engineering+People"
 
-
-results = search(query, tld="co.in", num=50, stop=50, pause=2)
 links = []
-for i in range(4):
+
+for j in search(query, tld="co.in", num=10, stop=50, pause=2):
+    links.append(j)
+
+with open("output.txt", "w") as f:
+    print('\n'.join(str(e) for e in links), file=f)
+
+
+"""
+results = search(query, tld="co.in", num=10, stop=50, pause=2)
+
+print(results[0])
+
+
+links = []
+
+
+for i in range(0,4):
     links.append(results[i])
 
 links2 = []
-for i in range(5-9):
+for i in range(5,9):
     links2.append(results[i])
 
 
@@ -32,4 +47,4 @@ for i in links2:
     google_result = requests.get(i).text
     with open("output.txt", "a") as f:
         print(google_result, file=f)
-
+"""
