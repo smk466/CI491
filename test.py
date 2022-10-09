@@ -17,7 +17,7 @@ for i in range(4):
     links.append(results[i])
 
 links2 = []
-for i in range(5-9):
+for i in range(5,9):
     links2.append(results[i])
 
 
