@@ -10,13 +10,36 @@ except ImportError:
 # to search
 query = "Software Engineering+People"
 
-links = []
+results = {}
+#links = []
+#contents = []
 
-for j in search(query, tld="co.in", num=10, stop=50, pause=2):
-    links.append(j)
+'''
+headers = {
+    'Accept-Encoding': 'identity',
+}
+'''
 
-with open("output.txt", "w") as f:
-    print('\n'.join(str(e) for e in links), file=f)
+for j in search(query, tld="co.in", num=10, stop=5, pause=20):
+    #links.append(j)
+    print(j)
+    google_result = requests.get(j).text
+    #google_result.encoding = 'utf-8-sig'
+    #contents.append(google_result.text)
+    #print(google_result.text)
+    results[j] = google_result
+    with open("output.txt", "a", encoding="utf-8-sig") as f:
+        print(f"Result Link: {j}\n\n\n {results.get(j)}\n\n\n\n\n", file=f)
+    
+#for i in results.keys():
+#    print(results.get(i))
+#print(results)
+    
+#with open("output.txt", "w", encoding="utf-8") as f:
+    #print((f"Result Link: {i}\n\n{results.get(i)}\n\n\n" for i in results.keys()), file=f)
+
+#with open("output.txt", "w") as f:
+#    print('\n'.join(str(e) for e in links), file=f)
 
 
 """
