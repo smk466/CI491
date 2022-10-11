@@ -1,6 +1,8 @@
 
 try:
     from googlesearch import search
+    from lxml import html
+    import spacy
     import requests
     from bs4 import BeautifulSoup
     import json
@@ -9,27 +11,30 @@ except ImportError:
  
 # to search
 query = "Software Engineering+People"
-
 results = {}
-#links = []
-#contents = []
-
-'''
-headers = {
-    'Accept-Encoding': 'identity',
-}
-'''
+header ={"accept-encoding": "gzip, deflate"}
+english_nlp = spacy.load('en_core_web_sm')
+#english_nlp.max_length = 10000000
+names = []
 
 for j in search(query, tld="co.in", num=10, stop=5, pause=20):
-    #links.append(j)
+    if ".jpg" in j:
+        continue
     print(j)
-    google_result = requests.get(j).text
-    #google_result.encoding = 'utf-8-sig'
-    #contents.append(google_result.text)
-    #print(google_result.text)
-    results[j] = google_result
-    with open("output.txt", "a", encoding="utf-8-sig") as f:
-        print(f"Result Link: {j}\n\n\n {results.get(j)}\n\n\n\n\n", file=f)
+    google_result = requests.get(j, headers=header)
+    #google_result_html = html.fromstring(google_result.content)
+    results[j] = google_result.text
+
+    spacy_parser = english_nlp(google_result.text)
+    for entity in spacy_parser.ents:
+        if entity.label_ == "PERSON":
+            names.append(entity.text)
+
+with open("output.txt", "w", encoding="utf-8-sig") as f:
+    for link in results:
+        print(f"Result Link: {link}\n\n\n {results.get(link)}\n\n\n\n\n", file=f)
+
+print(names)
     
 #for i in results.keys():
 #    print(results.get(i))
