@@ -90,10 +90,10 @@ for text in content:
  #   with open("output.txt", "a") as f:
   #      print(google_result, file=f)
 
-for i in links2:
-    google_result = requests.get(i).text
-    with open("output.txt", "a") as f:
-        print(google_result, file=f)
+#for i in links2:
+#    google_result = requests.get(i).text
+ #   with open("output.txt", "a") as f:
+  #      print(google_result, file=f)
 
 #for i in links2:
  #   google_result = requests.get(i).text
