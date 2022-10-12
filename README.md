@@ -16,7 +16,15 @@ pip install beautifulsoup4
 
 Installing Google 
 
-
 pip install google
+
+Installing Spacy
+
+pip install -U pip setuptools wheel
+pip install -U spacy
+
+Installing Lxml
+
+pip install lxml
 
 
