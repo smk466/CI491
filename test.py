@@ -24,8 +24,9 @@ query = "Software Engineering+People"
 
 ##GET LINKS FROM SEARCH QUERY:
 links = []
-for j in search(query, tld="co.in", num=2, stop=2, pause=2):
+for j in search(query, tld="co.in", num=2, stop=10, pause=2):
    links.append(j)
+   print(j)
 
 
 ##ACHIEVE  CONTENT:
@@ -49,7 +50,7 @@ for i in links:
         script.extract()    # rip it out
 
     # get text
-    text = soup.get_text()
+    text = soup.get_text().lower()
     # break into lines and remove leading and trailing space on each
     lines = (line.strip() for line in text.splitlines())
     # break multi-headlines into a line each
