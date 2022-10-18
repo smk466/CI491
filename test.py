@@ -34,6 +34,10 @@ with open("output.txt", "w", encoding="utf-8-sig") as f:
     for link in results:
         print(f"Result Link: {link}\n\n\n {results.get(link)}\n\n\n\n\n", file=f)
 
+with open("output_names.txt", "w", encoding="utf-8-sig") as f:
+    for name in names:
+        print(f"Name: {name}\n\n", file=f)
+
 print(names)
     
 #for i in results.keys():
