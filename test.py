@@ -1,4 +1,7 @@
 
+from operator import contains
+
+
 try:
     from googlesearch import search
     from random import randint
@@ -6,6 +9,7 @@ try:
     from bs4 import BeautifulSoup
     import json
     import time
+    
 except ImportError:
     print("No module named 'google' found")
 
@@ -26,10 +30,21 @@ query = "Software Engineering+People"
 
 ##GET LINKS FROM SEARCH QUERY:
 links = []
+
+excludeLinks = ['.jpg', '.png', '.jpeg']
+linkContainsExcluded = False
+
 totalPageCount = 0
 pageCount = 0
-pageLimit = 30
-for j in search(query, tld="co.in", num=10, stop=300, pause=2):
+pageLimit = 50
+for j in search(query, tld="co.in", num=10, stop=50, pause=2):
+    for l in excludeLinks:
+        if l in j:
+            linkContainsExcluded = True
+            break
+    if linkContainsExcluded:
+        linkContainsExcluded = False
+        continue
     links.append(j)
     totalPageCount += 1
     print(f'{totalPageCount}). {j}')
@@ -37,20 +52,27 @@ for j in search(query, tld="co.in", num=10, stop=300, pause=2):
     if (pageCount == pageLimit):
         time.sleep(randint(20,40))
         pageCount = 0
+    
 
 
 ##ACHIEVE  CONTENT:
+from requests.packages.urllib3.exceptions import InsecureRequestWarning
+requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 page_title =[]
 page_body =[]
 page_head = []
 content = []
 names = []
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0'}
+totalPageCountSoup = 0
 for i in links:
+    totalPageCountSoup += 1
     page = requests.get(i, headers=headers, verify=False)
-    if page.status_code == 200 and ".jpg" not in i:
-        soup = BeautifulSoup(page.content, features = 'html.parser')
+    if 100 <= page.status_code <= 399:
+        soup = BeautifulSoup(page.content, features = 'html.parser', from_encoding="iso-8859-1")
+        print(f'{totalPageCountSoup}). Success: {i}')
     else:
+        print(f'{totalPageCountSoup}). Error(s): {i}')
         continue
 
     #Extract title of the page:
@@ -75,7 +97,7 @@ for i in links:
     content.append(text)
 
 
-print(len(content))
+print(f'Now writing {len(content)} pages into output.txt')
 #find names
 import spacy
 english_nlp = spacy.load('en_core_web_sm')
@@ -90,7 +112,7 @@ with open("output.txt", "w", encoding="utf-8-sig") as f:
             if entity.label_ == 'PERSON':
                 x = content.index(text)
                 print(f'Found Name: {entity.text} of webpage number: {x+1}', file=f)
-        
+print("Done!")
         #print(f'Found: {entity.text} of type: {entity.label_}')
 #print(page.text)
 # print(page.status_code)
