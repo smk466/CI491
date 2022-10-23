@@ -1,9 +1,11 @@
 
 try:
     from googlesearch import search
+    from random import randint
     import requests
     from bs4 import BeautifulSoup
     import json
+    import time
 except ImportError:
     print("No module named 'google' found")
 
@@ -24,9 +26,17 @@ query = "Software Engineering+People"
 
 ##GET LINKS FROM SEARCH QUERY:
 links = []
-for j in search(query, tld="co.in", num=2, stop=10, pause=2):
-   links.append(j)
-   print(j)
+totalPageCount = 0
+pageCount = 0
+pageLimit = 30
+for j in search(query, tld="co.in", num=10, stop=300, pause=2):
+    links.append(j)
+    totalPageCount += 1
+    print(f'{totalPageCount}). {j}')
+    pageCount += 1
+    if (pageCount == pageLimit):
+        time.sleep(randint(20,40))
+        pageCount = 0
 
 
 ##ACHIEVE  CONTENT:
@@ -35,11 +45,16 @@ page_body =[]
 page_head = []
 content = []
 names = []
+headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0'}
 for i in links:
-    page = requests.get(i)
-    soup = BeautifulSoup(page.content, features = 'html.parser')
+    page = requests.get(i, headers=headers, verify=False)
+    if page.status_code == 200 and ".jpg" not in i:
+        soup = BeautifulSoup(page.content, features = 'html.parser')
+    else:
+        continue
+
     #Extract title of the page:
-    page_title.append(soup.title.text)
+    # page_title.append(soup.title.text)
     #Extract body of the page:
     page_body.append(soup.body)
     # Extract head of page
@@ -64,14 +79,18 @@ print(len(content))
 #find names
 import spacy
 english_nlp = spacy.load('en_core_web_sm')
+english_nlp.max_length = 10000000
 #webpages = enumerate(content)
-for text in content:
-    #print (text)
-    spacy_parser = english_nlp(text)
-    for entity in spacy_parser.ents:
-        if entity.label_ == 'PERSON':
-            x = content.index(text)
-            print(f'Found Name: {entity.text} of webpage number: {x+1}')
+
+with open("output.txt", "w", encoding="utf-8-sig") as f:
+    for text in content:
+        #print (text)
+        spacy_parser = english_nlp(text)
+        for entity in spacy_parser.ents:
+            if entity.label_ == 'PERSON':
+                x = content.index(text)
+                print(f'Found Name: {entity.text} of webpage number: {x+1}', file=f)
+        
         #print(f'Found: {entity.text} of type: {entity.label_}')
 #print(page.text)
 # print(page.status_code)
