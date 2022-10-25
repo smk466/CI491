@@ -37,7 +37,7 @@ linkContainsExcluded = False
 totalPageCount = 0
 pageCount = 0
 pageLimit = 50
-for j in search(query, tld="co.in", num=10, stop=50, pause=2):
+for j in search(query, tld="co.in", num=10, stop=1000, pause=2):
     for l in excludeLinks:
         if l in j:
             linkContainsExcluded = True
@@ -70,9 +70,9 @@ for i in links:
     page = requests.get(i, headers=headers, verify=False)
     if 100 <= page.status_code <= 399:
         soup = BeautifulSoup(page.content, features = 'html.parser', from_encoding="iso-8859-1")
-        print(f'{totalPageCountSoup}). Success: {i}')
+        print(f'{totalPageCountSoup}). Success ({page.status_code}): {i}')
     else:
-        print(f'{totalPageCountSoup}). Error(s): {i}')
+        print(f'{totalPageCountSoup}). Error(s) ({page.status_code}): {i}')
         continue
 
     #Extract title of the page:
