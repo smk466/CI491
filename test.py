@@ -31,14 +31,14 @@ query = "Software Engineering+People"
 ##GET LINKS FROM SEARCH QUERY:
 links = []
 
-excludeLinks = ['.jpg', '.png', '.jpeg']
+excludedLinkKeywords = ['.jpg', '.png', '.jpeg']
 linkContainsExcluded = False
 
 totalPageCount = 0
 pageCount = 0
 pageLimit = 50
 for j in search(query, tld="co.in", num=10, stop=1000, pause=2):
-    for l in excludeLinks:
+    for l in excludedLinkKeywords:
         if l in j:
             linkContainsExcluded = True
             break
