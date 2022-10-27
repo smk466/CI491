@@ -16,7 +16,7 @@ def compareLists(nameList, emailList):
             if temp > x:
                 x = temp
                 email = j
-        print(i,"---",email)
+        print(i,"---",email,"---",x)
         emailList.remove(email)        
 
 compareLists(nameList, emailList)
