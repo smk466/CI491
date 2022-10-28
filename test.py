@@ -37,7 +37,7 @@ linkContainsExcluded = False
 totalPageCount = 0
 pageCount = 0
 pageLimit = 50
-for j in search(query, tld="co.in", num=10, stop=50, pause=2):
+for j in search(query, tld="co.in", num=10, stop=10, pause=2):
     for l in excludedLinkKeywords:
         if l in j:
             linkContainsExcluded = True
@@ -103,6 +103,11 @@ import spacy
 english_nlp = spacy.load('en_core_web_sm')
 english_nlp.max_length = 10000000
 #webpages = enumerate(content)
+alphabetKeysList = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+
+f = open("name_dictionary.json", "r")
+nameDictionary = json.load(f)
+f.close()
 
 with open("output.txt", "w", encoding="utf-8-sig") as f:
     for text in content:
@@ -110,8 +115,13 @@ with open("output.txt", "w", encoding="utf-8-sig") as f:
         spacy_parser = english_nlp(text)
         for entity in spacy_parser.ents:
             if entity.label_ == 'PERSON':
-                x = content.index(text)
-                print(f'Found Name: {entity.text} of webpage number: {x+1}', file=f)
+                if (entity.text[:1].upper() in alphabetKeysList):
+                    firstChar = entity.text[:1].upper()
+                    for name in nameDictionary[firstChar]:
+                        #print(entity.text)
+                        if (entity.text.find(name.lower()) != -1):
+                            x = content.index(text)
+                            print(f'Found Name: {entity.text} of webpage number: {x+1}', file=f)
 print("Done!")
         #print(f'Found: {entity.text} of type: {entity.label_}')
 #print(page.text)
