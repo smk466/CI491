@@ -100,13 +100,18 @@ def remove_duplicates(dictionary):
         dictionary[key] = list(dict.fromkeys(dictionary[key]))
     return dictionary
 
-def write_file(dictionary):
+def write_dictionary_to_file(dictionary):
     with open('name_dictionary.json', 'w') as namefile:
         json.dump(dictionary, namefile, indent = 4)
     namefile.close()
     f = open('name_dictionary.json', 'r')
     names = json.load(f)
     print(names)
+    f.close()
+    
+def get_dictionary(file):
+    f = open(file)
+    json.load(f)
     f.close()
 
 def main():
