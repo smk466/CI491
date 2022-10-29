@@ -15,6 +15,7 @@ except ImportError:
 
 # to search
 query = "Software Engineering+People"
+queryForLinkedin = 'site:linkedin.com/in/ AND "software engineering"'
 
 links = []
 

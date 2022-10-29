@@ -116,7 +116,7 @@ def get_dictionary(file):
 
 def main():
     #print(remove_duplicates(nameDictionary))
-    write_file(nameDictionary)
+    write_dictionary_to_file(nameDictionary)
 
 if __name__ == '__main__':
     main()
