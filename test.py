@@ -1,3 +1,4 @@
+import re
 from operator import contains
 
 try:
@@ -109,32 +110,9 @@ def find_and_check_names():
                         for name in nameDictionary[firstChar]:
                             if (entity.text.find(name.lower()) != -1):
                                 x = content.index(text)
-                                print(f'Found Name: {entity.text} of webpage number: {x+1}', file=f)
-        # Given string
-        count=0
- 
-        # Initialising new strings
-        newstring1 =""
-        newstring2 =""
- 
-        # Iterating the string and checking for alphabets
-        # Incrementing the counter if an alphabet is found
-        # Finally printing the count
-        for a in entity.text:
-            if (a.isalpha()) == True:
-                count+=1
-                newstring1+=a
-        #print("count",count)
-        #print("new string",newstring1)
- 
-        # Given string
-        count=0
-        for a in entity.text:
-            if (a.isalpha()) == True:
-                count+=1
-                newstring2+=a
-        #print(count)
-        #print(newstring2)
+                                new_text =  re.sub(r"[^a-zA-Z0-9 ]","", entity.text)
+                                print(f'Found Name: {new_text} of webpage number: {x+1}', file=f)
+        
 
 def main():
     get_links_from_search_query()
