@@ -1,6 +1,9 @@
 import re
 from operator import contains
 
+from operator import contains
+
+
 try:
     from googlesearch import search
     from random import randint
