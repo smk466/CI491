@@ -29,6 +29,13 @@ content = []
 names = []
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0'}
 
+#for i in range(4):
+#    links.append(results[i])
+
+##GET LINKS FROM SEARCH QUERY:
+links = []
+for j in search(query, tld="co.in", num=2, stop=2, pause=2):
+   links.append(j)
 
 def get_links_from_search_query():
     ##GET LINKS FROM SEARCH QUERY:
