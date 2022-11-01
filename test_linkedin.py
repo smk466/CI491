@@ -3,6 +3,8 @@ from selenium import webdriver
 import chromedriver_autoinstaller
 import json
 
+#STILL IN PROGRESS
+
 driver = webdriver.Chrome("chromedriver.exe")
 
 jobTitle = 'hr'
