@@ -1,22 +1,25 @@
-# CI491
-Project
+# CI491 Project
 
-Install Python 3
+## Installation guide:
 
-Installing Pip:
+Please install Python 3 to run this script.
+
+**Install Pip:**
 
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 
 python3 get-pip.py
 
+**Install Beautiful Soup:**
 
-Installing Beautiful Soup
+`pip install beautifulsoup4`
 
-pip install beautifulsoup4
+**Install Google:**
 
-Installing Google 
+`pip install google`
 
+**Install Spacy:**
 
-pip install google
+`pip install spacy`
 
-
+`python -m spacy download en_core_web_sm`
