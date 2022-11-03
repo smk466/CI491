@@ -108,15 +108,15 @@ def remove_duplicates(dictionary):
     return dictionary
 
 def main():
-    name = 'christopher lee'
-    email = 'christopherlee@gmail.com'
+    name = 'kaban koochakpour'
+    email = 'kaban.koochakpour@ntnu.no'
     #sort_dataset_names_to_dictionary()
-    #print(f'Is it similar: {determine_similarity(name, email)}')
-    #print(f'Similarity ratio: {similar(name, email)}')
+    print(f'Is it similar: {determine_similarity(name, email)}')
+    print(f'Similarity ratio: {similar(name, email)}')
     #print(nd.get_top_names(country_alpha2='US').get('US').get('M'))
     #print(nameDictionary)
     #print(nd.search('Walter'))
-    print(remove_duplicates(nameDictionary))
+    #print(remove_duplicates(nameDictionary))
 
 if __name__ == '__main__':
     main()

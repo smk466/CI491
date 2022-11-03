@@ -1,6 +1,5 @@
 import re
-from operator import contains
-
+from difflib import SequenceMatcher
 from operator import contains
 
 
@@ -34,6 +33,8 @@ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 
 
 #for i in range(4):
 #    links.append(results[i])
+
+nameEmailDictionary = {}
 
 ##GET LINKS FROM SEARCH QUERY:
 links = []
@@ -111,6 +112,11 @@ def find_and_check_names():
         for text in content:
             #print (text)
             spacy_parser = english_nlp(text)
+            emailRegex = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
+
+            nameList = []
+            emailList = []
+
             for entity in spacy_parser.ents:
                 if entity.label_ == 'PERSON':
                     if '\n' in entity.text:
@@ -122,6 +128,29 @@ def find_and_check_names():
                                 x = content.index(text)
                                 new_text =  re.sub(r"[^a-zA-Z0-9 ]","", entity.text)
                                 print(f'Found Name: {new_text} of webpage number: {x+1}', file=f)
+                                nameList.append(new_text)
+                elif re.fullmatch(emailRegex, entity.text):
+                    print(f'Found Email: {entity.text} of webpage number: {x+1}', file=f)
+                    emailList.append(entity.text)
+            #print(f'Name List: {nameList}\n')
+            #print(f'Email List: {emailList}\n')
+            for name in nameList:
+                for email in emailList:
+                    if determine_name_and_email_similarity(name, email):
+                        nameEmailDictionary[name] = email
+                        #emailList.remove(email)
+                    else:
+                        nameEmailDictionary[name] = "None"   
+        #print(f'Name email dictionary: {nameEmailDictionary}')
+        print('\n\n\n\n\n', file=f)
+        for name, email in nameEmailDictionary.items(): 
+            #print(f'Name: {name}, Email: {email}', file=f)
+            print("Name: {0:50} Email: {1}".format(name, email), file=f)
+    
+    f.close()
+
+def determine_name_and_email_similarity(name, email):
+    return SequenceMatcher(None, name, email).ratio() > 0.5
         
 
 def main():
