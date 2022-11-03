@@ -3,7 +3,7 @@
 Web scraping people's names and emails by searching their positions.
 
 ## Installation guide:
----
+
 Please install Python 3 and the following to run this script.
 
 **Install Pip:**
