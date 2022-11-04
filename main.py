@@ -109,6 +109,7 @@ def find_and_check_names():
     f.close()
 
     with open("output.txt", "w", encoding="utf-8-sig") as f:
+        #print(content)
         for text in content:
             #print (text)
             spacy_parser = english_nlp(text)
@@ -127,13 +128,19 @@ def find_and_check_names():
                             if (entity.text.find(name.lower()) != -1):
                                 x = content.index(text)
                                 new_text =  re.sub(r"[^a-zA-Z0-9 ]","", entity.text)
-                                print(f'Found Name: {new_text} of webpage number: {x+1}', file=f)
+                                #print(f'Found Name: {new_text} of webpage number: {x+1}', file=f)
                                 nameList.append(new_text)
                 elif re.fullmatch(emailRegex, entity.text):
-                    print(f'Found Email: {entity.text} of webpage number: {x+1}', file=f)
+                    #print(f'Found Email: {entity.text} of webpage number: {x+1}', file=f)
                     emailList.append(entity.text)
-            #print(f'Name List: {nameList}\n')
-            #print(f'Email List: {emailList}\n')
+            nameList = list(set(nameList))
+            emailList = list(set(emailList))
+
+            for name in nameList:
+                print(f'Name: {name}', file=f)
+            for email in emailList:
+                print(f'Email: {email}', file=f)
+
             for name in nameList:
                 for email in emailList:
                     if determine_name_and_email_similarity(name, email):
