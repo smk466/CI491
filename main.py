@@ -36,11 +36,6 @@ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 
 
 nameEmailDictionary = {}
 
-##GET LINKS FROM SEARCH QUERY:
-links = []
-for j in search(query, tld="co.in", num=2, stop=2, pause=2):
-   links.append(j)
-
 def get_links_from_search_query():
     ##GET LINKS FROM SEARCH QUERY:
     totalPageCount = 0
@@ -161,6 +156,10 @@ def determine_name_and_email_similarity(name, email):
         
 
 def main():
+    ##GET LINKS FROM SEARCH QUERY:
+    links = []
+    for j in search(query, tld="co.in", num=2, stop=2, pause=2):
+        links.append(j)
     get_links_from_search_query()
     retrieve_webpage_contents()
     find_and_check_names()
