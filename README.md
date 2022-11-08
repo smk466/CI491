@@ -1,22 +1,35 @@
-# CI491
-Project
+# CI491 Project
 
-Install Python 3
+Web scraping people's names and emails by searching their positions.
 
-Installing Pip:
+## Installation guide:
 
+Please install Python 3 and the following to run this script.
+
+**Install Pip:**
+
+```
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 
 python3 get-pip.py
+```
 
+**Install Beautiful Soup:**
 
-Installing Beautiful Soup
-
+```
 pip install beautifulsoup4
+```
 
-Installing Google 
+**Install Google:**
 
-
+```
 pip install google
+```
 
+**Install Spacy:**
 
+```
+pip install spacy
+
+python -m spacy download en_core_web_sm
+```
