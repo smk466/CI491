@@ -1,0 +1,1019 @@
+﻿Name: dave cutler
+Name: john carmack
+Name: max levchin
+Name: paul buchheit
+Name: jamie zawinski
+Name: michael widenius
+Name: tim
+Name: jennifer wegerer
+Name: everythings
+Name: lindsey
+Name: kelsey alpaio
+Name: erica joy baker
+Name: dave cutler
+Name: john carmack
+Name: max levchin
+Name: paul buchheit
+Name: jamie zawinski
+Name: michael widenius
+Name: tim
+Name: jennifer wegerer
+Name: everythings
+Name: lindsey
+Name: kelsey alpaio
+Name: erica joy baker
+Name: murtadha altameemi
+Name: engineeringibm
+Name: analystibm
+Name: richard gall 
+Name: chris
+Name: richard gallcoeditor
+Name: corey quinn
+Name: jessie frazelle
+Name: matt rickard
+Name: dan
+Name: mark imbriaco
+Name: jason lengstorf
+Name: ryan burgess
+Name: dan abramov
+Name: sarah drasner
+Name: matty stratton
+Name: heres
+Name: engineers
+Name: jobs
+Name: managers
+Name: phil  sellframe ltd
+Name: heres
+Name: skill4
+Name: audrey webster
+Name: jessica mong
+Name: heres
+Name: javier gonzalezsanchez
+Name: robert heinrichsrobert heinrichslecturer
+Name: tim lindquist
+Name: michael findler
+Name: kevin gary
+Name: christopher marcmchristopher marinstructor
+Name: kevin garyassociate
+Name: michael findlerlecturer
+Name: tim
+Name: stephen yauprofessor
+Name: haonan lu
+Name: matthew knepley211a
+Name: miller338f davis
+Name: srihari email
+Name: hongxin hu
+Name: jennifer winikus
+Name: xu330 davis
+Name: david doermann
+Name: a erdem sariyuce323 davis hallphone
+Name: jesse hartloff
+Name: haonan lu email
+Name: oliver kennedy
+Name: matthew hertz
+Name: dame315 davis
+Name: xie321 davis
+Name: carl
+Name: matthew
+Name: kenneth joseph335 davis
+Name: ji338g davis
+Name: nalini ratha
+Name: gao347 davis hallphone
+Name: kris schindler
+Name: paul dickson348
+Name: alan hunt354 davis
+Name: paul dickson
+Name: david doermann215b
+Name: andrew hirsch113m
+Name: jinjun xiong
+Name: qiao email chunming qiao
+Name: alan hunt
+Name: kenneth joseph
+Name: chen wang
+Name: ji email
+Name: email jennifer winikus
+Name: jinhui xu
+Name: chen
+Name: ken regan email
+Name: university211a
+Name: carl alphonce
+Name: kaiyi ji
+Name: matthew knepley
+Name: eric mikida
+Name: changyou chen
+Name: algorithmscall atri
+Name: jinjun xiong316
+Name: davis
+Name: wen dong306 davis hallphone
+Name: roger
+Name: shi li
+Name: eric mikida208
+Name: jinhui xu315 davis
+Name: satish tripathi
+Name: zhuoyue zhao
+Name: xin
+Name: university338l davis
+Name: davis hallphone
+Name: wen dong
+Name: kenneth joseph email
+Name: farshad ghanei
+Name: chunming qiao
+Name: jinhui xu email
+Name: george mason
+Name: zhao338i davis hallphone
+Name: anomaly detectioncall
+Name: jesse hartloff344
+Name: andrew hirsch
+Name: gao
+Name: engineeringfacebookinstagramlinkedin
+Name: kosar338j davis
+Name: tom hayes338d davis hallphone
+Name: shi li328 davis
+Name: ken regan
+Name: davis hall buffalo
+Name: university311 davis hallphone
+Email: 645-4766eblanton@buffalo.edu
+Email: 645-1595zimingzh@buffalo.eduassistant
+Email: 645-1602rohini@buffalo.edu
+Email: 645-1587siweilyu@buffalo.edu
+Email: 645-4752mblanton@buffalo.eduassociate
+Email: 645-4753demirbas@buffalo.edu
+Email: 645-3185kds@buffalo.edu
+Email: 645-4760jinjun@buffalo.edusuny
+Email: 645-1564nratha@buffalo.edu
+Email: 645-1597okennedy@buffalo.eduassociate
+Email: 645-4750changyou@buffalo.edu
+Email: 645-2670kdantu@buffalo.edu
+Email: 645-0566cwx@buffalo.edu
+Email: 645-1596lziarek@buffalo.edu
+Email: 645-4735zzhao35@buffalo.edu
+Email: 645-4757jwinikus@buffalo.edu
+Email: 645-4733hongxinh@buffalo.edu
+Email: 645-0216yaxiongx@buffalo.eduassistant
+Email: 645-2464atri@buffalo.eduprofessordepartment
+Email: 645-4759haonanlu@buffalo.edu
+Email: 645-4737miller@buffalo.edu
+Email: 645-4736mhertz@buffalo.edu
+Email: 645-1595zimingzh@buffalo.edu
+Email: 645-4755epmikida@buffalo.edu
+Email: 645-0747knepley@buffalo.edu
+Email: 645-4737miller@buffalo.eduub
+Email: 645-3183shambhu@buffalo.edustrategic
+Email: 645-1586avereshc@buffalo.edu
+Email: 645-4757jwinikus@buffalo.eduassistant
+Email: 645-1597okennedy@buffalo.edu
+Email: 645-0682kjoseph@buffalo.edu
+Email: 645-1602rohini@buffalo.eduprofessorassociate
+Email: 645-0562jsyuan@buffalo.eduprofessordirector
+Email: 645-3182bina@buffalo.edu
+Email: 645-4740nasrinak@buffalo.edu
+Email: 645-1596lziarek@buffalo.eduassociate
+Email: 645-0247akhirsch@buffalo.edu
+Email: 645-3185kds@buffalo.eduprofessor
+Email: 645-0682kjoseph@buffalo.eduassistant
+Email: 645-4769sreyasee@buffalo.edu
+Email: 645-1588inwogu@buffalo.edu
+Email: 645-1590shil@buffalo.edu
+Email: 645-3186rsridhar@buffalo.edu
+Email: 645-4735zzhao35@buffalo.eduassistant
+Email: 645-4729hartloff@buffalo.eduassociate
+Email: 645-4752mblanton@buffalo.edu
+Email: 645-2901president@buffalo.edu
+Email: 645-4754farshadg@buffalo.edu
+Email: 645-4747chandola@buffalo.eduassociate
+Email: 645-1601zjin@buffalo.eduassociate
+Email: 645-4738regan@buffalo.edu
+Email: 645-4751qiao@buffalo.edu
+Email: 645-3183shambhu@buffalo.edu
+Email: 645-4741xinhe@buffalo.edu
+Email: 645-1592erdem@buffalo.edu
+Email: 645-0566cwx@buffalo.eduassistant
+Email: 645-1601zjin@buffalo.edu
+Email: 645-1588inwogu@buffalo.eduassociate
+Email: 645-0306kaiyiji@buffalo.edu
+Email: 645-4736mhertz@buffalo.eduassociate
+Email: 645-3184ahunt@buffalo.edu
+Email: 645-4760jinjun@buffalo.edu
+Email: 645-3184ahunt@buffalo.eduprofessor
+Email: 645-2323tkosar@buffalo.eduprofessordepartment
+Email: 645-0216yaxiongx@buffalo.edu
+Email: 645-0562jsyuan@buffalo.edu
+Email: 645-1558govind@buffalo.edu
+Email: 645-1589wendong@buffalo.edu
+Email: 645-1557doermann@buffalo.edu
+Email: 645-2323tkosar@buffalo.edu
+Email: 645-4747chandola@buffalo.edu
+Email: 645-1557doermann@buffalo.edusuny
+Email: 645-1587siweilyu@buffalo.edusuny
+Email: 645-4750changyou@buffalo.eduassistant
+Name: michaelgmeredith
+Name: tim
+Name: christopher meiklejohn
+Name: davidgarlansoftware
+Name: jonathanaldrich
+Name: mei23nuxpe6py5f0y55hpgk4xdgtntkcacdubx1nyflqcsqbmyvuwb
+Name: hjysrcov
+Name: li xml
+Name: hjur09gol
+Name: lipaul luo
+Name: li
+Name: yck
+Name: attila a yavuz
+Name: william gauvinemail
+Name: william hendrix iii
+Name: john licato
+Name: yan zhang
+Name: louis kim
+Name: lawrence hall
+Name: john murraybruce
+Name: robert karam
+Name: james anderson
+Name: abraham kandel
+Name: kathleen moore
+Name: john skvoretz
+Name: jay ligatti
+Name: srinivas katkoori
+Name: mauricio pamplona segundo
+Name: wanwan li
+Name: hao zheng
+Name: paul sanberg
+Name: yicheng tu
+Name: douglas w hood
+Name: peter r mouton
+Name: marvin andujar
+Name: matthew peterson
+Name: alaska nativeare
+Name: jobsjob titlemalefemaleinformatics
+Name: overviewzippia
+Name: heres
+Name: alex kugell
+Name: year
+Name: awardedasian467 degrees
+Name: masanta clara county
+Name: majorscarr 2carr
+Name: mysqljamie zawinski
+Name: paul buchheit
+Name: engineers
+Name: tim brayonly
+Name: kristina trajkovska
+Name: tim
+Name: paypalpierre omidyar
+Name: paul
+Name: thomas microgrid
+Name: thomas
+Name: st thomasdiversity and inclusion
+Name: william n pennington
+Name: reno homepage
+Name: lee
+Name: david eprofessor emeritus
+Name: nikhilpatrick c fischer
+Name: mark sgeorge herbert
+Name: mary loucollegiate lecturer emerita
+Name: bldgbanovic
+Name: michael jadjunct
+Name: quentin fcodirector
+Name: valeriaarthur f thurnau professormary
+Name: robotics buildingjohnson
+Name: john fprofessor
+Name: elliotarthur f thurnau professorprofessor
+Name: justinassistant professor
+Name: johnlecturer iii
+Name: nancy
+Name: michaelrichard h orenstein division
+Name: bldgbodwin
+Name: andrew
+Name: jasonassociate professor
+Name: danaimorris wellman
+Name: betty williams
+Name: mark wprofessor
+Name: kevin jassociate
+Name: john ejohn l tishman
+Name: jeffrey slecturer
+Name: john pclaude e shannon
+Name: avenueann arbor
+Name: jack hu
+Name: harris
+Name: david robertlecturer
+Name: kimberly khalsalecturer iii
+Name: donald
+Name: north quadcompton
+Name: kang gkevin
+Name: heres
+Name: matt
+Name: moti mashiah
+Name: sam
+Name: dulli
+Name: ben wood
+Name: chris bartley
+Name: koreth
+Name: marty cagan
+Name: jan gabriel
+Name: yuri
+Name: george tucker
+Name: dirk
+Name: jim
+Name: chris
+Name: don denoncourt
+Name: al tenhundfeld
+Name: sean barton
+Name: boyong
+Name: makarenko
+Name: david reynolds
+Name: john
+Name: jesse brightman
+Name: markus klemm
+Name: justin etheredge
+Name: timothy
+Name: tim
+Name: jonathan dale
+Name: andrei neculau
+Name: luke
+Name: mihai
+Name: andrew
+Name: joey defrancesco
+Name: glen allen
+Name: microservices
+Name: learnt html
+Name: journeyman
+Name: brown
+Name: phil kendall
+Name: don
+Name: jeremy pulcifer
+Name: donei
+Name: benny alexander
+Name: jan
+Name: paolo
+Name: justin
+Name: jesus jayaro
+Name: giovanny quimbayo
+Name: adam lippe
+Name: samarah
+Name: samarahs
+Name: francis king
+Name: carolyn seaman
+Name: mohammad samarah
+Name: lippe
+Name: andrew bainbridgesmith
+Name: jack erskine 320
+Name: ben adams
+Name: oliver batchelor
+Name: sam pell
+Name: jack erskine
+Name: jack morgan
+Name: jack erskine  room
+Name: peter glassenbury
+Name: tracy henderson
+Name: sharon mcgregor
+Name: jack erskine rm
+Name: jay holland
+Name: jack erskine 221
+Name: joffre horlor
+Name: james atlas
+Name: walter guttmann
+Email: phuoc.tran-gia@canterbury.ac.nz
+Email: matthew.mattar@canterbury.ac.nz
+Email: jack.morgan@canterbury.ac.nz
+Email: matthias.galster@canterbury.ac.nz
+Email: andreas.willig@canterbury.ac.nz
+Email: tanja.mitrovic@canterbury.ac.nz
+Email: kourosh.neshatian@canterbury.ac.nz
+Email: belinda.lansley@canterbury.ac.nz
+Email: walter.guttmann@canterbury.ac.nz
+Email: joanne.roberts@canterbury.ac.nz
+Email: marina.filipovic@canterbury.ac.nz
+Email: greg.ewing@canterbury.ac.nz
+Email: sharon.mcgregor@canterbury.ac.nz
+Email: katia.delu@canterbury.ac.nz
+Email: andrew.cockburn@canterbury.ac.nz
+Email: blair.mcmaster@canterbury.ac.nz
+Email: adrian.white@canterbury.ac.nz
+Email: fabian.gilson@canterbury.ac.nz
+Email: kat.bell@canterbury.ac.nz
+Email: moffat.mathews@canterbury.ac.nz
+Email: oliver.batchelor@canterbury.ac.nz
+Email: sam.schofield@pg.canterbury.ac.nz
+Name: sasha cooper
+Name: more11
+Name: ben mann
+Name: tom conerly
+Name: kamal ndousse
+Name: ben west
+Name: path7
+Name: andy jones
+Name: jeff kaufman
+Name: benjamin hilton 
+Name: ben kuhn
+Name: george mcgowan
+Name: engineering4
+Name: tanya reilly
+Name: moreroman
+Name: al sweigart
+Name: max roser
+Name: software apps
+Name: masters degree
+Name: charles william harrison
+Name: hong z tankeysight
+Name: weng c chew
+Name: scott d sudhoffmichael
+Name: dean
+Name: michael r melloch
+Name: david j
+Name: husheng li
+Name: vladimir m shalaevbob
+Name: peter
+Name: michael manfra
+Name: philip e pare
+Name: chun wang
+Name: meng cuiassociate
+Name: nick trbovich
+Name: mary jo schwartz
+Name: junjie qin
+Name: david b janes
+Name: mark johnson
+Name: thomas duncan
+Name: mark s lundstrom
+Name: luis gomez
+Name: joseph makin
+Name: ryan newton
+Name: anne burnett
+Name: david i inouye
+Name: richard j
+Name: katherine birck head
+Name: kevin j webb
+Name: dean emerita
+Name: junfei li
+Name: robert l givan
+Name: charlie humichael
+Name: jeffrey m siskind
+Name: christopher brinton
+Name: steven d pekarekdr
+Name: edward g tiedemann jr
+Name: charles a boumanshowalter
+Name: james davis
+Name: wendy
+Name: michael
+Name: mimi
+Name: zhihong chen
+Name: daniel s elliott
+Name: carla zoltowski
+Name: michael d zoltowskithomas j
+Name: haiyan wang
+Name: basil s turner
+Name: dan jiaosynopsys
+Name: thomas roth
+Name: marie gordon
+Name: yong chen
+Name: james s lehnert
+Name: patricia l epstein
+Name: donald w feddersen
+Name: michael a capano
+Name: mithuna s thottethodi
+Name: katherine birck
+Email: zjacob@purdue.edu
+Email: zhu0@purdue.edu
+Email: kimkt@purdue.edu
+Email: sbagchi@purdue.edu
+Email: yunglu@ecn.purdue.edu
+Email: pomeranz@ecn.purdue.edu
+Email: lhj@purdue.edu
+Email: pbermel@purdue.edu
+Email: mckinnjd@purdue.edu
+Email: ychu@purdue.edu
+Email: bhave@purdue.edu
+Email: saeedm@purdue.edu
+Email: amakur@purdue.edu
+Email: danaw@purdue.edu
+Email: vr@purdue.edu
+Email: djiao@purdue.edu
+Email: yongchen@purdue.edu
+Name: frank m shipman
+Name: jeff huang
+Name: robert lightfoot
+Name: peterson buildingmaps  directions
+Name: khanh nguyen
+Name: jian lis
+Name: james stiless
+Name: charles e  mary jane spahr professor
+Name: johnson
+Name: learningroboticsjonathan brumberg
+Name: mohammad alians
+Name: jennifer lohoefeners
+Name: john gibbonss
+Name: jonathan brumbergs
+Name: david johnsons
+Name: john padens
+Name: james mcnaughtons
+Name: david petrs
+Name: kim
+Name: learningjilu li
+Name: duncan
+Name: roy a roberts
+Name: systemsadam g rouse
+Name: christopher allens
+Name: michael branickys
+Name: interpretationjennifer lohoefener
+Name: mappingpatrick mccormick
+Name: kenneth demarests
+Name: francis m thomas
+Name: jilu lis
+Name: glenn prescotts
+Name: li
+Name: james r millers
+Name: joseph evanss
+Name: dan f servey
+Name: patrick mccormicks
+Name: kong
+Name: erik perrinss
+Name: gary
+Name: slawson hall
+Name: matthew moores
+Name: jerzy w grzymalabusses
+Name: tamzidul hoques
+Email: dwp@ku.edu
+Email: jianli@ku.edu
+Name: linda sellie
+Name: michael krone
+Name: daniel katzbraunschweig
+Name: jeffrey epstein
+Name: christopher musco
+Name: judy brown
+Name: peter depasquale
+Name: haldun hadimioglu
+Name: susana garciahenriquez
+Name: dan goncalves
+Name: boris aronov
+Name: henry ruston
+Name: justin cappos
+Name: edward wong
+Name: thomas reddington
+Name: john iacono
+Name: abu dhabi
+Name: john sterling
+Name: chen fengassistant
+Name: jay chen
+Name: melvin conway
+Name: jan chong
+Name: thomas j mccabe
+Name: jorge aranda
+Name: tom dunne
+Name: jo erskine hannay
+Name: sallyann freudenberg
+Name: greg wilson
+Name: failurepronenessnagappan
+Name: laurie williams
+Name: john nosek
+Name: steve mcconnell
+Name: eric raymond
+Name: andy oram
+Name: herraiz
+Name: a e hassan
+Name: andrew ko
+Name: contractsin 2007
+Name: tom hurlbutt
+Name: robert
+Name: hassan
+Name: rick graziani
+Name: charlie mcdowell
+Name: terry smith
+Name: jim whitehead
+Name: donald m wibergwibergsoeucscedu
+Name: alex pang
+Name: allen van gelder
+Name: zehang richard li
+Name: richard jullig
+Name: wei kangwekangucscedu
+Name: hamid r sadjadpour
+Name: john veseckyveseckysoeucscedu
+Name: francis x giraldo
+Name: linda werner
+Name: james shanahan
+Name: robert lundrolunducscedu
+Name: kangsoeucscedu
+Name: jonathan woody
+Name: kumar malavalli
+Name: andrew quinn
+Name: michael m oye
+Name: david bernick
+Name: gabriel hugh
+Name: chris parsa
+Name: david helmbold
+Name: norman makoto
+Name: steve whittaker
+Name: leilani h gilpinlgilpinucscedu
+Name: yang liuyangliuucscedu
+Name: adam m smithamsmithucscedu
+Name: mike parsa
+Name: jack baskin
+Name: david haussler
+Name: emerita
+Name: paul a parker
+Name: christopher yonge
+Name: chen qian
+Name: sujung kimsujungkimucscedu
+Name: katherine currie isbister
+Name: michael mateasmichaelmsoeucscedu
+Name: angela n brooksanbrooksucscedu
+Name: raquel prado
+Name: steve
+Name: steve mcguire
+Name: nhan nguyennnguy125ucscedu
+Name: david draper
+Name: yu zhang
+Name: jeffrey flanigan
+Name: pankaj mehra
+Name: t bhattintbhattiucscedu
+Name: ahmed hamdyahamdyucscedu
+Name: david alexander
+Name: michael s isaacsonmsisoeucscedunarinder
+Name: leonard a ferrarileferrarucscedu
+Name: robert l coffman
+Name: james davis
+Name: patrick tantalo
+Name: bradley r smith
+Name: daniel h kim
+Name: marcella gomez
+Name: a ali yanikyanikucscedu
+Name: lianne russellshlrusseucscedu
+Name: max dunnemdunnesoeucscedubaskin engineering
+Name: sarah meyerrameyerucscedu
+Name: camilla forsbergcforsbersoeucscedu
+Name: kathryn e ringlandkringlanucscedu
+Name: brian michael hansen
+Name: john musacchio
+Name: david deamer
+Name: marcela alfarocrdoba
+Name: jeff lefevrejlefevrecsucscedu
+Name: peter alvaropalvaroucscedu
+Name: xin eric wangxwang366ucscedu
+Name: alvaro a cardenasalvarocardenasucscedu
+Name: john skardon
+Name: herbert leeherbiesoeucscedu
+Name: michael johnmbjohnucscedu
+Name: jeffrey bergaminijbergamiucscedu
+Name: matthew guthaus
+Name: david c harrisondcharrisucscedu
+Name: josephson
+Name: richard edward
+Name: david leedlee105ucscedu
+Name: patrick mantey
+Email: meparsa@ucsc.edu
+Email: makeson@soe.ucsc.edu
+Email: fjf@ucsc.edu
+Email: ahalder@ucsc.edu
+Email: larrabee@ucsc.edu
+Email: friedlan@soe.ucsc.edu
+Email: cromom@soe.ucsc.edu
+Email: idemertz@ucsc.edu
+Name: leecultura
+Name: anne tndel
+Name: benjamin kille
+Name: mohamed idries
+Name: yujie xing
+Name: stefan hochwarter
+Name: peng liu
+Name: vojislav vujosevic
+Name: george adrian stoicahead
+Name: thomas brox rst
+Name: george adrian stoica
+Name: patrick mikalef
+Name: monica divitini
+Name: eric monteiro
+Name: melissa yan
+Name: farzana quayyum
+Name: anh nguyen duc
+Name: jingyue li
+Name: abdullah bahmani
+Name: john krogstie
+Name: thomas sterlie
+Email: kaban.koochakpour@ntnu.no
+Email: mathias.l.mohus@ntnu.no
+Name: william j white
+Name: fanomccormick director
+Name: matthewkaysamkriegmanassistant
+Name: peternorthwestern sealcomputer
+Name: daniel wlinna jrhanliuassociate
+Name: liangdaniel wlinna jrsenior
+Name: robert r mccormick
+Name: samkriegmanaleksandarkuzmanovicprofessor
+Name: johnvillasenoradjunct professoremailjohnvillasenorrobvoigtassistant
+Name: benjamin slivka
+Name: paul
+Name: damian
+Name: dan c marinescu
+Name: liqiang wang
+Name: gary t leavens
+Name: damla turgut
+Name: liaw
+Name: meng su
+Name: adam bondi
+Name: james r meehl innovation commons
+Name: shahid hussain
+Name: melanie ford
+Name: barry brinkman
+Name: thomas rossi
+Name: andrew miglerlectureramiglercalpolyedu116203
+Name: michael haungsprofessormhaungscalpolyedu14228game
+Name: dekhtyarprofessordekhtyarcalpolyedu14212
+Name: paul andersonassociate professorpander14calpolyedu14222
+Name: paul hatalskylecturerphatalskcalpolyedu14206
+Name: john plancklecturerjplanckcalpolyedu20200
+Name: christopher siulecturercesiucalpolyedu14236
+Name: learningdavid parkinsonlecturerdsparkincalpolyedu14240
+Name: systemslubomir stanchevprofessorlstanchecalpolyedu14230
+
+
+
+
+
+
+Name: haonan lu                                          Email: None
+Name: matthew knepley211a                                Email: None
+Name: miller338f davis                                   Email: None
+Name: srihari email                                      Email: None
+Name: hongxin hu                                         Email: None
+Name: jennifer winikus                                   Email: None
+Name: xu330 davis                                        Email: None
+Name: david doermann                                     Email: None
+Name: a erdem sariyuce323 davis hallphone                Email: None
+Name: jesse hartloff                                     Email: None
+Name: haonan lu email                                    Email: None
+Name: oliver kennedy                                     Email: None
+Name: matthew hertz                                      Email: None
+Name: dame315 davis                                      Email: None
+Name: xie321 davis                                       Email: None
+Name: carl                                               Email: None
+Name: matthew                                            Email: None
+Name: kenneth joseph335 davis                            Email: None
+Name: ji338g davis                                       Email: None
+Name: nalini ratha                                       Email: None
+Name: gao347 davis hallphone                             Email: None
+Name: kris schindler                                     Email: None
+Name: paul dickson348                                    Email: None
+Name: alan hunt354 davis                                 Email: None
+Name: paul dickson                                       Email: None
+Name: david doermann215b                                 Email: None
+Name: andrew hirsch113m                                  Email: None
+Name: jinjun xiong                                       Email: None
+Name: qiao email chunming qiao                           Email: None
+Name: alan hunt                                          Email: None
+Name: kenneth joseph                                     Email: None
+Name: chen wang                                          Email: None
+Name: ji email                                           Email: None
+Name: email jennifer winikus                             Email: None
+Name: jinhui xu                                          Email: None
+Name: chen                                               Email: None
+Name: ken regan email                                    Email: None
+Name: university211a                                     Email: None
+Name: carl alphonce                                      Email: None
+Name: kaiyi ji                                           Email: None
+Name: matthew knepley                                    Email: None
+Name: eric mikida                                        Email: None
+Name: changyou chen                                      Email: None
+Name: algorithmscall atri                                Email: None
+Name: jinjun xiong316                                    Email: None
+Name: davis                                              Email: None
+Name: wen dong306 davis hallphone                        Email: None
+Name: roger                                              Email: None
+Name: shi li                                             Email: None
+Name: eric mikida208                                     Email: None
+Name: jinhui xu315 davis                                 Email: None
+Name: satish tripathi                                    Email: None
+Name: zhuoyue zhao                                       Email: None
+Name: xin                                                Email: None
+Name: university338l davis                               Email: None
+Name: davis hallphone                                    Email: None
+Name: wen dong                                           Email: None
+Name: kenneth joseph email                               Email: None
+Name: farshad ghanei                                     Email: None
+Name: chunming qiao                                      Email: None
+Name: jinhui xu email                                    Email: None
+Name: george mason                                       Email: None
+Name: zhao338i davis hallphone                           Email: None
+Name: anomaly detectioncall                              Email: None
+Name: jesse hartloff344                                  Email: None
+Name: andrew hirsch                                      Email: None
+Name: gao                                                Email: None
+Name: engineeringfacebookinstagramlinkedin               Email: None
+Name: kosar338j davis                                    Email: None
+Name: tom hayes338d davis hallphone                      Email: None
+Name: shi li328 davis                                    Email: None
+Name: ken regan                                          Email: None
+Name: davis hall buffalo                                 Email: None
+Name: university311 davis hallphone                      Email: None
+Name: andrew bainbridgesmith                             Email: None
+Name: jack erskine 320                                   Email: None
+Name: ben adams                                          Email: None
+Name: oliver batchelor                                   Email: None
+Name: sam pell                                           Email: None
+Name: jack erskine                                       Email: None
+Name: jack morgan                                        Email: None
+Name: jack erskine  room                                 Email: None
+Name: peter glassenbury                                  Email: None
+Name: tracy henderson                                    Email: None
+Name: sharon mcgregor                                    Email: None
+Name: jack erskine rm                                    Email: None
+Name: jay holland                                        Email: None
+Name: jack erskine 221                                   Email: None
+Name: joffre horlor                                      Email: None
+Name: james atlas                                        Email: None
+Name: walter guttmann                                    Email: None
+Name: charles william harrison                           Email: None
+Name: hong z tankeysight                                 Email: None
+Name: weng c chew                                        Email: None
+Name: scott d sudhoffmichael                             Email: None
+Name: dean                                               Email: None
+Name: michael r melloch                                  Email: None
+Name: david j                                            Email: None
+Name: husheng li                                         Email: None
+Name: vladimir m shalaevbob                              Email: None
+Name: peter                                              Email: None
+Name: michael manfra                                     Email: None
+Name: philip e pare                                      Email: None
+Name: chun wang                                          Email: None
+Name: meng cuiassociate                                  Email: None
+Name: nick trbovich                                      Email: None
+Name: mary jo schwartz                                   Email: None
+Name: junjie qin                                         Email: None
+Name: david b janes                                      Email: None
+Name: mark johnson                                       Email: None
+Name: thomas duncan                                      Email: None
+Name: mark s lundstrom                                   Email: None
+Name: luis gomez                                         Email: None
+Name: joseph makin                                       Email: None
+Name: ryan newton                                        Email: None
+Name: anne burnett                                       Email: None
+Name: david i inouye                                     Email: None
+Name: richard j                                          Email: None
+Name: katherine birck head                               Email: None
+Name: kevin j webb                                       Email: None
+Name: dean emerita                                       Email: None
+Name: junfei li                                          Email: None
+Name: robert l givan                                     Email: None
+Name: charlie humichael                                  Email: None
+Name: jeffrey m siskind                                  Email: None
+Name: christopher brinton                                Email: None
+Name: steven d pekarekdr                                 Email: None
+Name: edward g tiedemann jr                              Email: None
+Name: charles a boumanshowalter                          Email: None
+Name: james davis                                        Email: None
+Name: wendy                                              Email: None
+Name: michael                                            Email: None
+Name: mimi                                               Email: None
+Name: zhihong chen                                       Email: None
+Name: daniel s elliott                                   Email: None
+Name: carla zoltowski                                    Email: None
+Name: michael d zoltowskithomas j                        Email: None
+Name: haiyan wang                                        Email: None
+Name: basil s turner                                     Email: None
+Name: dan jiaosynopsys                                   Email: None
+Name: thomas roth                                        Email: None
+Name: marie gordon                                       Email: None
+Name: yong chen                                          Email: yongchen@purdue.edu
+Name: james s lehnert                                    Email: None
+Name: patricia l epstein                                 Email: None
+Name: donald w feddersen                                 Email: None
+Name: michael a capano                                   Email: None
+Name: mithuna s thottethodi                              Email: None
+Name: katherine birck                                    Email: None
+Name: jian lis                                           Email: jianli@ku.edu
+Name: james stiless                                      Email: None
+Name: charles e  mary jane spahr professor               Email: None
+Name: johnson                                            Email: None
+Name: learningroboticsjonathan brumberg                  Email: None
+Name: mohammad alians                                    Email: None
+Name: jennifer lohoefeners                               Email: None
+Name: john gibbonss                                      Email: None
+Name: jonathan brumbergs                                 Email: None
+Name: david johnsons                                     Email: None
+Name: john padens                                        Email: None
+Name: james mcnaughtons                                  Email: None
+Name: david petrs                                        Email: None
+Name: kim                                                Email: None
+Name: learningjilu li                                    Email: None
+Name: duncan                                             Email: None
+Name: roy a roberts                                      Email: None
+Name: systemsadam g rouse                                Email: None
+Name: christopher allens                                 Email: None
+Name: michael branickys                                  Email: None
+Name: interpretationjennifer lohoefener                  Email: None
+Name: mappingpatrick mccormick                           Email: None
+Name: kenneth demarests                                  Email: None
+Name: francis m thomas                                   Email: None
+Name: jilu lis                                           Email: None
+Name: glenn prescotts                                    Email: None
+Name: li                                                 Email: None
+Name: james r millers                                    Email: None
+Name: joseph evanss                                      Email: None
+Name: dan f servey                                       Email: None
+Name: patrick mccormicks                                 Email: None
+Name: kong                                               Email: None
+Name: erik perrinss                                      Email: None
+Name: gary                                               Email: None
+Name: slawson hall                                       Email: None
+Name: matthew moores                                     Email: None
+Name: jerzy w grzymalabusses                             Email: None
+Name: tamzidul hoques                                    Email: None
+Name: rick graziani                                      Email: None
+Name: charlie mcdowell                                   Email: None
+Name: terry smith                                        Email: None
+Name: jim whitehead                                      Email: None
+Name: donald m wibergwibergsoeucscedu                    Email: None
+Name: alex pang                                          Email: None
+Name: allen van gelder                                   Email: None
+Name: zehang richard li                                  Email: None
+Name: richard jullig                                     Email: None
+Name: wei kangwekangucscedu                              Email: None
+Name: hamid r sadjadpour                                 Email: None
+Name: john veseckyveseckysoeucscedu                      Email: None
+Name: francis x giraldo                                  Email: None
+Name: linda werner                                       Email: None
+Name: james shanahan                                     Email: None
+Name: robert lundrolunducscedu                           Email: None
+Name: kangsoeucscedu                                     Email: idemertz@ucsc.edu
+Name: jonathan woody                                     Email: None
+Name: kumar malavalli                                    Email: None
+Name: andrew quinn                                       Email: None
+Name: michael m oye                                      Email: None
+Name: david bernick                                      Email: None
+Name: gabriel hugh                                       Email: None
+Name: chris parsa                                        Email: None
+Name: david helmbold                                     Email: None
+Name: norman makoto                                      Email: None
+Name: steve whittaker                                    Email: None
+Name: leilani h gilpinlgilpinucscedu                     Email: None
+Name: yang liuyangliuucscedu                             Email: None
+Name: adam m smithamsmithucscedu                         Email: None
+Name: mike parsa                                         Email: None
+Name: jack baskin                                        Email: None
+Name: david haussler                                     Email: None
+Name: emerita                                            Email: None
+Name: paul a parker                                      Email: None
+Name: christopher yonge                                  Email: None
+Name: chen qian                                          Email: None
+Name: sujung kimsujungkimucscedu                         Email: None
+Name: katherine currie isbister                          Email: None
+Name: michael mateasmichaelmsoeucscedu                   Email: None
+Name: angela n brooksanbrooksucscedu                     Email: None
+Name: raquel prado                                       Email: None
+Name: steve                                              Email: None
+Name: steve mcguire                                      Email: None
+Name: nhan nguyennnguy125ucscedu                         Email: None
+Name: david draper                                       Email: None
+Name: yu zhang                                           Email: None
+Name: jeffrey flanigan                                   Email: None
+Name: pankaj mehra                                       Email: None
+Name: t bhattintbhattiucscedu                            Email: None
+Name: ahmed hamdyahamdyucscedu                           Email: None
+Name: david alexander                                    Email: None
+Name: michael s isaacsonmsisoeucscedunarinder            Email: None
+Name: leonard a ferrarileferrarucscedu                   Email: None
+Name: robert l coffman                                   Email: None
+Name: patrick tantalo                                    Email: None
+Name: bradley r smith                                    Email: None
+Name: daniel h kim                                       Email: None
+Name: marcella gomez                                     Email: None
+Name: a ali yanikyanikucscedu                            Email: None
+Name: lianne russellshlrusseucscedu                      Email: None
+Name: max dunnemdunnesoeucscedubaskin engineering        Email: None
+Name: sarah meyerrameyerucscedu                          Email: None
+Name: camilla forsbergcforsbersoeucscedu                 Email: None
+Name: kathryn e ringlandkringlanucscedu                  Email: None
+Name: brian michael hansen                               Email: None
+Name: john musacchio                                     Email: None
+Name: david deamer                                       Email: None
+Name: marcela alfarocrdoba                               Email: None
+Name: jeff lefevrejlefevrecsucscedu                      Email: None
+Name: peter alvaropalvaroucscedu                         Email: None
+Name: xin eric wangxwang366ucscedu                       Email: None
+Name: alvaro a cardenasalvarocardenasucscedu             Email: None
+Name: john skardon                                       Email: None
+Name: herbert leeherbiesoeucscedu                        Email: None
+Name: michael johnmbjohnucscedu                          Email: None
+Name: jeffrey bergaminijbergamiucscedu                   Email: None
+Name: matthew guthaus                                    Email: None
+Name: david c harrisondcharrisucscedu                    Email: None
+Name: josephson                                          Email: None
+Name: richard edward                                     Email: None
+Name: david leedlee105ucscedu                            Email: idemertz@ucsc.edu
+Name: patrick mantey                                     Email: None
+Name: leecultura                                         Email: None
+Name: anne tndel                                         Email: None
+Name: benjamin kille                                     Email: None
+Name: mohamed idries                                     Email: None
+Name: yujie xing                                         Email: None
+Name: stefan hochwarter                                  Email: None
+Name: peng liu                                           Email: None
+Name: vojislav vujosevic                                 Email: None
+Name: george adrian stoicahead                           Email: None
+Name: thomas brox rst                                    Email: None
+Name: george adrian stoica                               Email: None
+Name: patrick mikalef                                    Email: None
+Name: monica divitini                                    Email: None
+Name: eric monteiro                                      Email: None
+Name: melissa yan                                        Email: None
+Name: farzana quayyum                                    Email: None
+Name: anh nguyen duc                                     Email: None
+Name: jingyue li                                         Email: None
+Name: abdullah bahmani                                   Email: None
+Name: john krogstie                                      Email: None
+Name: thomas sterlie                                     Email: None

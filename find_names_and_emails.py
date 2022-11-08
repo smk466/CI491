@@ -1,0 +1,50 @@
+import spacy
+import json
+import re
+
+english_nlp = spacy.load('en_core_web_sm')
+english_nlp.max_length = 10000000
+alphabetKeysList = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+
+def retrieve_names_and_emails(content):
+    nameList = []
+    emailList = []
+
+    for text in content:
+        #print (text)
+        spacy_parser = english_nlp(text)
+        emailRegex = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
+
+        tempNameList = []
+        tempEmailList = []
+
+        for entity in spacy_parser.ents:
+            if entity.label_ == 'PERSON':
+                if '\n' in entity.text:
+                    entity.text.replace('\n', ' ')
+                if entity.text[:1].upper() in alphabetKeysList: # and entity.text.isalpha():
+                    tempNameList = verify_by_name_dictionary(content, entity.text, text)
+            elif re.fullmatch(emailRegex, entity.text):
+                #print(f'Found Email: {entity.text} of webpage number: {x+1}', file=f)
+                tempEmailList.append(entity.text)
+        nameList.extend(list(set(tempNameList)))
+        emailList.extend(list(set(tempEmailList)))
+    
+    return nameList, emailList
+
+def verify_by_name_dictionary(content, entityText, text):
+    f = open("name_dictionary.json", "r")
+    nameDictionary = json.load(f)
+    f.close()
+
+    verifiedNameList = []
+
+    firstChar = entityText[:1].upper()
+    for name in nameDictionary[firstChar]:
+        if (entityText.find(name.lower()) != -1):
+            x = content.index(text)
+            new_text =  re.sub(r"[^a-zA-Z0-9 ]","", entityText)
+            #print(f'Found Name: {new_text} of webpage number: {x+1}', file=f)
+            verifiedNameList.append(new_text)
+    
+    return verifiedNameList

@@ -1,0 +1,552 @@
+﻿Name: michael widenius
+Name: jamie zawinski
+Name: john carmack
+Name: dave cutler
+Name: jennifer wegerer
+Name: paul buchheit
+Name: tim
+Name: max levchin
+('michael widenius', '')
+('jamie zawinski', '')
+('john carmack', '')
+('dave cutler', '')
+('jennifer wegerer', '')
+('paul buchheit', '')
+('tim', '')
+('max levchin', '')
+Name: erica joy baker
+Name: everythings
+Name: lindsey
+Name: kelsey alpaio
+('erica joy baker', '')
+('everythings', '')
+('lindsey', '')
+('kelsey alpaio', '')
+Name: engineeringibm
+Name: analystibm
+Name: ratings56528
+Name: murtadha altameemi
+('engineeringibm', '')
+('analystibm', '')
+('ratings56528', '')
+('murtadha altameemi', '')
+Name: matt rickard
+Name: matty stratton
+Name: ryan burgess
+Name: jason lengstorf
+Name: dan
+Name: richard gallcoeditor
+Name: mark imbriaco
+Name: chris
+Name: jessie frazelle
+Name: sarah drasner
+Name: richard gall 
+Name: dan abramov
+Name: corey quinn
+('matt rickard', '')
+('matty stratton', '')
+('ryan burgess', '')
+('jason lengstorf', '')
+('dan', '')
+('richard gallcoeditor', '')
+('mark imbriaco', '')
+('chris', '')
+('jessie frazelle', '')
+('sarah drasner', '')
+('richard gall ', '')
+('dan abramov', '')
+('corey quinn', '')
+Name: audrey webster
+('audrey webster', '')
+Name: jobs
+Name: heres
+Name: engineers
+('jobs', '')
+('heres', '')
+('engineers', '')
+Name: managers
+('managers', '')
+Name: tim brayonly
+Name: paypalpierre omidyar
+Name: engineers
+Name: mysqljamie zawinski
+Name: kristina trajkovska
+Name: paul buchheit
+Name: tim
+('tim brayonly', '')
+('paypalpierre omidyar', '')
+('engineers', '')
+('mysqljamie zawinski', '')
+('kristina trajkovska', '')
+('paul buchheit', '')
+('tim', '')
+Name: heres
+('heres', '')
+Name: jessica mong
+('jessica mong', '')
+Name: stephen yauprofessor
+Name: javier gonzalezsanchez
+Name: kevin garyassociate
+Name: kevin gary
+Name: robert heinrichsrobert heinrichslecturer
+Name: michael findler
+Name: tim lindquist
+Name: christopher marcmchristopher marinstructor
+Name: tim
+Name: michael findlerlecturer
+('stephen yauprofessor', '')
+('javier gonzalezsanchez', '')
+('kevin garyassociate', '')
+('kevin gary', '')
+('robert heinrichsrobert heinrichslecturer', '')
+('michael findler', '')
+('tim lindquist', '')
+('christopher marcmchristopher marinstructor', '')
+('tim', '')
+('michael findlerlecturer', '')
+Name: davidgarlansoftware
+Name: christopher meiklejohn
+Name: jonathanaldrich
+Name: michaelgmeredith
+Name: tim
+('davidgarlansoftware', '')
+('christopher meiklejohn', '')
+('jonathanaldrich', '')
+('michaelgmeredith', '')
+('tim', '')
+Name: srihari email
+Name: carl alphonce
+Name: miller338f davis
+Name: xie321 davis
+Name: email jennifer winikus
+Name: qiao email chunming qiao
+Name: jinhui xu315 davis
+Name: jinhui xu email
+Name: eric mikida
+Name: kaiyi ji
+Name: hongxin hu
+Name: david doermann
+Name: kosar338j davis
+Name: ken regan
+Name: david doermann215b
+Name: wen dong
+Name: andrew hirsch
+Name: kenneth joseph
+Name: jinjun xiong316
+Name: kenneth joseph email
+Name: satish tripathi
+Name: jinhui xu
+Name: jennifer winikus
+Name: davis hallphone
+Name: alan hunt
+Name: davis
+Name: kenneth joseph335 davis
+Name: matthew knepley211a
+Name: andrew hirsch113m
+Name: jesse hartloff
+Name: wen dong306 davis hallphone
+Name: farshad ghanei
+Name: xin
+Name: zhuoyue zhao
+Name: zhao338i davis hallphone
+Name: algorithmscall atri
+Name: tom hayes338d davis hallphone
+Name: university338l davis
+Name: paul dickson348
+Name: nalini ratha
+Name: anomaly detectioncall
+Name: oliver kennedy
+Name: matthew knepley
+Name: haonan lu email
+Name: chunming qiao
+Name: alan hunt354 davis
+Name: davis hall buffalo
+Name: gao347 davis hallphone
+Name: jesse hartloff344
+Name: matthew hertz
+Name: matthew
+Name: a erdem sariyuce323 davis hallphone
+Name: university311 davis hallphone
+Name: engineeringfacebookinstagramlinkedin
+Name: haonan lu
+Name: eric mikida208
+Name: kris schindler
+Name: george mason
+Name: carl
+Name: changyou chen
+Name: xu330 davis
+Name: gao
+Name: roger
+Name: ji email
+Name: university211a
+Name: chen wang
+Name: jinjun xiong
+Name: shi li
+Name: ji338g davis
+Name: paul dickson
+Name: shi li328 davis
+Name: dame315 davis
+Name: ken regan email
+Name: chen
+Email: 645-3185kds@buffalo.eduprofessor
+Email: 645-2323tkosar@buffalo.eduprofessordepartment
+Email: 645-4750changyou@buffalo.eduassistant
+Email: 645-4760jinjun@buffalo.edu
+Email: 645-4755epmikida@buffalo.edu
+Email: 645-1601zjin@buffalo.edu
+Email: 645-3186rsridhar@buffalo.edu
+Email: 645-4750changyou@buffalo.edu
+Email: 645-4735zzhao35@buffalo.edu
+Email: 645-3185kds@buffalo.edu
+Email: 645-1590shil@buffalo.edu
+Email: 645-1564nratha@buffalo.edu
+Email: 645-4737miller@buffalo.edu
+Email: 645-4738regan@buffalo.edu
+Email: 645-2464atri@buffalo.eduprofessordepartment
+Email: 645-0216yaxiongx@buffalo.edu
+Email: 645-1587siweilyu@buffalo.edu
+Email: 645-4733hongxinh@buffalo.edu
+Email: 645-4736mhertz@buffalo.eduassociate
+Email: 645-3182bina@buffalo.edu
+Email: 645-1586avereshc@buffalo.edu
+Email: 645-0216yaxiongx@buffalo.eduassistant
+Email: 645-4747chandola@buffalo.eduassociate
+Email: 645-1558govind@buffalo.edu
+Email: 645-3184ahunt@buffalo.eduprofessor
+Email: 645-2901president@buffalo.edu
+Email: 645-1597okennedy@buffalo.edu
+Email: 645-4757jwinikus@buffalo.eduassistant
+Email: 645-1596lziarek@buffalo.eduassociate
+Email: 645-4766eblanton@buffalo.edu
+Email: 645-2670kdantu@buffalo.edu
+Email: 645-3183shambhu@buffalo.edu
+Email: 645-0562jsyuan@buffalo.eduprofessordirector
+Email: 645-3184ahunt@buffalo.edu
+Email: 645-1597okennedy@buffalo.eduassociate
+Email: 645-4729hartloff@buffalo.eduassociate
+Email: 645-0306kaiyiji@buffalo.edu
+Email: 645-4752mblanton@buffalo.edu
+Email: 645-1588inwogu@buffalo.eduassociate
+Email: 645-4757jwinikus@buffalo.edu
+Email: 645-4759haonanlu@buffalo.edu
+Email: 645-1601zjin@buffalo.eduassociate
+Email: 645-1602rohini@buffalo.eduprofessorassociate
+Email: 645-4753demirbas@buffalo.edu
+Email: 645-0566cwx@buffalo.eduassistant
+Email: 645-4754farshadg@buffalo.edu
+Email: 645-0562jsyuan@buffalo.edu
+Email: 645-4752mblanton@buffalo.eduassociate
+Email: 645-4735zzhao35@buffalo.eduassistant
+Email: 645-2323tkosar@buffalo.edu
+Email: 645-4737miller@buffalo.eduub
+Email: 645-0682kjoseph@buffalo.eduassistant
+Email: 645-4747chandola@buffalo.edu
+Email: 645-1587siweilyu@buffalo.edusuny
+Email: 645-3183shambhu@buffalo.edustrategic
+Email: 645-0566cwx@buffalo.edu
+Email: 645-1595zimingzh@buffalo.edu
+Email: 645-1589wendong@buffalo.edu
+Email: 645-0247akhirsch@buffalo.edu
+Email: 645-1602rohini@buffalo.edu
+Email: 645-1595zimingzh@buffalo.eduassistant
+Email: 645-4741xinhe@buffalo.edu
+Email: 645-1596lziarek@buffalo.edu
+Email: 645-4740nasrinak@buffalo.edu
+Email: 645-1557doermann@buffalo.edusuny
+Email: 645-1592erdem@buffalo.edu
+Email: 645-0682kjoseph@buffalo.edu
+Email: 645-0747knepley@buffalo.edu
+Email: 645-1588inwogu@buffalo.edu
+Email: 645-4751qiao@buffalo.edu
+Email: 645-4736mhertz@buffalo.edu
+Email: 645-1557doermann@buffalo.edu
+Email: 645-4769sreyasee@buffalo.edu
+Email: 645-4760jinjun@buffalo.edusuny
+('srihari email', '645-3186rsridhar@buffalo.edu')
+('carl alphonce', '')
+('miller338f davis', '645-4737miller@buffalo.edu')
+('xie321 davis', '645-3185kds@buffalo.eduprofessor')
+('email jennifer winikus', '645-4757jwinikus@buffalo.eduassistant')
+('qiao email chunming qiao', '')
+('jinhui xu315 davis', '645-3185kds@buffalo.eduprofessor')
+('jinhui xu email', '')
+('eric mikida', '645-4755epmikida@buffalo.edu')
+('kaiyi ji', '645-0306kaiyiji@buffalo.edu')
+('hongxin hu', '645-4733hongxinh@buffalo.edu')
+('david doermann', '645-1557doermann@buffalo.edusuny')
+('kosar338j davis', '645-2323tkosar@buffalo.eduprofessordepartment')
+('ken regan', '645-4738regan@buffalo.edu')
+('david doermann215b', '645-1557doermann@buffalo.edusuny')
+('wen dong', '645-1589wendong@buffalo.edu')
+('andrew hirsch', '645-0247akhirsch@buffalo.edu')
+('kenneth joseph', '645-0682kjoseph@buffalo.eduassistant')
+('jinjun xiong316', '645-4760jinjun@buffalo.edu')
+('kenneth joseph email', '645-0682kjoseph@buffalo.eduassistant')
+('satish tripathi', '')
+('jinhui xu', '645-4760jinjun@buffalo.edu')
+('jennifer winikus', '645-4757jwinikus@buffalo.eduassistant')
+('davis hallphone', '')
+('alan hunt', '645-3184ahunt@buffalo.eduprofessor')
+('davis', '')
+('kenneth joseph335 davis', '645-0682kjoseph@buffalo.eduassistant')
+('matthew knepley211a', '645-0747knepley@buffalo.edu')
+('andrew hirsch113m', '645-0247akhirsch@buffalo.edu')
+('jesse hartloff', '645-4729hartloff@buffalo.eduassociate')
+('wen dong306 davis hallphone', '645-1589wendong@buffalo.edu')
+('farshad ghanei', '645-4754farshadg@buffalo.edu')
+('xin', '645-4741xinhe@buffalo.edu')
+('zhuoyue zhao', '645-4735zzhao35@buffalo.edu')
+('zhao338i davis hallphone', '')
+('algorithmscall atri', '')
+('tom hayes338d davis hallphone', '')
+('university338l davis', '')
+('paul dickson348', '')
+('nalini ratha', '645-1564nratha@buffalo.edu')
+('anomaly detectioncall', '')
+('oliver kennedy', '645-1597okennedy@buffalo.edu')
+('matthew knepley', '645-0747knepley@buffalo.edu')
+('haonan lu email', '645-4759haonanlu@buffalo.edu')
+('chunming qiao', '645-4750changyou@buffalo.eduassistant')
+('alan hunt354 davis', '645-3184ahunt@buffalo.eduprofessor')
+('davis hall buffalo', '645-3183shambhu@buffalo.edu')
+('gao347 davis hallphone', '645-4737miller@buffalo.edu')
+('jesse hartloff344', '645-4729hartloff@buffalo.eduassociate')
+('matthew hertz', '645-4736mhertz@buffalo.eduassociate')
+('matthew', '')
+('a erdem sariyuce323 davis hallphone', '')
+('university311 davis hallphone', '')
+('engineeringfacebookinstagramlinkedin', '')
+('haonan lu', '645-4759haonanlu@buffalo.edu')
+('eric mikida208', '645-4755epmikida@buffalo.edu')
+('kris schindler', '645-4747chandola@buffalo.eduassociate')
+('george mason', '645-1557doermann@buffalo.edusuny')
+('carl', '')
+('changyou chen', '645-4750changyou@buffalo.eduassistant')
+('xu330 davis', '645-0306kaiyiji@buffalo.edu')
+('gao', '')
+('roger', '')
+('ji email', '645-1587siweilyu@buffalo.edu')
+('university211a', '')
+('chen wang', '645-4750changyou@buffalo.eduassistant')
+('jinjun xiong', '645-4760jinjun@buffalo.edu')
+('shi li', '645-1590shil@buffalo.edu')
+('ji338g davis', '645-3185kds@buffalo.eduprofessor')
+('paul dickson', '')
+('shi li328 davis', '')
+('dame315 davis', '645-3185kds@buffalo.eduprofessor')
+('ken regan email', '645-4738regan@buffalo.edu')
+('chen', '')
+Name: hjur09gol
+Name: li xml
+Name: li
+Name: yck
+Name: hjysrcov
+Name: mei23nuxpe6py5f0y55hpgk4xdgtntkcacdubx1nyflqcsqbmyvuwb
+Name: lipaul luo
+('hjur09gol', '')
+('li xml', '')
+('li', '')
+('yck', '')
+('hjysrcov', '')
+('mei23nuxpe6py5f0y55hpgk4xdgtntkcacdubx1nyflqcsqbmyvuwb', '')
+('lipaul luo', '')
+Name: sharon mcgregor
+Name: jack erskine rm
+Name: peter glassenbury
+Name: jack erskine
+Name: jack erskine  room
+Name: jack erskine 320
+Name: andrew bainbridgesmith
+Name: ben adams
+Name: joffre horlor
+Name: jack morgan
+Name: jay holland
+Name: walter guttmann
+Name: jack erskine 221
+Name: james atlas
+Name: tracy henderson
+Name: sam pell
+Name: oliver batchelor
+Email: greg.ewing@canterbury.ac.nz
+Email: marina.filipovic@canterbury.ac.nz
+Email: jack.morgan@canterbury.ac.nz
+Email: phuoc.tran-gia@canterbury.ac.nz
+Email: andrew.cockburn@canterbury.ac.nz
+Email: matthias.galster@canterbury.ac.nz
+Email: sharon.mcgregor@canterbury.ac.nz
+Email: kourosh.neshatian@canterbury.ac.nz
+Email: matthew.mattar@canterbury.ac.nz
+Email: tanja.mitrovic@canterbury.ac.nz
+Email: walter.guttmann@canterbury.ac.nz
+Email: kat.bell@canterbury.ac.nz
+Email: blair.mcmaster@canterbury.ac.nz
+Email: andreas.willig@canterbury.ac.nz
+Email: oliver.batchelor@canterbury.ac.nz
+Email: joanne.roberts@canterbury.ac.nz
+Email: katia.delu@canterbury.ac.nz
+Email: sam.schofield@pg.canterbury.ac.nz
+Email: moffat.mathews@canterbury.ac.nz
+Email: adrian.white@canterbury.ac.nz
+Email: belinda.lansley@canterbury.ac.nz
+Email: fabian.gilson@canterbury.ac.nz
+('sharon mcgregor', 'sharon.mcgregor@canterbury.ac.nz')
+('jack erskine rm', 'jack.morgan@canterbury.ac.nz')
+('peter glassenbury', 'walter.guttmann@canterbury.ac.nz')
+('jack erskine', 'jack.morgan@canterbury.ac.nz')
+('jack erskine  room', 'jack.morgan@canterbury.ac.nz')
+('jack erskine 320', 'jack.morgan@canterbury.ac.nz')
+('andrew bainbridgesmith', 'andreas.willig@canterbury.ac.nz')
+('ben adams', 'belinda.lansley@canterbury.ac.nz')
+('joffre horlor', 'oliver.batchelor@canterbury.ac.nz')
+('jack morgan', 'jack.morgan@canterbury.ac.nz')
+('jay holland', 'jack.morgan@canterbury.ac.nz')
+('walter guttmann', 'walter.guttmann@canterbury.ac.nz')
+('jack erskine 221', 'jack.morgan@canterbury.ac.nz')
+('james atlas', 'moffat.mathews@canterbury.ac.nz')
+('tracy henderson', 'andrew.cockburn@canterbury.ac.nz')
+('sam pell', 'kat.bell@canterbury.ac.nz')
+('oliver batchelor', 'oliver.batchelor@canterbury.ac.nz')
+Name: masanta clara county
+Name: awardedasian467 degrees
+Name: majorscarr 2carr
+('masanta clara county', '')
+('awardedasian467 degrees', '')
+('majorscarr 2carr', '')
+Name: failurepronenessnagappan
+Name: melvin conway
+Name: tom hurlbutt
+Name: tom dunne
+Name: hassan
+Name: sallyann freudenberg
+Name: jan chong
+Name: contractsin 2007
+Name: eric raymond
+Name: laurie williams
+Name: greg wilson
+Name: john nosek
+Name: a e hassan
+Name: jo erskine hannay
+Name: thomas j mccabe
+Name: herraiz
+Name: steve mcconnell
+Name: andy oram
+Name: jorge aranda
+Name: andrew ko
+Name: robert
+('failurepronenessnagappan', '')
+('melvin conway', '')
+('tom hurlbutt', '')
+('tom dunne', '')
+('hassan', '')
+('sallyann freudenberg', '')
+('jan chong', '')
+('contractsin 2007', '')
+('eric raymond', '')
+('laurie williams', '')
+('greg wilson', '')
+('john nosek', '')
+('a e hassan', '')
+('jo erskine hannay', '')
+('thomas j mccabe', '')
+('herraiz', '')
+('steve mcconnell', '')
+('andy oram', '')
+('jorge aranda', '')
+('andrew ko', '')
+('robert', '')
+Name: jobsjob titlemalefemaleinformatics
+Name: alaska nativeare
+Name: overviewzippia
+('jobsjob titlemalefemaleinformatics', '')
+('alaska nativeare', '')
+('overviewzippia', '')
+Name: john fprofessor
+Name: jasonassociate professor
+Name: north quadcompton
+Name: john pclaude e shannon
+Name: lee
+Name: jack hu
+Name: bldgbanovic
+Name: johnlecturer iii
+Name: michaelrichard h orenstein division
+Name: nikhilpatrick c fischer
+Name: robotics buildingjohnson
+Name: betty williams
+Name: mark sgeorge herbert
+Name: danaimorris wellman
+Name: quentin fcodirector
+Name: justinassistant professor
+Name: mary loucollegiate lecturer emerita
+Name: kevin jassociate
+Name: jeffrey slecturer
+Name: kang gkevin
+Name: john ejohn l tishman
+Name: donald
+Name: kimberly khalsalecturer iii
+Name: nancy
+Name: bldgbodwin
+Name: harris
+Name: valeriaarthur f thurnau professormary
+Name: mark wprofessor
+Name: david robertlecturer
+Name: david eprofessor emeritus
+Name: elliotarthur f thurnau professorprofessor
+Name: andrew
+Name: avenueann arbor
+Name: michael jadjunct
+('john fprofessor', '')
+('jasonassociate professor', '')
+('north quadcompton', '')
+('john pclaude e shannon', '')
+('lee', '')
+('jack hu', '')
+('bldgbanovic', '')
+('johnlecturer iii', '')
+('michaelrichard h orenstein division', '')
+('nikhilpatrick c fischer', '')
+('robotics buildingjohnson', '')
+('betty williams', '')
+('mark sgeorge herbert', '')
+('danaimorris wellman', '')
+('quentin fcodirector', '')
+('justinassistant professor', '')
+('mary loucollegiate lecturer emerita', '')
+('kevin jassociate', '')
+('jeffrey slecturer', '')
+('kang gkevin', '')
+('john ejohn l tishman', '')
+('donald', '')
+('kimberly khalsalecturer iii', '')
+('nancy', '')
+('bldgbodwin', '')
+('harris', '')
+('valeriaarthur f thurnau professormary', '')
+('mark wprofessor', '')
+('david robertlecturer', '')
+('david eprofessor emeritus', '')
+('elliotarthur f thurnau professorprofessor', '')
+('andrew', '')
+('avenueann arbor', '')
+('michael jadjunct', '')
+Name: heres
+('heres', '')
+Name: st thomasdiversity and inclusion
+Name: thomas
+Name: paul
+Name: thomas microgrid
+('st thomasdiversity and inclusion', '')
+('thomas', '')
+('paul', '')
+('thomas microgrid', '')
+Name: ayman
+Name: rachidbenlamri
+Name: rachid benlamri
+Name: hassannaser
+Name: abdulsalam
+Name: hassan naser
+('ayman', '')
+('rachidbenlamri', '')
+('rachid benlamri', '')
+('hassannaser', '')
+('abdulsalam', '')
+('hassan naser', '')
