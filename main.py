@@ -1,6 +1,7 @@
 import re
 from difflib import SequenceMatcher
 from operator import contains
+import nameEmailComparison
 
 
 try:
@@ -42,7 +43,7 @@ def get_links_from_search_query():
     pageCount = 0
     pageLimit = 50
     linkContainsExcluded = False
-    for j in search(query, tld="co.in", num=10, stop=50, pause=2):
+    for j in search(query, tld="co.in", num=10, stop=30, pause=2):
         for l in excludedLinkKeywords:
             if l in j:
                 linkContainsExcluded = True
@@ -136,18 +137,24 @@ def find_and_check_names():
             for email in emailList:
                 print(f'Email: {email}', file=f)
 
-            for name in nameList:
-                for email in emailList:
-                    if determine_name_and_email_similarity(name, email):
-                        nameEmailDictionary[name] = email
-                        #emailList.remove(email)
-                    else:
-                        nameEmailDictionary[name] = "None"   
-        #print(f'Name email dictionary: {nameEmailDictionary}')
-        print('\n\n\n\n\n', file=f)
-        for name, email in nameEmailDictionary.items(): 
-            #print(f'Name: {name}, Email: {email}', file=f)
-            print("Name: {0:50} Email: {1}".format(name, email), file=f)
+            matchingNames = nameEmailComparison.compareLists(nameList, emailList)   
+
+        #     for name in nameList:
+        #         for email in emailList:
+        #             if determine_name_and_email_similarity(name, email):
+        #                 nameEmailDictionary[name] = email
+        #                 #emailList.remove(email)
+        #             else:
+        #                 nameEmailDictionary[name] = "None"   
+        # #print(f'Name email dictionary: {nameEmailDictionary}')
+        # print('\n\n\n\n\n', file=f)
+        # for name, email in nameEmailDictionary.items(): 
+        #     #print(f'Name: {name}, Email: {email}', file=f)
+        #     print("Name: {0:50} Email: {1}".format(name, email), file=f)
+            for i in matchingNames:
+                print(i, file=f)
+
+
     
     f.close()
 
