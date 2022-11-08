@@ -3,11 +3,8 @@ from find_names_and_emails import retrieve_names_and_emails
 
 nameEmailDictionary = {}
     
-def find_and_check_names(content):
-    
-
+def write_to_file(content):
     with open("output.txt", "w", encoding="utf-8-sig") as f:
-        #print(content)
         print(f'Now writing {len(content)} pages into output.txt')
         
         nameList, emailList = retrieve_names_and_emails(content)

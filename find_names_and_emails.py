@@ -9,11 +9,9 @@ alphabetKeysList = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 
 def retrieve_names_and_emails(content):
     nameList = []
     emailList = []
-    print(f'Content size in find_names_and_emails: {len(content)}')
+    #print(f'Content size in find_names_and_emails: {len(content)}')
 
-    count = 0
     for text in content:
-        #print (text)
         spacy_parser = english_nlp(text)
         emailRegex = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
 
@@ -26,21 +24,11 @@ def retrieve_names_and_emails(content):
                     entity.text.replace('\n', ' ')
                 if entity.text[:1].upper() in alphabetKeysList: # and entity.text.isalpha():
                     tempNameList.extend(verify_by_name_dictionary(entity.text))
-                    print(f'Temp name list (verified names): {tempNameList}')
             elif re.fullmatch(emailRegex, entity.text):
                 #print(f'Found Email: {entity.text} of webpage number: {x+1}', file=f)
                 tempEmailList.append(entity.text)
         nameList.extend(list(set(tempNameList)))
         emailList.extend(list(set(tempEmailList)))
-        count += 1
-        print(f'Name list: {nameList}')
-        print(f'Email list: {emailList}')
-        #print(f'Check content iteration: {count}')
-        
-        #print(f'Name list size: {len(nameList)}')
-        #print(f'Email list size: {len(emailList)}')
-        #with open("output_content.txt", "a", encoding="utf-8-sig") as f:
-        #    print(f'Content Count: {count} \n\n {text}', file=f)
     
     return nameList, emailList
 
