@@ -42,5 +42,6 @@ def retrieve_webpage_contents(links):
         # drop blank lines
         text = '\n'.join(chunk for chunk in chunks if chunk)
         content.append(text)
+    print(f'Content size in web_content_retrieve: {len(content)}')
     return content
     
