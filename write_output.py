@@ -1,4 +1,3 @@
-import name_email_comparison
 from find_names_and_emails import retrieve_names_and_emails
 
 nameEmailDictionary = {}
@@ -7,16 +6,13 @@ def write_to_file(content):
     with open("output.txt", "w", encoding="utf-8-sig") as f:
         print(f'Now writing {len(content)} pages into output.txt')
         
-        nameList, emailList = retrieve_names_and_emails(content)
+        nameList, emailList, matchingNamesEmails = retrieve_names_and_emails(content)
 
         for name in nameList:
             print(f'Name: {name}', file=f)
         for email in emailList:
-            print(f'Email: {email}', file=f)  
-
-        matchingNames = name_email_comparison.compareLists(nameList, emailList) 
-
-        for i in matchingNames:
+            print(f'Email: {email}', file=f)   
+        for i in matchingNamesEmails:
             print(i, file=f)
 
         #     for name in nameList:

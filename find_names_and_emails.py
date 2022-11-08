@@ -1,6 +1,7 @@
 import spacy
 import json
 import re
+import name_email_comparison
 
 english_nlp = spacy.load('en_core_web_sm')
 english_nlp.max_length = 10000000
@@ -9,6 +10,7 @@ alphabetKeysList = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 
 def retrieve_names_and_emails(content):
     nameList = []
     emailList = []
+    matchingNamesEmails = []
     #print(f'Content size in find_names_and_emails: {len(content)}')
 
     for text in content:
@@ -29,8 +31,10 @@ def retrieve_names_and_emails(content):
                 tempEmailList.append(entity.text)
         nameList.extend(list(set(tempNameList)))
         emailList.extend(list(set(tempEmailList)))
+
+        matchingNamesEmails.extend(name_email_comparison.compareLists(nameList, emailList))
     
-    return nameList, emailList
+    return nameList, emailList, matchingNamesEmails
 
 def verify_by_name_dictionary(entityText):
     f = open("name_dictionary.json", "r")
