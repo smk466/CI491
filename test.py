@@ -43,7 +43,6 @@ def get_links_from_search_query():
     pageCount = 0
     pageLimit = 50
     linkContainsExcluded = False
-    for j in search(query, tld="co.in", num=10, stop=50, pause=2):
         for l in excludedLinkKeywords:
             if l in j:
                 linkContainsExcluded = True
