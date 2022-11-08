@@ -53,3 +53,17 @@ def verify_by_name_dictionary(entityText):
             verifiedNameList.append(new_text)
     
     return verifiedNameList
+
+
+        #     for name in nameList:
+        #         for email in emailList:
+        #             if determine_name_and_email_similarity(name, email):
+        #                 nameEmailDictionary[name] = email
+        #                 #emailList.remove(email)
+        #             else:
+        #                 nameEmailDictionary[name] = "None"   
+        # #print(f'Name email dictionary: {nameEmailDictionary}')
+        # print('\n\n\n\n\n', file=f)
+        # for name, email in nameEmailDictionary.items(): 
+        #     #print(f'Name: {name}, Email: {email}', file=f)
+        #     print("Name: {0:50} Email: {1}".format(name, email), file=f)
