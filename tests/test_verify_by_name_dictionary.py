@@ -4,26 +4,32 @@ from find_names_and_emails import verify_by_name_dictionary
 class TestVerifyByNameDictionary(unittest.TestCase):
 
     def test_normal_names(self):
-        verifiedNames = verify_by_name_dictionary("daniel wlinna")
-        self.assertTrue(verifiedNames)
+        name = "daniel wlinna"
+        verifiedNamesList = verify_by_name_dictionary(name)
+        self.assertTrue(name in verifiedNamesList)
 
     def test_individual_names_first(self):
-        verifiedNames = verify_by_name_dictionary("daniel")
-        self.assertTrue(verifiedNames)
+        name = "daniel"
+        verifiedNamesList = verify_by_name_dictionary(name)
+        self.assertTrue(name in verifiedNamesList)
 
     def test_individual_names_middle(self):
-        verifiedNames = verify_by_name_dictionary("wlinna")
-        self.assertTrue(verifiedNames)
+        name = "wlinna"
+        verifiedNamesList = verify_by_name_dictionary(name)
+        self.assertTrue(name in verifiedNamesList)
 
     def test_individual_names_last(self):
-        verifiedNames = verify_by_name_dictionary("jrhanliu")
-        self.assertTrue(verifiedNames)
+        name = "jrhanliu"
+        verifiedNamesList = verify_by_name_dictionary(name)
+        self.assertTrue(name in verifiedNamesList)
 
     def test_individual_names_last_combined(self):
-        verifiedNames = verify_by_name_dictionary("jrhanliuassociate")
-        self.assertFalse(verifiedNames)
+        name = "jrhanliuassociate"
+        verifiedNamesList = verify_by_name_dictionary(name)
+        self.assertFalse(name in verifiedNamesList)
 
     def test_names_without_spaces(self):
-        verifiedNames = verify_by_name_dictionary("daniel wlinna jrhanliuassociate")
-        self.assertFalse(verifiedNames)
+        name = "daniel wlinna jrhanliuassociate"
+        verifiedNamesList = verify_by_name_dictionary(name)
+        self.assertFalse(name in verifiedNamesList)
 
