@@ -7,7 +7,7 @@ excludedLinkKeywords: list = ['.jpg', '.png', '.jpeg', 'youtube', 'wikipedia']
 query: str = "Software Engineering+People"
 links: list = []
 
-def get_links_from_search_query(numOfLinks: int) -> list:
+def get_links_from_search_query(numOfLinks: int) -> list[str]:
     ##GET LINKS FROM SEARCH QUERY:
     totalPageCount: int = 0
     pageCount: int = 0
