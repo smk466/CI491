@@ -3,16 +3,16 @@ import requests
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
-page_title =[]
-page_body =[]
-page_head = []
-content = []
-names = []
-headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0'}
+page_title: list =[]
+page_body: list =[]
+page_head: list = []
+content: list = []
+names: list = []
+headers: dict[str, str] = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0'}
 
-def retrieve_webpage_contents(links):
+def retrieve_webpage_contents(links: list) -> list:
     ##ACHIEVE  CONTENT:
-    totalPageCountSoup = 0
+    totalPageCountSoup: int = 0
     for i in links:
         totalPageCountSoup += 1
         page = requests.get(i, headers=headers, verify=False)

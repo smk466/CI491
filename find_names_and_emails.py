@@ -4,21 +4,21 @@ import re
 import name_email_comparison
 
 english_nlp = spacy.load('en_core_web_sm')
-english_nlp.max_length = 10000000
-alphabetKeysList = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+english_nlp.max_length: int = 10000000
+alphabetKeysList: list[str] = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 
-def retrieve_names_and_emails(content):
-    nameList = []
-    emailList = []
-    matchingNamesEmails = []
+def retrieve_names_and_emails(content: list) -> tuple[list[str], list[str], list[str]]:
+    nameList: list[str] = []
+    emailList: list[str] = []
+    matchingNamesEmails: list[str] = []
     #print(f'Content size in find_names_and_emails: {len(content)}')
 
     for text in content:
         spacy_parser = english_nlp(text)
         emailRegex = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
 
-        tempNameList = []
-        tempEmailList = []
+        tempNameList: list[str] = []
+        tempEmailList: list[str] = []
 
         for entity in spacy_parser.ents:
             if entity.label_ == 'PERSON':
@@ -36,12 +36,10 @@ def retrieve_names_and_emails(content):
     
     return nameList, emailList, matchingNamesEmails
 
-def verify_by_name_dictionary(entityText):
-    f = open("name_dictionary.json", "r")
-    nameDictionary = json.load(f)
-    f.close()
-
-    verifiedNameList = []
+def verify_by_name_dictionary(entityText) -> list[str]:
+    with open("name_dictionary.json", "r") as f:
+        nameDictionary = json.load(f)
+    verifiedNameList: list[str] = []
 
     firstChar = entityText[:1].upper()
     for name in nameDictionary[firstChar]:
@@ -51,7 +49,7 @@ def verify_by_name_dictionary(entityText):
             new_text =  re.sub(r"[^a-zA-Z0-9 ]","", entityText)
             #print(f'Found Name: {new_text} of webpage number: {x+1}', file=f)
             verifiedNameList.append(new_text)
-    
+
     return verifiedNameList
 
 
