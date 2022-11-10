@@ -36,7 +36,7 @@ def retrieve_names_and_emails(content: list) -> tuple[list[str], list[str], list
     
     return nameList, emailList, matchingNamesEmails
 
-def verify_by_name_dictionary(entityText) -> list[str]:
+def verify_by_name_dictionary(entityText: str) -> list[str]:
     with open("name_dictionary.json", "r") as f:
         nameDictionary = json.load(f)
     verifiedNameList: list[str] = []
