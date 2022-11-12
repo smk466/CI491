@@ -11,7 +11,8 @@ def determine_name_and_email_similarity(name, email):
     return SequenceMatcher(None, name, email).ratio() > 0.5
         
 def main():
-    links = get_links_from_search_query()
+    numOfLinks: int = int(input("Number of links to web scrape: "))
+    links = get_links_from_search_query(numOfLinks)
     content = retrieve_webpage_contents(links)
     write_to_file(content)
     print("Done!")

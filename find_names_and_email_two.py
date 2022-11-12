@@ -1,6 +1,8 @@
-import spacy
 import json
 import re
+
+import spacy
+
 import name_email_comparison as nec
 
 english_nlp = spacy.load('en_core_web_sm')
@@ -18,7 +20,6 @@ def names_and_emails(content: list[str]) -> tuple[list[str], list[str], list[str
         matchingNamesEmails.extend(nec.compareLists(tempNameList, tempEmailList))
         nameList.extend(tempNameList)
         emailList.extend(tempEmailList)
-        print(f"Name list: {nameList}")
     return nameList, emailList, matchingNamesEmails
 
 def retrieve_names_and_emails(text: str) -> list[str]:
@@ -27,16 +28,19 @@ def retrieve_names_and_emails(text: str) -> list[str]:
     #tempMatchingNamesEmails: list = []
     spacy_parser = english_nlp(text)
     for entity in spacy_parser.ents:
-        if (identify_emails(entity)):
-            tempEmailList.extend(retrieve_emails(entity))
-        elif (identify_names_via_spacy(entity)):
+        # if (identify_emails(entity)):
+        #     tempEmailList.extend(retrieve_emails(entity))
+        #     print(f"Temp Email: {tempEmailList}")
+        tempEmailList.extend(retrieve_emails_two(entity))
+        if (identify_names_via_spacy(entity)):
             if ('\n' in entity.text):
                 entity.text.replace('\n', ' ')
             if (is_first_character_alphabet(entity) and verify_names_by_name_dictionary(entity)):
-                print(f"Entity text: {entity.text}")
                 tempNameList.append(entity.text)
-    print(f"TempName list: {tempNameList}")
     return tempNameList, tempEmailList
+
+def retrieve_emails_two(entity) -> list[str]:
+    return re.findall(r"[a-z0-9\.\-+_]+@[a-z0-9\.\-+_]+\.[a-z]+", entity.text)
 
 def identify_names_via_spacy(entity) -> bool:
     return entity.label_ == 'PERSON'
@@ -50,12 +54,12 @@ def verify_names_by_name_dictionary(entity) -> bool:
     firstChar = entity.text[:1].upper()
     return any((entity.text.split(" ")[0] == name.lower()) for name in nameDictionary[firstChar])
     
-def retrieve_emails(entity) -> list[str]:
-    #tempEmailList: list = []
-    #if (identify_emails(entity.text)):
-    #    tempEmailList.append(entity.text)
-    return [entity.text]
-    
-def identify_emails(entity) -> bool:
-    emailRegex = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
-    return re.fullmatch(emailRegex, entity.text)
+# def identify_emails(entity) -> bool:
+#     emailRegex = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
+#     return re.fullmatch(emailRegex, entity.text)
+
+# def retrieve_emails(entity) -> list[str]:
+#     #tempEmailList: list = []
+#     #if (identify_emails(entity.text)):
+#     #    tempEmailList.append(entity.text)
+#     return [entity.text]

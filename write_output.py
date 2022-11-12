@@ -4,7 +4,7 @@ import find_names_and_email_two as fnet
 
 nameEmailDictionary = {}
     
-def write_to_file(content):
+def write_to_file(content: list[str]) -> None:
     with open("output.txt", "w", encoding="utf-8-sig") as f:
         print(f'Now writing {len(content)} pages into output.txt')       
         #nameList, emailList, matchingNamesEmails = retrieve_names_and_emails(content)
