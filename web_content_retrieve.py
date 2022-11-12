@@ -10,6 +10,8 @@ content: list = []
 names: list = []
 headers: dict[str, str] = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0'}
 
+success_link: list = []
+
 def retrieve_webpage_contents(links: list) -> list:
     ##ACHIEVE  CONTENT:
     totalPageCountSoup: int = 0
@@ -20,6 +22,7 @@ def retrieve_webpage_contents(links: list) -> list:
             soup = BeautifulSoup(page.content, features = 'html.parser', from_encoding="iso-8859-1")
             #soup = BeautifulSoup(page.content, features = 'parser', from_encoding="iso-8859-1")
             print(f'{totalPageCountSoup}). Success ({page.status_code}): {i}')
+            success_link.append(i)
         else:
             print(f'{totalPageCountSoup}). Error(s) ({page.status_code}): {i}')
             continue
@@ -50,11 +53,15 @@ def retrieve_webpage_contents(links: list) -> list:
         # drop blank lines
         #text = text.replace('\n', ' ')
         text = '\n'.join(chunk for chunk in chunks if chunk)
-        #text = ' '.join(chunk for chunk in chunks if chunk)
-        #with open("output_contents.txt", "a", encoding="utf-8-sig") as f:
-        #    print(f'Link: {i}\n\n{text}', file=f)
-        #f.close
+        #text = ' '.join(chunk for chunk in chunks if chunk)       
         content.append(text)
     #print(f'Content size in web_content_retrieve: {len(content)}')
+    write_content_text_to_file()
     return content
+
+def write_content_text_to_file() -> None:
+    with open("output_contents.txt", "w", encoding="utf-8-sig") as f:
+        for text in content:
+            print(f'Link: {success_link[content.index(text)]}\n\n{text}\n\n', file=f)
+    f.close
     

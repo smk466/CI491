@@ -12,12 +12,14 @@ def write_to_file(content: list[str]) -> None:
         for name in nameList:
             print(f'Name: {name}', file=f)
         for email in emailList:
-            print(f'Email: {email}', file=f)  
+            print(f'Email: {email}', file=f)
+        for matches in matchingNamesEmails:
+            print(f'Name-Email: {matches}', file=f)
 
-        matchingNames = name_email_comparison.compareLists(nameList, emailList) 
+        #matchingNames = name_email_comparison.compareLists(nameList, emailList) 
 
-        for i in matchingNames:
-            print(i, file=f)
+        #for i in matchingNames:
+        #    print(i, file=f)
 
         #     for name in nameList:
         #         for email in emailList:
