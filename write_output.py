@@ -1,14 +1,14 @@
 import name_email_comparison
 from find_names_and_emails import retrieve_names_and_emails
+import find_names_and_email_two as fnet
 
 nameEmailDictionary = {}
     
 def write_to_file(content):
     with open("output.txt", "w", encoding="utf-8-sig") as f:
-        print(f'Now writing {len(content)} pages into output.txt')
-        
-        nameList, emailList = retrieve_names_and_emails(content)
-
+        print(f'Now writing {len(content)} pages into output.txt')       
+        #nameList, emailList, matchingNamesEmails = retrieve_names_and_emails(content)
+        nameList, emailList, matchingNamesEmails = fnet.names_and_emails(content)
         for name in nameList:
             print(f'Name: {name}', file=f)
         for email in emailList:

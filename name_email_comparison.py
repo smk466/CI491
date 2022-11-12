@@ -1,13 +1,13 @@
 from difflib import SequenceMatcher
 
-nameList = ["Chris Bryant", "Michael Jordan", "Michael Jackson", "Kobe Bryant"]
-emailList = ["C.Bryant@gmail.com","Kobe.Br@gmail.com","Mich.Jackson@gmail.com","Mich.Jordan@gmail.com"]
+nameList: list = ["Chris Bryant", "Michael Jordan", "Michael Jackson", "Kobe Bryant"]
+emailList: list = ["C.Bryant@gmail.com","Kobe.Br@gmail.com","Mich.Jackson@gmail.com","Mich.Jordan@gmail.com"]
 
-nameList2 = ["Khalid Salem", "Mutasem Salem"]
-emailList2 = ["kjs426@drexel.ed", "ms4268@drexel.edu"]
+nameList2: list = ["Khalid Salem", "Mutasem Salem"]
+emailList2: list = ["kjs426@drexel.ed", "ms4268@drexel.edu"]
 
 
-def compareLists(nameList, emailList):
+def compareLists(nameList: list[str], emailList: list[str]) -> list[str]:
     list = []
     for i in nameList:
         x = .30
@@ -24,6 +24,6 @@ def compareLists(nameList, emailList):
 
 
 
-compareLists(nameList, emailList)
+#compareLists(nameList, emailList)
 
 # print(similar("Apple", "Bapple"))
