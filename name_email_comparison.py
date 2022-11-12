@@ -55,7 +55,7 @@ def determine_most_likely_match(matchList: list) -> list[tuple]:
 
     return returnList
     
-def get_name_email_similarity_ratio(name: str, email: str):
+def get_name_email_similarity_ratio(name: str, email: str) -> float:
     return SequenceMatcher(None, name, email.split("@")[0]).ratio()
     
 def get_emails_that_are_matched(matchList: list) -> list:
