@@ -30,7 +30,7 @@ def determine_most_likely_match(matchList: list) -> list[tuple]:
     emailsChecked: list = []
     for emailTuple in emailsMatched:
         email = emailTuple[1]
-        print(f"Email in tuple: {email}")
+        #print(f"Email in tuple: {email}")
         if email in emailsChecked:
             continue   
         mostLikelyMatch: list = [""]
@@ -39,10 +39,10 @@ def determine_most_likely_match(matchList: list) -> list[tuple]:
             if matchTuple[1] != email:
                 continue
             if get_name_email_similarity_ratio(matchTuple[0], matchTuple[1]) > highestRatio:
-                print(f"mostLikelyMatch: {mostLikelyMatch}")
+                #print(f"mostLikelyMatch: {mostLikelyMatch}")
                 mostLikelyMatch[0] = matchTuple
                 highestRatio = get_name_email_similarity_ratio(matchTuple[0], matchTuple[1])
-                print(f"Highest ratio: {highestRatio}")
+                #print(f"Highest ratio: {highestRatio}")
         emailsChecked.append(email)
         returnList.append(mostLikelyMatch[0])
 
