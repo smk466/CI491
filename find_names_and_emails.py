@@ -4,8 +4,8 @@ import re
 import spacy
 from spacy.language import Language
 from spacy.tokens import Span
+from spacy.tokens import Doc
 
-import name_email_comparison
 import name_email_comparison as nec
 
 english_nlp: Language = spacy.load('en_core_web_sm')
@@ -29,7 +29,7 @@ def names_and_emails(content: list[str]) -> tuple[list[str], list[str], list[str
 
 def retrieve_names(text: str) -> list[str]:
     tempNameList: list = []
-    spacy_parser = english_nlp(text)
+    spacy_parser: Doc = english_nlp(text)
     for entity in spacy_parser.ents:
         if '\n' in entity.text:
             entity.text.replace('\n', ' ')
@@ -61,13 +61,13 @@ def identify_emails(entity: Span) -> bool:
 def write_entity_text_to_file() -> None:
     with open("output_entities.txt", "w", encoding="utf-8-sig") as f:
         for entity in entities:
-            print(f'Entity index: {entities.index(entity)}\n\n{entity.text}\n\n', file=f)
+            print(f'Entity index: {entities.index(entity)}\n\n{entity.text} ({entity.label_})\n\n', file=f)
     f.close
     
-    """
-    TODO:
-    1. Need to format names that are written in "last name, first name" as spacy doesn't recognize names like that
-    2. Need to find the cause and avoid name and other text's combination
-    3. Need to find out why spacy does not recognize names that are written seemly normal
-    4. Need to find out why some content texts are displaying "none" instead of information we might need
-    """
+"""
+TODO:
+1. Need to format names that are written in "last name, first name" as spacy doesn't recognize names like that
+2. Need to find the cause and avoid name and other text's combination
+3. Need to find out why spacy does not recognize names that are written seemly normal
+4. Need to find out why some content texts are displaying "none" instead of information we might need
+"""
