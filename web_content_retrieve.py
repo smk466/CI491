@@ -6,13 +6,13 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 page_title: list =[]
 page_body: list =[]
 page_head: list = []
-content: list = []
+content: list[str] = []
 names: list = []
 headers: dict[str, str] = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0'}
 
-success_link: list = []
+success_link: list[str] = []
 
-def retrieve_webpage_contents(links: list) -> list:
+def retrieve_webpage_contents(links: list[str]) -> list[str]:
     ##ACHIEVE  CONTENT:
     totalPageCountSoup: int = 0
     for i in links:
