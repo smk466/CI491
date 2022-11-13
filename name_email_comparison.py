@@ -20,10 +20,10 @@ def compareLists(nameList: list[str], emailList: list[str]) -> list[str]:
                 #emailList.remove(emailMatched)
         match = (name, emailMatched)
         matchList.append(match)
-    finalList: list = determine_most_likely_match(matchList)
+    finalList: list = iterate_each_tuple(matchList)
     return finalList        
 
-def determine_most_likely_match(matchList: list) -> list[tuple]:
+def iterate_each_tuple(matchList: list) -> list[tuple]:
     email: str
     emailsMatched: list = get_emails_that_are_matched(matchList)
     returnList: list = []
@@ -33,18 +33,8 @@ def determine_most_likely_match(matchList: list) -> list[tuple]:
         #print(f"Email in tuple: {email}")
         if email in emailsChecked:
             continue   
-        mostLikelyMatch: list = [""]
-        highestRatio: float = 0.0
-        for matchTuple in emailsMatched:
-            if matchTuple[1] != email:
-                continue
-            if get_name_email_similarity_ratio(matchTuple[0], matchTuple[1]) > highestRatio:
-                #print(f"mostLikelyMatch: {mostLikelyMatch}")
-                mostLikelyMatch[0] = matchTuple
-                highestRatio = get_name_email_similarity_ratio(matchTuple[0], matchTuple[1])
-                #print(f"Highest ratio: {highestRatio}")
+        returnList.append(determine_most_likely_match(emailsMatched, email))
         emailsChecked.append(email)
-        returnList.append(mostLikelyMatch[0])
 
     """
     1. Get all tuples that both names and emails are matched (Done)
@@ -66,6 +56,19 @@ def get_emails_that_are_matched(matchList: list) -> list:
             continue
         emailsMatched.append(item)
     return emailsMatched
+
+def determine_most_likely_match(emailsMatched: list[tuple], email: str) -> tuple:
+    mostLikelyMatch: list = [""]
+    highestRatio: float = 0.0
+    for matchTuple in emailsMatched:
+        if matchTuple[1] != email:
+            continue
+        if get_name_email_similarity_ratio(matchTuple[0], matchTuple[1]) > highestRatio:
+            #print(f"mostLikelyMatch: {mostLikelyMatch}")
+            mostLikelyMatch[0] = matchTuple
+            highestRatio = get_name_email_similarity_ratio(matchTuple[0], matchTuple[1])
+            #print(f"Highest ratio: {highestRatio}")
+    return mostLikelyMatch[0]
 
 #compareLists(nameList, emailList)
 
