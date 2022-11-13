@@ -1,70 +1,75 @@
-import spacy
 import json
 import re
 
-english_nlp = spacy.load('en_core_web_sm')
-english_nlp.max_length = 10000000
-alphabetKeysList = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+import spacy
+from spacy.language import Language
+from spacy.tokens import Span
 
-def retrieve_names_and_emails(content: list[str]) -> tuple[list[str], list[str], list[str]]:
+import name_email_comparison as nec
+
+english_nlp: Language = spacy.load('en_core_web_sm')
+english_nlp.max_length: int = 10000000
+alphabetKeysList: list[str] = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+
+entities: list = []
+
+def names_and_emails(content: list[str]) -> tuple[list[str], list[str], list[str]]:
     nameList: list[str] = []
     emailList: list[str] = []
-    matchingNamesEmails: list[str] = []
-    #print(f'Content size in find_names_and_emails: {len(content)}')
+    matchingNamesEmails: list[str] = [] 
+    for text in content:
+        tempNameList, tempEmailList = retrieve_names_and_emails(text)
+        tempEmailList.extend(retrieve_emails_two(text))
+        tempNameList = list(set(tempNameList))
+        tempEmailList = list(set(tempEmailList))
+        nameList.extend(tempNameList)
+        emailList.extend(tempEmailList)
+        matchingNamesEmails.extend(nec.compareLists(tempNameList, tempEmailList))
+        write_entity_text_to_file()
+    return nameList, emailList, matchingNamesEmails
 
-    for text in content:      
-        spacy_parser = english_nlp(text)
+def retrieve_names_and_emails(text: str) -> list[str]:
+    tempNameList: list = []
+    tempEmailList: list = []
+    spacy_parser = english_nlp(text)
+    for entity in spacy_parser.ents:
+        if '\n' in entity.text:
+            entity.text.replace('\n', ' ')
+        if (is_it_a_name_via_spacy(entity)) and (is_first_character_alphabet(entity)) and (is_the_name_in_name_dictionary(entity)):
+            new_text =  re.sub(r"[^a-zA-Z0-9 ]","", entity.text)
+            tempNameList.append(new_text)
+        entities.append(entity)
+    return tempNameList, tempEmailList
 
-        tempNameList = []
-        tempEmailList = []
+def retrieve_emails_two(text: str) -> list[str]:
+    return re.findall(r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b', text)
 
-        for entity in spacy_parser.ents:
-            if entity.label_ == 'PERSON':
-                if '\n' in entity.text:
-                    entity.text.replace('\n', ' ')
-                if entity.text[:1].upper() in alphabetKeysList: # and entity.text.isalpha():
-                    tempNameList.extend(verify_by_name_dictionary(entity.text))
-            elif identify_email(entity.text):
-                #print(f'Found Email: {entity.text} of webpage number: {x+1}', file=f)
-                tempEmailList.append(entity.text)
-        nameList.extend(list(set(tempNameList)))
-        emailList.extend(list(set(tempEmailList)))
-
-        matchingNamesEmails.extend(name_email_comparison.compareLists(tempNameList, tempEmailList))
-    
-    return nameList, emailList
-
-def verify_by_name_dictionary(entityText):
+def is_it_a_name_via_spacy(entity: Span) -> bool:
+    return entity.label_ == 'PERSON'
+           
+def is_first_character_alphabet(entity: Span) -> bool:
+    return entity.text[:1].upper() in alphabetKeysList
+            
+def is_the_name_in_name_dictionary(entity: Span) -> bool:
     with open("name_dictionary.json", "r") as f:
-        nameDictionary = json.load(f)
-    verifiedNameList = []
-
-    firstChar = entityText[:1].upper()
-    for name in nameDictionary[firstChar]:
-        #if (entityText.find(name.lower()) != -1):
-        if (entityText.split(" ")[0] == name.lower()):
-            #x = content.index(text)
-            new_text =  re.sub(r"[^a-zA-Z0-9 ]","", entityText)
-            #print(f'Found Name: {new_text} of webpage number: {x+1}', file=f)
-            verifiedNameList.append(new_text)
-
-    return verifiedNameList
-
-def identify_email(entityText: str) -> bool:
-    emailRegex = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
-    return re.fullmatch(emailRegex, entityText)
+        nameDictionary: dict[str, str] = json.load(f)
+    firstChar = entity.text[:1].upper()
+    return any((entity.text.split(" ")[0] == name.lower()) for name in nameDictionary[firstChar])
     
+def identify_emails(entity: Span) -> bool:
+    emailRegex = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
+    return re.fullmatch(emailRegex, entity.text)
 
-
-        #     for name in nameList:
-        #         for email in emailList:
-        #             if determine_name_and_email_similarity(name, email):
-        #                 nameEmailDictionary[name] = email
-        #                 #emailList.remove(email)
-        #             else:
-        #                 nameEmailDictionary[name] = "None"   
-        # #print(f'Name email dictionary: {nameEmailDictionary}')
-        # print('\n\n\n\n\n', file=f)
-        # for name, email in nameEmailDictionary.items(): 
-        #     #print(f'Name: {name}, Email: {email}', file=f)
-        #     print("Name: {0:50} Email: {1}".format(name, email), file=f)
+def write_entity_text_to_file() -> None:
+    with open("output_entities.txt", "w", encoding="utf-8-sig") as f:
+        for entity in entities:
+            print(f'Entity index: {entities.index(entity)}\n\n{entity.text}\n\n', file=f)
+    f.close
+    
+    """
+    TODO:
+    1. Need to format names that are written in "last name, first name" as spacy doesn't recognize names like that
+    2. Need to find the cause and avoid name and other text's combination
+    3. Need to find out why spacy does not recognize names that are written seemly normal
+    4. Need to find out why some content texts are displaying "none" instead of information we might need
+    """
