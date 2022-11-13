@@ -10,8 +10,8 @@ emailList2: list = ["kjs426@drexel.ed", "ms4268@drexel.edu"]
 def compareLists(nameList: list[str], emailList: list[str]) -> list[str]:
     matchList: list = []
     for name in nameList:
-        threshold = .30
-        emailMatched = ''
+        threshold: float = .30
+        emailMatched: str = ''
         for email in emailList[:]:
             temp = SequenceMatcher(lambda threshold: threshold == " ", name, email.split("@")[0]).ratio()
             if temp > threshold:

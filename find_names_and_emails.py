@@ -1,37 +1,34 @@
 import json
 import re
-import name_email_comparison
 
 import spacy
 from spacy.language import Language
 from spacy.tokens import Span
 
+import name_email_comparison
 import name_email_comparison as nec
 
 english_nlp: Language = spacy.load('en_core_web_sm')
 english_nlp.max_length: int = 10000000
 alphabetKeysList: list[str] = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 
-entities: list = []
+entities: list[Span] = []
 
 def names_and_emails(content: list[str]) -> tuple[list[str], list[str], list[str]]:
     nameList: list[str] = []
     emailList: list[str] = []
     matchingNamesEmails: list[str] = [] 
     for text in content:
-        tempNameList, tempEmailList = retrieve_names_and_emails(text)
-        tempEmailList.extend(retrieve_emails_two(text))
-        tempNameList = list(set(tempNameList))
-        tempEmailList = list(set(tempEmailList))
+        tempNameList: list[str] = retrieve_names(text)
+        tempEmailList: list[str] = retrieve_emails(text)
+        matchingNamesEmails.extend(nec.compareLists(tempNameList, tempEmailList))
         nameList.extend(tempNameList)
         emailList.extend(tempEmailList)
-        matchingNamesEmails.extend(nec.compareLists(tempNameList, tempEmailList))
         write_entity_text_to_file()
     return nameList, emailList, matchingNamesEmails
 
-def retrieve_names_and_emails(text: str) -> list[str]:
+def retrieve_names(text: str) -> list[str]:
     tempNameList: list = []
-    tempEmailList: list = []
     spacy_parser = english_nlp(text)
     for entity in spacy_parser.ents:
         if '\n' in entity.text:
@@ -40,10 +37,10 @@ def retrieve_names_and_emails(text: str) -> list[str]:
             new_text =  re.sub(r"[^a-zA-Z0-9 ]","", entity.text)
             tempNameList.append(new_text)
         entities.append(entity)
-    return tempNameList, tempEmailList
+    return list(set(tempNameList))
 
-def retrieve_emails_two(text: str) -> list[str]:
-    return re.findall(r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b', text)
+def retrieve_emails(text: str) -> list[str]:
+    return list(set(re.findall(r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b', text)))
 
 def is_it_a_name_via_spacy(entity: Span) -> bool:
     return entity.label_ == 'PERSON'
