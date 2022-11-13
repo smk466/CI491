@@ -32,9 +32,11 @@ def iterate_each_tuple(matchList: list) -> list[tuple]:
         email = emailTuple[1]
         #print(f"Email in tuple: {email}")
         if email in emailsChecked:
+            #emailsMatched.pop(emailsMatched.index(emailTuple))
             continue   
         returnList.append(determine_most_likely_match(emailsMatched, email))
         emailsChecked.append(email)
+        #emailsMatched.pop(emailsMatched.index(emailTuple))
 
     """
     1. Get all tuples that both names and emails are matched (Done)
@@ -67,6 +69,7 @@ def determine_most_likely_match(emailsMatched: list[tuple], email: str) -> tuple
             #print(f"mostLikelyMatch: {mostLikelyMatch}")
             mostLikelyMatch[0] = matchTuple
             highestRatio = get_name_email_similarity_ratio(matchTuple[0], matchTuple[1])
+            #emailsMatched.pop(emailsMatched.index(matchTuple))
             #print(f"Highest ratio: {highestRatio}")
     return mostLikelyMatch[0]
 
