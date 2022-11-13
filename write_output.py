@@ -1,7 +1,7 @@
 #from find_names_and_emails import retrieve_names_and_emails
 import find_names_and_emails as fne
 
-nameEmailDictionary = {}
+nameEmailDictionary: dict = {}
     
 def write_to_file(content: list[str]) -> None:
     with open("output.txt", "w", encoding="utf-8-sig") as f:

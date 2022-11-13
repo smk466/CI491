@@ -1,5 +1,6 @@
 import json
 import re
+import name_email_comparison
 
 import spacy
 from spacy.language import Language

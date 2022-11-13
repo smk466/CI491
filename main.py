@@ -7,7 +7,7 @@ from write_output import write_to_file
 
 #queryForLinkedin = 'site:linkedin.com/in/ AND "software engineering"'
 
-def determine_name_and_email_similarity(name, email):
+def determine_name_and_email_similarity(name: str, email: str) -> bool:
     return SequenceMatcher(None, name, email).ratio() > 0.5
         
 def main():
