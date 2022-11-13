@@ -2,10 +2,12 @@ import json
 import re
 
 import spacy
+from spacy.language import Language
+from spacy.tokens import Span
 
 import name_email_comparison as nec
 
-english_nlp = spacy.load('en_core_web_sm')
+english_nlp: Language = spacy.load('en_core_web_sm')
 english_nlp.max_length: int = 10000000
 alphabetKeysList: list[str] = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 
@@ -53,19 +55,19 @@ def retrieve_emails_two(text) -> list[str]:
     #return re.findall(r"[a-z0-9\.\-+_]+@[a-z0-9\.\-+_]+\.[a-z]+", entity.text)
     return re.findall(r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b', text)
 
-def is_it_a_name_via_spacy(entity) -> bool:
+def is_it_a_name_via_spacy(entity: Span) -> bool:
     return entity.label_ == 'PERSON'
            
-def is_first_character_alphabet(entity) -> bool:
+def is_first_character_alphabet(entity: Span) -> bool:
     return entity.text[:1].upper() in alphabetKeysList
             
-def is_the_name_in_name_dictionary(entity) -> bool:
+def is_the_name_in_name_dictionary(entity: Span) -> bool:
     with open("name_dictionary.json", "r") as f:
         nameDictionary: dict[str, str] = json.load(f)
     firstChar = entity.text[:1].upper()
     return any((entity.text.split(" ")[0] == name.lower()) for name in nameDictionary[firstChar])
     
-def identify_emails(entity) -> bool:
+def identify_emails(entity: Span) -> bool:
     emailRegex = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
     return re.fullmatch(emailRegex, entity.text)
 
