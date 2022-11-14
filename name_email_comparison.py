@@ -26,7 +26,7 @@ def compareLists(nameList: list[str], emailList: list[str]) -> list[str]:
 def iterate_each_tuple(matchList: list) -> list[tuple]:
     email: str
     emailsMatched: list = get_emails_that_are_matched(matchList)
-    returnList: list = []
+    returnList: list[tuple] = []
     emailsChecked: list = []
     for emailTuple in emailsMatched:
         email = emailTuple[1]
