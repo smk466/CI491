@@ -17,8 +17,8 @@ def main() -> None:
     numOfLinks: int = int(input("Number of links to web scrape: "))
     links: list[str] = get_links_from_search_query(numOfLinks)
     content: list[LinkContent] = retrieve_webpage_contents(links)
-    remove_new_lines(content)
-    write_to_file(content)
+    cleanedContent: list[LinkContent] = remove_new_lines(content)
+    write_to_file(cleanedContent)
     print("Done!")
     
 if __name__ == '__main__':

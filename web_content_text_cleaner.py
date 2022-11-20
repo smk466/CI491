@@ -13,13 +13,14 @@ Plan to do:
 3. Try to eliminate any combined texts
 """
 
-def remove_new_lines(content: list[LinkContent]) -> None:
-    tempContent: list[str] = []
-    for text in content:
-        text = " ".join(text.split("\n"))
-        tempContent.append(text)
+def remove_new_lines(content: list[LinkContent]) -> list[LinkContent]:
+    cleanedContent: list[LinkContent] = []
+    for webObj in content:
+        webObj.content = " ".join(webObj.content.split("\n"))
+        cleanedContent.append(webObj)
     # tempContent = remove_none_string(tempContent)
-    write_cleaned_content_text_to_file(tempContent)
+    write_cleaned_content_text_to_file(cleanedContent)
+    return cleanedContent
     
 # def remove_special_characters():
     
@@ -29,8 +30,9 @@ def remove_new_lines(content: list[LinkContent]) -> None:
 #         tempContent.remove(noneString)
 #     return tempContent
     
-def write_cleaned_content_text_to_file(content: list[str]) -> None:
+def write_cleaned_content_text_to_file(tempContent: list[LinkContent]) -> None:
     with open("output_cleaned_contents.txt", "w", encoding="utf-8-sig") as f:
-        for text in content:
-            print(f'Link: {content.index(text)}\n\n{text}\n\n', file=f)
+        for webObj in tempContent:
+            #print(f'Link: {webObj.link}\n\n{webObj.content}\n\n', file=f)
+            print(webObj, file=f)
     f.close

@@ -7,6 +7,7 @@ from spacy.tokens import Span
 from spacy.tokens import Doc
 
 import name_email_comparison as nec
+from web_scrape_classes import LinkContent
 
 english_nlp: Language = spacy.load('en_core_web_sm')
 english_nlp.max_length: int = 10000000
@@ -14,13 +15,13 @@ alphabetKeysList: list[str] = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J',
 
 entities: list[Span] = []
 
-def names_and_emails(content: list[str]) -> tuple[list[str], list[str], list[str]]:
+def names_and_emails(content: list[LinkContent]) -> tuple[list[str], list[str], list[str]]:
     nameList: list[str] = []
     emailList: list[str] = []
     matchingNamesEmails: list[str] = [] 
-    for text in content:
-        tempNameList: list[str] = retrieve_names(text)
-        tempEmailList: list[str] = retrieve_emails(text)
+    for webObj in content:
+        tempNameList: list[str] = retrieve_names(webObj.content)
+        tempEmailList: list[str] = retrieve_emails(webObj.content)
         matchingNamesEmails.extend(nec.compareLists(tempNameList, tempEmailList))
         nameList.extend(tempNameList)
         emailList.extend(tempEmailList)
