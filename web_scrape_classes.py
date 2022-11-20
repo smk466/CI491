@@ -28,7 +28,7 @@ class LinkContent:
        
 # Person objects will contain name, email, position, and the link it was from (more will probably be implemented like phone numbers) 
 class Person:
-    def __init__(self, name: str, email: str, position: str, link: str) -> None:
+    def __init__(self, name: str, email: str = "None", position: str = "None", link: str = "None") -> None:
         self.__name: str = name
         self.__email: str = email
         self.__position: str = position
