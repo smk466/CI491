@@ -2,7 +2,7 @@ from googlesearch import search
 from random import randint
 from time import sleep
 
-excludedLinkKeywords: list = ['.jpg', '.png', '.jpeg', 'youtube', 'wikipedia']
+excludedLinkKeywords: list = ['.jpg', '.png', '.jpeg', 'youtube', 'wikipedia', '.pdf']
 
 query: str = "Software Engineering+People"
 links: list = []

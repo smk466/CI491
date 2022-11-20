@@ -3,10 +3,12 @@ import requests
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
+from web_scrape_classes import LinkContent
+
 page_title: list =[]
 page_body: list =[]
 page_head: list = []
-content: list[str] = []
+content: list[LinkContent] = []
 names: list = []
 headers: dict[str, str] = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0'}
 
@@ -43,8 +45,10 @@ def retrieve_webpage_contents(links: list[str]) -> list[str]:
         # drop blank lines
         #text = text.replace('\n', ' ')
         text = '\n'.join(chunk for chunk in chunks if chunk)
+        #linkObj: LinkContent = LinkContent(i, text)
         #text = ' '.join(chunk for chunk in chunks if chunk)       
         content.append(text)
+        #content.append(linkObj)
     #print(f'Content size in web_content_retrieve: {len(content)}')
     write_content_text_to_file()
     return content
