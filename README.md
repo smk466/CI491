@@ -27,4 +27,8 @@ Installing Lxml
 
 pip install lxml
 
+Installing Flask and psycopg2
+
+pip install Flask psycopg2-binary
+
 
