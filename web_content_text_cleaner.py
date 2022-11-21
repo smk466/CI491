@@ -16,7 +16,8 @@ Plan to do:
 def remove_new_lines(content: list[LinkContent]) -> list[LinkContent]:
     cleanedContent: list[LinkContent] = []
     for webObj in content:
-        webObj.content = " ".join(webObj.content.split("\n"))
+        webObj.content = " (newline) ".join(webObj.content.split("\n"))
+        # " ".join([str(i).replace(" ","") for i in s.split("  ")])
         cleanedContent.append(webObj)
     # tempContent = remove_none_string(tempContent)
     write_cleaned_content_text_to_file(cleanedContent)

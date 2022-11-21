@@ -76,3 +76,6 @@ def determine_most_likely_match(emailsMatched: list[tuple], email: str) -> tuple
 #compareLists(nameList, emailList)
 
 # print(similar("Apple", "Bapple"))
+
+# print(compareLists(["Ben Adams  Associate"], ["chiang@purdue.edu"]))
+# print(get_name_email_similarity_ratio("Ben Adams  Associate", "benjamin.adams@canterbury.ac.nz"))

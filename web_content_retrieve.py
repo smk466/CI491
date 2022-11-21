@@ -37,7 +37,7 @@ def retrieve_webpage_contents(links: list[str]) -> list[str]:
         # kill all script and style elements
         soup = format_and_replace_html_tags(soup)
         # get text
-        text = soup.get_text().lower()
+        text = soup.get_text()
         # break into lines and remove leading and trailing space on each
         lines = (line.strip() for line in text.splitlines())
         # break multi-headlines into a line each
@@ -56,9 +56,11 @@ def format_and_replace_html_tags(soup: BeautifulSoup) -> BeautifulSoup:
     for script in soup(["script", "style"]):
         script.extract()    # rip it out
     for p in soup.findAll('p'):
-        p.replace_with(f" {p.string} ")
+        p.replace_with(f" {p.text} ")
     for a in soup.findAll('a'):
-        a.replace_with(f" {a.string} ")
+        a.replace_with(f" {a.text} ")
+    for strong in soup.findAll('strong'):
+        strong.replace_with(f" {strong.text} ")
     return soup
 
 def write_content_text_to_file() -> None:
