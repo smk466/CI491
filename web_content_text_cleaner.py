@@ -34,5 +34,5 @@ def write_cleaned_content_text_to_file(tempContent: list[LinkContent]) -> None:
     with open("output_cleaned_contents.txt", "w", encoding="utf-8-sig") as f:
         for webObj in tempContent:
             #print(f'Link: {webObj.link}\n\n{webObj.content}\n\n', file=f)
-            print(webObj, file=f)
+            print(f'Link: {webObj.link}\n\n{webObj.content}\n\n', file=f)
     f.close
