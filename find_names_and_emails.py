@@ -77,7 +77,8 @@ def separate_combined_text(text: str) -> str:
                 newWord: str = f"{word[:word.index(char)]} {word[word.index(char):]}"
                 newWordList: list = newWord.split()
                 strList[strList.index(word)] = newWordList[0]
-                strList.append(newWordList[1])
+                if is_the_name_in_name_dictionary_string(newWordList[1]):
+                    strList.append(newWordList[1])
                 charUpper = True
                 break
         if charUpper:
@@ -95,6 +96,12 @@ def is_the_name_in_name_dictionary(entity: Span) -> bool:
         nameDictionary: dict[str, str] = json.load(f)
     firstChar = entity.text[:1].upper()
     return any((entity.text.split(" ")[0].lower() == name.lower()) for name in nameDictionary[firstChar])
+
+def is_the_name_in_name_dictionary_string(text: str) -> bool:
+    with open("name_dictionary.json", "r") as f:
+        nameDictionary: dict[str, str] = json.load(f)
+    firstChar = text[:1].upper()
+    return any((text.split(" ")[0].lower() == name.lower()) for name in nameDictionary[firstChar])
     
 def identify_emails(entity: Span) -> bool:
     emailRegex = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
