@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="styles.css">
+        <title>
+            Senior Design Project
+        </title>
+    </head>
+    <body>
+        <form id="form"> 
+            <input type="search" id="query" placeholder="Search..." required>
+            <input type="number" id="num-pages" placeholder="Number of Pages...">
+            <button id="search-btn">Search</button>
+        </form>
+        <br>
+        <table id="results">
+            <tr>
+                <th>Page #</th>
+                <th>Link</th>
+                <th>Names</th>
+                <th>Emails</th>
+            </tr>
+        </table>
+
+        <script>
+            function searchDatabase(keyword, numpages = 10) {
+                console.log(numpages);
+            }
+
+            const query = document.getElementById("query").value;
+            const pages = document.getElementById("num-pages").value;
+            document.getElementById("search-btn").addEventListener("click", function(){ searchDatabase(query, pages); });
+        </script>
+    </body>
+</html>
