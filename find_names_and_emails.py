@@ -63,25 +63,19 @@ def retrieve_emails(text: str) -> list[str]:
 
 def remove_extras(text: str) -> str:
     if " (newline) " in text:
-        subStr = " (newline) "
-        text = text[:text.index(subStr) + len(subStr)]
+        subStr: str = " (newline) "
+        text: str = text[:text.index(subStr) + len(subStr)]
     pattern = r'[0-9]'
     return re.sub(pattern, '', text)
 
 def separate_combined_text(text: str) -> str:
-    strList = text.split()
+    strList: list = text.split()
     for word in strList:
         charUpper: bool = False
         for char in word:
             if word.index(char) > 0 and char.isupper():
-                #word = word[:word.index(char) + len(char)]
-                #strList[strList.index(word)] = word
-                #tempList = word.split()
-                #tempList.insert(word.index(char) - 1, " ")
-                #print(tempList)
-                #word = "".join(tempList)
-                newWord = f"{word[:word.index(char)]} {word[word.index(char):]}"
-                newWordList = newWord.split()
+                newWord: str = f"{word[:word.index(char)]} {word[word.index(char):]}"
+                newWordList: list = newWord.split()
                 strList[strList.index(word)] = newWordList[0]
                 strList.append(newWordList[1])
                 charUpper = True
