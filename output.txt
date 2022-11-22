@@ -1,819 +1,2451 @@
-﻿Name: max levchin
+﻿Name: dave cutler
 Name: tim
-Name: jennifer wegerer
+Name: michael widenius
 Name: paul buchheit
 Name: john carmack
-Name: michael widenius
+Name: jennifer wegerer
 Name: jamie zawinski
-Name: dave cutler
+Name: max levchin
 Name: erica joy baker
+Name: dan abramov
+Name: jason lengstorf
+Name: jessie frazelle
+Name: ryan burgess
+Name: mark imbriaco
+Name: sarah drasner
+Name: richard gallcoeditor
 Name: matt rickard
 Name: dan
-Name: ryan burgess
-Name: dan abramov
-Name: jessie frazelle
-Name: richard gall 
 Name: chris
-Name: sarah drasner
-Name: jason lengstorf
-Name: richard gallcoeditor
-Name: mark imbriaco
+Name: richard gall 
 Name: audrey webster
-Name: tim brayonly
-Name: paul buchheit
-Name: tim
-Name: kristina trajkovska
-Name: kevin gary
-Name: tim
 Name: stephen yauprofessor
-Name: michael findlerlecturer
-Name: robert heinrichsrobert heinrichslecturer
-Name: michael findler
-Name: tim lindquist
-Name: javier gonzalezsanchez
 Name: christopher marcmchristopher marinstructor
-Name: kevin garyassociate
-Name: jessica mong
-Name: li xml
-Name: li
-Name: christopher meiklejohn
+Name: michael findler
 Name: tim
-Name: alan hunt354 davis
-Name: shi li
-Name: alan hunt
-Name: matthew knepley
-Name: wen dong306 davis hallphone
-Name: chen
-Name: carl alphonce
+Name: kevin garyassociate
+Name: javier gonzalezsanchez
+Name: michael findlerlecturer
+Name: tim lindquist
+Name: robert heinrichsrobert heinrichslecturer
+Name: kevin gary
+Name: jessica mong
+Name: alan turing
+Name: kim
+Name: ryan desmond
+Name: kristina trajkovska
+Name: paul buchheit
+Name: tim brayonly
+Name: tim
 Name: eric mikida208
-Name: david doermann215b
-Name: jennifer winikus
-Name: gao
-Name: ken regan email
-Name: paul dickson348
-Name: david doermann
-Name: andrew hirsch113m
-Name: wen dong
-Name: oliver kennedy
-Name: kenneth joseph335 davis
-Name: ji email
-Name: carl
-Name: andrew hirsch
-Name: kenneth joseph email
-Name: george mason
+Name: alan hunt
 Name: shi li328 davis
 Name: eric mikida
-Name: matthew
-Name: roger
-Name: paul dickson
-Name: kris schindler
-Name: ken regan
-Name: kenneth joseph
-Name: xin
 Name: chen wang
-Name: jesse hartloff
-Name: tom hayes338d davis hallphone
-Name: matthew hertz
-Name: matthew knepley211a
+Name: xin
+Name: matthew
+Name: george mason
+Name: kenneth joseph email
+Name: paul dickson
+Name: carl alphonce
+Name: david doermann
 Name: farshad ghanei
+Name: wen dong
+Name: kris schindler
+Name: tom hayes338d davis hallphone
+Name: shi li
+Name: jennifer winikus
+Name: carl
+Name: kenneth joseph335 davis
+Name: wen dong306 davis hallphone
+Name: matthew knepley211a
+Name: oliver kennedy
 Name: jesse hartloff344
-Name: steve mcconnell
-Name: eric raymond
-Name: melvin conway
-Name: andrew ko
-Name: jorge aranda
-Name: andy oram
-Name: greg wilson
-Name: hassan
-Name: jo erskine hannay
-Name: john nosek
-Name: jan chong
-Name: tom hurlbutt
-Name: thomas j mccabe
-Name: tom dunne
-Name: jack erskine rm
-Name: jay holland
-Name: walter guttmann
-Name: jack morgan
-Name: peter glassenbury
-Name: ben adams
-Name: tracy henderson
-Name: oliver batchelor
+Name: kenneth joseph
+Name: jesse hartloff
+Name: gao
+Name: ken regan
+Name: paul dickson348
+Name: matthew hertz
+Name: andrew hirsch
+Name: andrew hirsch113m
+Name: ken regan email
+Name: ji email
+Name: chen
+Name: alan hunt354 davis
+Name: matthew knepley
+Name: roger
+Name: david doermann215b
+Name: tim
+Name: christopher meiklejohn
+Name: li xml
+Name: li
 Name: jack erskine
+Name: jack morgan
+Name: oliver batchelor
+Name: walter guttmann
 Name: sharon mcgregor
-Name: jack erskine 320
 Name: joffre horlor
-Name: sam pell
-Name: jack erskine  room
-Name: james atlas
-Name: andrew bainbridgesmith
 Name: jack erskine 221
-Name: kimberly khalsalecturer iii
-Name: donald
-Name: john ejohn l tishman
-Name: david robertlecturer
-Name: andrew
-Name: mark wprofessor
-Name: nancy
-Name: john pclaude e shannon
-Name: mark sgeorge herbert
-Name: lee
-Name: jack hu
-Name: john fprofessor
+Name: jay holland
+Name: andrew bainbridgesmith
+Name: jack erskine rm
+Name: sam pell
+Name: jack erskine 320
+Name: ben adams
+Name: jack erskine  room
+Name: tracy henderson
+Name: james atlas
+Name: peter glassenbury
 Name: jeffrey slecturer
-Name: michael jadjunct
-Name: kang gkevin
-Name: mary loucollegiate lecturer emerita
-Name: kevin jassociate
 Name: quentin fcodirector
+Name: john pclaude e shannon
+Name: nancy
+Name: mary loucollegiate lecturer emerita
+Name: andrew
+Name: john ejohn l tishman
+Name: lee
+Name: kang gkevin
+Name: mark wprofessor
+Name: david robertlecturer
+Name: jack hu
+Name: kimberly khalsalecturer iii
+Name: john fprofessor
+Name: mark sgeorge herbert
 Name: david eprofessor emeritus
+Name: michael jadjunct
 Name: betty williams
-Name: thomas microgrid
+Name: kevin jassociate
+Name: donald
 Name: thomas
 Name: paul
-Name: alex kugell
-Name: bill howden
+Name: thomas microgrid
 Name: william griswold
+Name: bill howden
+Name: william n pennington
+Name: alex kugell
+Name: barry brinkman
+Name: melanie ford
+Name: adam bondi
+Name: thomas rossi
+Name: meng su
+Name: james r meehl innovation commons
+Name: shahid hussain
 Name: adam lippe
 Name: mohammad samarah
 Name: francis king
-Name: adam bondi
-Name: meng su
-Name: shahid hussain
-Name: thomas rossi
-Name: james r meehl innovation commons
-Name: barry brinkman
-Name: melanie ford
+Name: michael
 Name: henry nicholas
-Name: michael
-Name: dan c marinescu
-Name: gary t leavens
-Name: damla turgut
-Name: paul
-Name: damian
-Name: robert r mccormick
-Name: william j white
-Name: daniel wlinna jrhanliuassociate
-Name: benjamin slivka
-Name: katherine birck
-Name: michael d zoltowskithomas j
-Name: donald w feddersen
-Name: david i inouye
-Name: wendy
-Name: peter
-Name: mark johnson
-Name: dean
-Name: michael a capano
-Name: charles a boumanshowalter
-Name: dan jiaosynopsys
-Name: mimi
-Name: james s lehnert
-Name: richard j
-Name: mary jo schwartz
-Name: chun wang
-Name: mark s lundstrom
-Name: charles william harrison
-Name: james davis
-Name: charlie humichael
-Name: david b janes
-Name: michael r melloch
-Name: hong z tankeysight
-Name: yong chen
-Name: steven d pekarekdr
-Name: kevin j webb
-Name: ryan newton
-Name: nick trbovich
-Name: michael
-Name: katherine birck head
-Name: jeffrey m siskind
-Name: patricia l epstein
-Name: anne burnett
-Name: thomas roth
-Name: luis gomez
-Name: dean emerita
-Name: edward g tiedemann jr
-Name: philip e pare
-Name: christopher brinton
-Name: scott d sudhoffmichael
-Name: thomas duncan
-Name: joseph makin
-Name: michael manfra
-Name: carla zoltowski
-Name: meng cuiassociate
-Name: weng c chew
-Name: vladimir m shalaevbob
-Name: marie gordon
-Name: daniel s elliott
-Name: robert l givan
-Name: david j
-Name: william n pennington
-Name: william n pennington
-Name: fred harris
-Name: david feilseifer
-Name: adam kirn
-Name: monica nicolescu
-Name: lee barford
-Name: rose a hoeper
-Name: kostas alexis
-Name: nancy latourrette
-Name: paul sanberg
-Name: douglas w hood
-Name: william gauvinemail
-Name: mauricio pamplona segundo
-Name: jay ligatti
-Name: william hendrix iii
-Name: lawrence hall
-Name: john skvoretz
-Name: matthew peterson
-Name: peter r mouton
-Name: yan zhang
-Name: kathleen moore
-Name: attila a yavuz
-Name: abraham kandel
-Name: john murraybruce
-Name: james anderson
-Name: marvin andujar
-Name: hao zheng
-Name: robert karam
-Name: louis kim
-Name: john licato
-Name: chris woolston
-Name: paul richmond
-Name: chris woolston0
-Name: christina gorton
-Name: nathalie christmanncooper
-Name: josh kemp
-Name: kevin smith
-Name: jennifer lohoefeners
-Name: christopher allens
-Name: jonathan brumbergs
-Name: patrick mccormicks
-Name: joseph evanss
-Name: james mcnaughtons
-Name: john padens
-Name: john gibbonss
-Name: gary
-Name: jerzy w grzymalabusses
-Name: li
-Name: roy a roberts
-Name: james r millers
-Name: dan f servey
-Name: michael branickys
-Name: glenn prescotts
-Name: erik perrinss
-Name: david johnsons
-Name: jian lis
-Name: david petrs
-Name: mohammad alians
-Name: kenneth demarests
-Name: johnson
-Name: james stiless
-Name: matthew moores
-Name: charles e  mary jane spahr professor
-Name: francis m thomas
-Name: kim
-Name: jeff huang
-Name: frank m shipman
-Name: robert lightfoot
-Name: jack baskin
-Name: david alexander
-Name: david helmbold
-Name: michael m oye
-Name: john skardon
-Name: john musacchio
-Name: pankaj mehra
-Name: alvaro a cardenasalvarocardenasucscedu
-Name: herbert leeherbiesoeucscedu
-Name: chris parsa
-Name: rick graziani
-Name: richard jullig
-Name: david bernick
-Name: mike parsa
-Name: gabriel hugh
-Name: jim whitehead
-Name: jeff lefevrejlefevrecsucscedu
-Name: david draper
-Name: katherine currie isbister
-Name: david leedlee105ucscedu
-Name: camilla forsbergcforsbersoeucscedu
-Name: linda werner
-Name: james davis
-Name: michael s isaacsonmsisoeucscedunarinder
-Name: michael johnmbjohnucscedu
-Name: steve mcguire
-Name: sarah meyerrameyerucscedu
-Name: donald m wibergwibergsoeucscedu
-Name: christopher yonge
-Name: robert l coffman
-Name: matthew guthaus
-Name: xin eric wangxwang366ucscedu
-Name: steve whittaker
-Name: chen qian
-Name: john veseckyveseckysoeucscedu
-Name: francis x giraldo
-Name: robert lundrolunducscedu
-Name: jeffrey bergaminijbergamiucscedu
-Name: angela n brooksanbrooksucscedu
-Name: marcela alfarocrdoba
-Name: jeffrey flanigan
-Name: daniel h kim
-Name: adam m smithamsmithucscedu
-Name: jonathan woody
-Name: raquel prado
-Name: brian michael hansen
-Name: alex pang
-Name: james shanahan
-Name: richard edward
-Name: david c harrisondcharrisucscedu
-Name: patrick mantey
-Name: kumar malavalli
-Name: michael mateasmichaelmsoeucscedu
-Name: ahmed hamdyahamdyucscedu
-Name: wei kangwekangucscedu
-Name: hamid r sadjadpour
-Name: patrick tantalo
-Name: leonard a ferrarileferrarucscedu
-Name: yang liuyangliuucscedu
-Name: andrew quinn
-Name: david haussler
-Name: terry smith
-Name: allen van gelder
-Name: yu zhang
-Name: david deamer
-Name: charlie mcdowell
-Name: steve
-Name: max dunnemdunnesoeucscedubaskin engineering
-Name: paul a parker
-Name: claudia andrea wehrhahn
-Name: peter alvaropalvaroucscedu
-Email: 645-4760jinjun@buffalo.edu
-Email: 645-1588inwogu@buffalo.edu
-Email: 645-0682kjoseph@buffalo.edu
-Email: 645-3183shambhu@buffalo.edu
-Email: 645-1589wendong@buffalo.edu
-Email: 645-0682kjoseph@buffalo.eduassistant
-Email: 645-4737miller@buffalo.eduub
-Email: 645-4769sreyasee@buffalo.edu
-Email: 645-4735zzhao35@buffalo.eduassistant
-Email: 645-4750changyou@buffalo.edu
-Email: 645-4741xinhe@buffalo.edu
-Email: 645-4729hartloff@buffalo.eduassociate
-Email: 645-4736mhertz@buffalo.eduassociate
-Email: 645-1596lziarek@buffalo.eduassociate
 Email: 645-1557doermann@buffalo.edu
-Email: 645-4752mblanton@buffalo.eduassociate
-Email: 645-0562jsyuan@buffalo.eduprofessordirector
-Email: 645-1587siweilyu@buffalo.edu
-Email: 645-4757jwinikus@buffalo.eduassistant
-Email: 645-4738regan@buffalo.edu
-Email: 645-4760jinjun@buffalo.edusuny
-Email: 645-3184ahunt@buffalo.eduprofessor
-Email: 645-1590shil@buffalo.edu
-Email: 645-4747chandola@buffalo.edu
-Email: 645-4737miller@buffalo.edu
-Email: 645-1601zjin@buffalo.edu
-Email: 645-4755epmikida@buffalo.edu
-Email: 645-3185kds@buffalo.edu
-Email: 645-4735zzhao35@buffalo.edu
-Email: 645-2464atri@buffalo.eduprofessordepartment
-Email: 645-4759haonanlu@buffalo.edu
-Email: 645-1597okennedy@buffalo.edu
-Email: 645-1601zjin@buffalo.eduassociate
-Email: 645-4766eblanton@buffalo.edu
-Email: 645-4752mblanton@buffalo.edu
-Email: 645-4736mhertz@buffalo.edu
-Email: 645-1564nratha@buffalo.edu
-Email: 645-0216yaxiongx@buffalo.edu
 Email: 645-2670kdantu@buffalo.edu
-Email: 645-1597okennedy@buffalo.eduassociate
-Email: 645-3186rsridhar@buffalo.edu
-Email: 645-0566cwx@buffalo.edu
-Email: 645-4750changyou@buffalo.eduassistant
-Email: 645-1596lziarek@buffalo.edu
-Email: 645-4753demirbas@buffalo.edu
-Email: 645-0566cwx@buffalo.eduassistant
-Email: 645-4754farshadg@buffalo.edu
-Email: 645-1592erdem@buffalo.edu
-Email: 645-4751qiao@buffalo.edu
-Email: 645-0216yaxiongx@buffalo.eduassistant
-Email: 645-3183shambhu@buffalo.edustrategic
-Email: 645-1586avereshc@buffalo.edu
-Email: 645-1557doermann@buffalo.edusuny
-Email: 645-0747knepley@buffalo.edu
-Email: 645-2323tkosar@buffalo.edu
-Email: 645-1588inwogu@buffalo.eduassociate
-Email: 645-0247akhirsch@buffalo.edu
-Email: 645-2323tkosar@buffalo.eduprofessordepartment
-Email: 645-1602rohini@buffalo.edu
-Email: 645-4733hongxinh@buffalo.edu
-Email: 645-1587siweilyu@buffalo.edusuny
-Email: 645-4747chandola@buffalo.eduassociate
-Email: 645-0306kaiyiji@buffalo.edu
-Email: 645-3182bina@buffalo.edu
-Email: 645-3185kds@buffalo.eduprofessor
-Email: 645-4757jwinikus@buffalo.edu
-Email: 645-1595zimingzh@buffalo.eduassistant
-Email: 645-1595zimingzh@buffalo.edu
 Email: 645-4740nasrinak@buffalo.edu
+Email: 645-4750changyou@buffalo.eduassistant
+Email: 645-4752mblanton@buffalo.edu
+Email: 645-2464atri@buffalo.eduprofessordepartment
+Email: 645-0566cwx@buffalo.eduassistant
+Email: 645-4741xinhe@buffalo.edu
+Email: 645-1587siweilyu@buffalo.edusuny
+Email: 645-4760jinjun@buffalo.edu
+Email: 645-4755epmikida@buffalo.edu
+Email: 645-1602rohini@buffalo.edu
+Email: 645-4766eblanton@buffalo.edu
+Email: 645-4738regan@buffalo.edu
+Email: 645-4759haonanlu@buffalo.edu
+Email: 645-1557doermann@buffalo.edusuny
+Email: 645-4769sreyasee@buffalo.edu
+Email: 645-3182bina@buffalo.edu
+Email: 645-1592erdem@buffalo.edu
+Email: 645-0562jsyuan@buffalo.eduprofessordirector
+Email: 645-4735zzhao35@buffalo.eduassistant
+Email: 645-1589wendong@buffalo.edu
+Email: 645-3185kds@buffalo.eduprofessor
+Email: 645-0216yaxiongx@buffalo.eduassistant
+Email: 645-4757jwinikus@buffalo.edu
+Email: 645-0682kjoseph@buffalo.eduassistant
+Email: 645-4757jwinikus@buffalo.eduassistant
+Email: 645-1564nratha@buffalo.edu
+Email: 645-0747knepley@buffalo.edu
+Email: 645-4754farshadg@buffalo.edu
+Email: 645-4751qiao@buffalo.edu
+Email: 645-4729hartloff@buffalo.eduassociate
+Email: 645-0247akhirsch@buffalo.edu
+Email: 645-0682kjoseph@buffalo.edu
+Email: 645-2323tkosar@buffalo.edu
+Email: 645-4737miller@buffalo.eduub
+Email: 645-4737miller@buffalo.edu
+Email: 645-3185kds@buffalo.edu
+Email: 645-4750changyou@buffalo.edu
 Email: 645-1602rohini@buffalo.eduprofessorassociate
-Email: 645-0562jsyuan@buffalo.edu
-Email: 645-1558govind@buffalo.edu
-Email: 645-3184ahunt@buffalo.edu
+Email: 645-1601zjin@buffalo.edu
+Email: 645-4760jinjun@buffalo.edusuny
 Email: 645-2901president@buffalo.edu
+Email: 645-3183shambhu@buffalo.edustrategic
+Email: 645-0562jsyuan@buffalo.edu
+Email: 645-1596lziarek@buffalo.edu
+Email: 645-3186rsridhar@buffalo.edu
+Email: 645-0306kaiyiji@buffalo.edu
+Email: 645-1595zimingzh@buffalo.edu
+Email: 645-1558govind@buffalo.edu
+Email: 645-4733hongxinh@buffalo.edu
+Email: 645-1586avereshc@buffalo.edu
+Email: 645-1595zimingzh@buffalo.eduassistant
+Email: 645-3184ahunt@buffalo.eduprofessor
+Email: 645-4752mblanton@buffalo.eduassociate
+Email: 645-4747chandola@buffalo.eduassociate
+Email: 645-4753demirbas@buffalo.edu
+Email: 645-3184ahunt@buffalo.edu
+Email: 645-1597okennedy@buffalo.edu
+Email: 645-1590shil@buffalo.edu
+Email: 645-3183shambhu@buffalo.edu
+Email: 645-1588inwogu@buffalo.eduassociate
+Email: 645-4736mhertz@buffalo.edu
+Email: 645-2323tkosar@buffalo.eduprofessordepartment
+Email: 645-1601zjin@buffalo.eduassociate
+Email: 645-1596lziarek@buffalo.eduassociate
+Email: 645-4736mhertz@buffalo.eduassociate
+Email: 645-1597okennedy@buffalo.eduassociate
+Email: 645-4735zzhao35@buffalo.edu
+Email: 645-0216yaxiongx@buffalo.edu
+Email: 645-4747chandola@buffalo.edu
+Email: 645-1587siweilyu@buffalo.edu
+Email: 645-0566cwx@buffalo.edu
+Email: 645-1588inwogu@buffalo.edu
 Email: andreas.willig@canterbury.ac.nz
 Email: jack.morgan@canterbury.ac.nz
-Email: joanne.roberts@canterbury.ac.nz
+Email: sam.schofield@pg.canterbury.ac.nz
+Email: greg.ewing@canterbury.ac.nz
 Email: kourosh.neshatian@canterbury.ac.nz
-Email: marina.filipovic@canterbury.ac.nz
-Email: sharon.mcgregor@canterbury.ac.nz
+Email: matthias.galster@canterbury.ac.nz
 Email: moffat.mathews@canterbury.ac.nz
+Email: andrew.cockburn@canterbury.ac.nz
+Email: sharon.mcgregor@canterbury.ac.nz
+Email: marina.filipovic@canterbury.ac.nz
+Email: blair.mcmaster@canterbury.ac.nz
 Email: walter.guttmann@canterbury.ac.nz
 Email: phuoc.tran-gia@canterbury.ac.nz
-Email: blair.mcmaster@canterbury.ac.nz
-Email: tanja.mitrovic@canterbury.ac.nz
-Email: greg.ewing@canterbury.ac.nz
 Email: kat.bell@canterbury.ac.nz
+Email: katia.delu@canterbury.ac.nz
 Email: belinda.lansley@canterbury.ac.nz
 Email: adrian.white@canterbury.ac.nz
-Email: matthew.mattar@canterbury.ac.nz
 Email: oliver.batchelor@canterbury.ac.nz
-Email: matthias.galster@canterbury.ac.nz
-Email: katia.delu@canterbury.ac.nz
 Email: fabian.gilson@canterbury.ac.nz
-Email: sam.schofield@pg.canterbury.ac.nz
-Email: andrew.cockburn@canterbury.ac.nz
-Email: danaw@purdue.edu
-Email: pbermel@purdue.edu
-Email: zjacob@purdue.edu
-Email: djiao@purdue.edu
-Email: mckinnjd@purdue.edu
-Email: saeedm@purdue.edu
-Email: pomeranz@ecn.purdue.edu
-Email: yongchen@purdue.edu
-Email: ychu@purdue.edu
-Email: lhj@purdue.edu
-Email: yunglu@ecn.purdue.edu
-Email: sbagchi@purdue.edu
-Email: amakur@purdue.edu
-Email: vr@purdue.edu
-Email: zhu0@purdue.edu
-Email: bhave@purdue.edu
-Email: kimkt@purdue.edu
-Email: jianli@ku.edu
-Email: dwp@ku.edu
-Email: ahalder@ucsc.edu
-Email: makeson@soe.ucsc.edu
-Email: fjf@ucsc.edu
-Email: larrabee@ucsc.edu
-Email: cromom@soe.ucsc.edu
-Email: friedlan@soe.ucsc.edu
-Email: idemertz@ucsc.edu
-Email: meparsa@ucsc.edu
-('max levchin', 'sbagchi@purdue.edu')
-('tim', 'kimkt@purdue.edu')
-('jennifer wegerer', 'joanne.roberts@canterbury.ac.nz')
-('paul buchheit', 'sbagchi@purdue.edu')
-('john carmack', 'amakur@purdue.edu')
-('michael widenius', 'ahalder@ucsc.edu')
-('jamie zawinski', 'andreas.willig@canterbury.ac.nz')
-('dave cutler', 'idemertz@ucsc.edu')
-('erica joy baker', 'oliver.batchelor@canterbury.ac.nz')
-('matt rickard', 'matthew.mattar@canterbury.ac.nz')
-('dan', 'danaw@purdue.edu')
-('ryan burgess', 'yongchen@purdue.edu')
-('dan abramov', 'danaw@purdue.edu')
-('jessie frazelle', 'jianli@ku.edu')
-('richard gall ', 'katia.delu@canterbury.ac.nz')
-('chris', 'sbagchi@purdue.edu')
-('sarah drasner', 'ahalder@ucsc.edu')
-('jason lengstorf', 'sharon.mcgregor@canterbury.ac.nz')
-('richard gallcoeditor', 'sharon.mcgregor@canterbury.ac.nz')
-('mark imbriaco', 'marina.filipovic@canterbury.ac.nz')
-('audrey webster', 'andrew.cockburn@canterbury.ac.nz')
-('tim brayonly', 'jianli@ku.edu')
-('paul buchheit', 'sbagchi@purdue.edu')
-('tim', 'kimkt@purdue.edu')
-('kristina trajkovska', 'marina.filipovic@canterbury.ac.nz')
-('kevin gary', 'greg.ewing@canterbury.ac.nz')
-('tim', 'kimkt@purdue.edu')
-('stephen yauprofessor', 'sharon.mcgregor@canterbury.ac.nz')
-('michael findlerlecturer', 'ahalder@ucsc.edu')
+Email: matthew.mattar@canterbury.ac.nz
+Email: tanja.mitrovic@canterbury.ac.nz
+Email: joanne.roberts@canterbury.ac.nz
+('dave cutler', '')
+('tim', '')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', '')
+('jennifer wegerer', '')
+('jamie zawinski', '')
+('max levchin', '')
+('dave cutler', '')
+('tim', '')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', '')
+('jennifer wegerer', '')
+('jamie zawinski', '')
+('max levchin', '')
+('erica joy baker', '')
+('dave cutler', '')
+('tim', '')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', '')
+('jennifer wegerer', '')
+('jamie zawinski', '')
+('max levchin', '')
+('erica joy baker', '')
+('dave cutler', '')
+('tim', '')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', '')
+('jennifer wegerer', '')
+('jamie zawinski', '')
+('max levchin', '')
+('erica joy baker', '')
+('dave cutler', '')
+('tim', '')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', '')
+('jennifer wegerer', '')
+('jamie zawinski', '')
+('max levchin', '')
+('erica joy baker', '')
+('dan abramov', '')
+('jason lengstorf', '')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', '')
+('sarah drasner', '')
+('richard gallcoeditor', '')
+('matt rickard', '')
+('dan', '')
+('chris', '')
+('richard gall ', '')
+('dave cutler', '')
+('tim', '')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', '')
+('jennifer wegerer', '')
+('jamie zawinski', '')
+('max levchin', '')
+('erica joy baker', '')
+('dan abramov', '')
+('jason lengstorf', '')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', '')
+('sarah drasner', '')
+('richard gallcoeditor', '')
+('matt rickard', '')
+('dan', '')
+('chris', '')
+('richard gall ', '')
+('dave cutler', '')
+('tim', '')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', '')
+('jennifer wegerer', '')
+('jamie zawinski', '')
+('max levchin', '')
+('erica joy baker', '')
+('dan abramov', '')
+('jason lengstorf', '')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', '')
+('sarah drasner', '')
+('richard gallcoeditor', '')
+('matt rickard', '')
+('dan', '')
+('chris', '')
+('richard gall ', '')
+('audrey webster', '')
+('dave cutler', '')
+('tim', '')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', '')
+('jennifer wegerer', '')
+('jamie zawinski', '')
+('max levchin', '')
+('erica joy baker', '')
+('dan abramov', '')
+('jason lengstorf', '')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', '')
+('sarah drasner', '')
+('richard gallcoeditor', '')
+('matt rickard', '')
+('dan', '')
+('chris', '')
+('richard gall ', '')
+('audrey webster', '')
+('dave cutler', '')
+('tim', '')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', '')
+('jennifer wegerer', '')
+('jamie zawinski', '')
+('max levchin', '')
+('erica joy baker', '')
+('dan abramov', '')
+('jason lengstorf', '')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', '')
+('sarah drasner', '')
+('richard gallcoeditor', '')
+('matt rickard', '')
+('dan', '')
+('chris', '')
+('richard gall ', '')
+('audrey webster', '')
+('dave cutler', '')
+('tim', '')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', '')
+('jennifer wegerer', '')
+('jamie zawinski', '')
+('max levchin', '')
+('erica joy baker', '')
+('dan abramov', '')
+('jason lengstorf', '')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', '')
+('sarah drasner', '')
+('richard gallcoeditor', '')
+('matt rickard', '')
+('dan', '')
+('chris', '')
+('richard gall ', '')
+('audrey webster', '')
+('dave cutler', '')
+('tim', '')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', '')
+('jennifer wegerer', '')
+('jamie zawinski', '')
+('max levchin', '')
+('erica joy baker', '')
+('dan abramov', '')
+('jason lengstorf', '')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', '')
+('sarah drasner', '')
+('richard gallcoeditor', '')
+('matt rickard', '')
+('dan', '')
+('chris', '')
+('richard gall ', '')
+('audrey webster', '')
+('stephen yauprofessor', '')
+('christopher marcmchristopher marinstructor', '')
+('michael findler', '')
+('tim', '')
+('kevin garyassociate', '')
+('javier gonzalezsanchez', '')
+('michael findlerlecturer', '')
+('tim lindquist', '')
 ('robert heinrichsrobert heinrichslecturer', '')
-('michael findler', 'ahalder@ucsc.edu')
-('tim lindquist', 'mckinnjd@purdue.edu')
-('javier gonzalezsanchez', '645-1586avereshc@buffalo.edu')
-('christopher marcmchristopher marinstructor', 'sharon.mcgregor@canterbury.ac.nz')
-('kevin garyassociate', 'adrian.white@canterbury.ac.nz')
-('jessica mong', 'djiao@purdue.edu')
-('li xml', 'kimkt@purdue.edu')
-('li', 'jianli@ku.edu')
-('christopher meiklejohn', 'pbermel@purdue.edu')
-('tim', 'kimkt@purdue.edu')
-('alan hunt354 davis', 'adrian.white@canterbury.ac.nz')
-('shi li', 'jianli@ku.edu')
-('alan hunt', 'adrian.white@canterbury.ac.nz')
-('matthew knepley', 'matthew.mattar@canterbury.ac.nz')
-('wen dong306 davis hallphone', '645-1589wendong@buffalo.edu')
-('chen', 'yongchen@purdue.edu')
-('carl alphonce', 'sharon.mcgregor@canterbury.ac.nz')
+('kevin gary', '')
+('dave cutler', '')
+('tim', '')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', '')
+('jennifer wegerer', '')
+('jamie zawinski', '')
+('max levchin', '')
+('erica joy baker', '')
+('dan abramov', '')
+('jason lengstorf', '')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', '')
+('sarah drasner', '')
+('richard gallcoeditor', '')
+('matt rickard', '')
+('dan', '')
+('chris', '')
+('richard gall ', '')
+('audrey webster', '')
+('stephen yauprofessor', '')
+('christopher marcmchristopher marinstructor', '')
+('michael findler', '')
+('tim', '')
+('kevin garyassociate', '')
+('javier gonzalezsanchez', '')
+('michael findlerlecturer', '')
+('tim lindquist', '')
+('robert heinrichsrobert heinrichslecturer', '')
+('kevin gary', '')
+('jessica mong', '')
+('dave cutler', '')
+('tim', '')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', '')
+('jennifer wegerer', '')
+('jamie zawinski', '')
+('max levchin', '')
+('erica joy baker', '')
+('dan abramov', '')
+('jason lengstorf', '')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', '')
+('sarah drasner', '')
+('richard gallcoeditor', '')
+('matt rickard', '')
+('dan', '')
+('chris', '')
+('richard gall ', '')
+('audrey webster', '')
+('stephen yauprofessor', '')
+('christopher marcmchristopher marinstructor', '')
+('michael findler', '')
+('tim', '')
+('kevin garyassociate', '')
+('javier gonzalezsanchez', '')
+('michael findlerlecturer', '')
+('tim lindquist', '')
+('robert heinrichsrobert heinrichslecturer', '')
+('kevin gary', '')
+('jessica mong', '')
+('alan turing', '')
+('kim', '')
+('ryan desmond', '')
+('dave cutler', '')
+('tim', '')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', '')
+('jennifer wegerer', '')
+('jamie zawinski', '')
+('max levchin', '')
+('erica joy baker', '')
+('dan abramov', '')
+('jason lengstorf', '')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', '')
+('sarah drasner', '')
+('richard gallcoeditor', '')
+('matt rickard', '')
+('dan', '')
+('chris', '')
+('richard gall ', '')
+('audrey webster', '')
+('stephen yauprofessor', '')
+('christopher marcmchristopher marinstructor', '')
+('michael findler', '')
+('tim', '')
+('kevin garyassociate', '')
+('javier gonzalezsanchez', '')
+('michael findlerlecturer', '')
+('tim lindquist', '')
+('robert heinrichsrobert heinrichslecturer', '')
+('kevin gary', '')
+('jessica mong', '')
+('alan turing', '')
+('kim', '')
+('ryan desmond', '')
+('kristina trajkovska', '')
+('paul buchheit', '')
+('tim brayonly', '')
+('tim', '')
+('dave cutler', '')
+('tim', '')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', '')
+('jennifer wegerer', '')
+('jamie zawinski', '')
+('max levchin', '')
+('erica joy baker', '')
+('dan abramov', '')
+('jason lengstorf', '')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', '')
+('sarah drasner', '')
+('richard gallcoeditor', '')
+('matt rickard', '')
+('dan', '')
+('chris', '')
+('richard gall ', '')
+('audrey webster', '')
+('stephen yauprofessor', '')
+('christopher marcmchristopher marinstructor', '')
+('michael findler', '')
+('tim', '')
+('kevin garyassociate', '')
+('javier gonzalezsanchez', '')
+('michael findlerlecturer', '')
+('tim lindquist', '')
+('robert heinrichsrobert heinrichslecturer', '')
+('kevin gary', '')
+('jessica mong', '')
+('alan turing', '')
+('kim', '')
+('ryan desmond', '')
+('kristina trajkovska', '')
+('paul buchheit', '')
+('tim brayonly', '')
+('tim', '')
+('dave cutler', '')
+('tim', '')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', '')
+('jennifer wegerer', '')
+('jamie zawinski', '')
+('max levchin', '')
+('erica joy baker', '')
+('dan abramov', '')
+('jason lengstorf', '')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', '')
+('sarah drasner', '')
+('richard gallcoeditor', '')
+('matt rickard', '')
+('dan', '')
+('chris', '')
+('richard gall ', '')
+('audrey webster', '')
+('stephen yauprofessor', '')
+('christopher marcmchristopher marinstructor', '')
+('michael findler', '')
+('tim', '')
+('kevin garyassociate', '')
+('javier gonzalezsanchez', '')
+('michael findlerlecturer', '')
+('tim lindquist', '')
+('robert heinrichsrobert heinrichslecturer', '')
+('kevin gary', '')
+('jessica mong', '')
+('alan turing', '')
+('kim', '')
+('ryan desmond', '')
+('kristina trajkovska', '')
+('paul buchheit', '')
+('tim brayonly', '')
+('tim', '')
 ('eric mikida208', '645-4755epmikida@buffalo.edu')
-('david doermann215b', '645-1557doermann@buffalo.edu')
-('jennifer winikus', '645-4757jwinikus@buffalo.eduassistant')
-('gao', 'djiao@purdue.edu')
-('ken regan email', 'andreas.willig@canterbury.ac.nz')
-('paul dickson348', 'makeson@soe.ucsc.edu')
-('david doermann', '645-1557doermann@buffalo.edu')
-('andrew hirsch113m', 'andreas.willig@canterbury.ac.nz')
-('wen dong', '645-1589wendong@buffalo.edu')
-('oliver kennedy', '645-1597okennedy@buffalo.edu')
-('kenneth joseph335 davis', '645-0682kjoseph@buffalo.edu')
-('ji email', 'jianli@ku.edu')
-('carl', 'amakur@purdue.edu')
-('andrew hirsch', 'andreas.willig@canterbury.ac.nz')
-('kenneth joseph email', '645-0682kjoseph@buffalo.edu')
-('george mason', 'makeson@soe.ucsc.edu')
-('shi li328 davis', 'sam.schofield@pg.canterbury.ac.nz')
+('alan hunt', '')
+('shi li328 davis', '')
 ('eric mikida', '645-4755epmikida@buffalo.edu')
-('matthew', 'matthew.mattar@canterbury.ac.nz')
-('roger', 'sharon.mcgregor@canterbury.ac.nz')
-('paul dickson', 'makeson@soe.ucsc.edu')
-('kris schindler', 'sam.schofield@pg.canterbury.ac.nz')
-('ken regan', 'jack.morgan@canterbury.ac.nz')
-('kenneth joseph', '645-0682kjoseph@buffalo.edu')
-('xin', 'jianli@ku.edu')
-('chen wang', 'yongchen@purdue.edu')
-('jesse hartloff', '645-4729hartloff@buffalo.eduassociate')
-('tom hayes338d davis hallphone', 'makeson@soe.ucsc.edu')
-('matthew hertz', 'matthew.mattar@canterbury.ac.nz')
-('matthew knepley211a', 'matthew.mattar@canterbury.ac.nz')
-('farshad ghanei', '645-4754farshadg@buffalo.edu')
+('chen wang', '')
+('xin', '')
+('matthew', '')
+('george mason', '')
+('kenneth joseph email', '')
+('paul dickson', '')
+('carl alphonce', '')
+('david doermann', '645-1557doermann@buffalo.edu')
+('farshad ghanei', '')
+('wen dong', '')
+('kris schindler', '')
+('tom hayes338d davis hallphone', '')
+('shi li', '')
+('jennifer winikus', '')
+('carl', '')
+('kenneth joseph335 davis', '')
+('wen dong306 davis hallphone', '')
+('matthew knepley211a', '')
+('oliver kennedy', '')
 ('jesse hartloff344', '645-4729hartloff@buffalo.eduassociate')
-('steve mcconnell', 'sam.schofield@pg.canterbury.ac.nz')
-('eric raymond', 'pomeranz@ecn.purdue.edu')
-('melvin conway', 'belinda.lansley@canterbury.ac.nz')
-('andrew ko', 'andrew.cockburn@canterbury.ac.nz')
-('jorge aranda', 'jack.morgan@canterbury.ac.nz')
-('andy oram', 'andreas.willig@canterbury.ac.nz')
-('greg wilson', 'greg.ewing@canterbury.ac.nz')
-('hassan', 'makeson@soe.ucsc.edu')
-('jo erskine hannay', 'kourosh.neshatian@canterbury.ac.nz')
-('john nosek', 'joanne.roberts@canterbury.ac.nz')
-('jan chong', 'zjacob@purdue.edu')
-('tom hurlbutt', 'walter.guttmann@canterbury.ac.nz')
-('thomas j mccabe', 'matthias.galster@canterbury.ac.nz')
-('tom dunne', 'mckinnjd@purdue.edu')
-('jack erskine rm', 'jack.morgan@canterbury.ac.nz')
-('jay holland', 'jack.morgan@canterbury.ac.nz')
-('walter guttmann', 'walter.guttmann@canterbury.ac.nz')
+('kenneth joseph', '645-0682kjoseph@buffalo.eduassistant')
+('jesse hartloff', '645-4729hartloff@buffalo.eduassociate')
+('gao', '')
+('ken regan', '645-4738regan@buffalo.edu')
+('paul dickson348', '')
+('matthew hertz', '')
+('andrew hirsch', '645-0247akhirsch@buffalo.edu')
+('andrew hirsch113m', '')
+('ken regan email', '')
+('ji email', '')
+('chen', '')
+('alan hunt354 davis', '')
+('matthew knepley', '')
+('roger', '')
+('david doermann215b', '645-1557doermann@buffalo.edu')
+('dave cutler', '')
+('tim', '')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', '')
+('jennifer wegerer', '')
+('jamie zawinski', '')
+('max levchin', '')
+('erica joy baker', '')
+('dan abramov', '')
+('jason lengstorf', '')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', '')
+('sarah drasner', '')
+('richard gallcoeditor', '')
+('matt rickard', '')
+('dan', '')
+('chris', '')
+('richard gall ', '')
+('audrey webster', '')
+('stephen yauprofessor', '')
+('christopher marcmchristopher marinstructor', '')
+('michael findler', '')
+('tim', '')
+('kevin garyassociate', '')
+('javier gonzalezsanchez', '')
+('michael findlerlecturer', '')
+('tim lindquist', '')
+('robert heinrichsrobert heinrichslecturer', '')
+('kevin gary', '')
+('jessica mong', '')
+('alan turing', '')
+('kim', '')
+('ryan desmond', '')
+('kristina trajkovska', '')
+('paul buchheit', '')
+('tim brayonly', '')
+('tim', '')
+('eric mikida208', '645-4755epmikida@buffalo.edu')
+('alan hunt', '')
+('shi li328 davis', '')
+('eric mikida', '645-4755epmikida@buffalo.edu')
+('chen wang', '')
+('xin', '')
+('matthew', '')
+('george mason', '')
+('kenneth joseph email', '')
+('paul dickson', '')
+('carl alphonce', '')
+('david doermann', '645-1557doermann@buffalo.edu')
+('farshad ghanei', '')
+('wen dong', '')
+('kris schindler', '')
+('tom hayes338d davis hallphone', '')
+('shi li', '')
+('jennifer winikus', '')
+('carl', '')
+('kenneth joseph335 davis', '')
+('wen dong306 davis hallphone', '')
+('matthew knepley211a', '')
+('oliver kennedy', '')
+('jesse hartloff344', '645-4729hartloff@buffalo.eduassociate')
+('kenneth joseph', '645-0682kjoseph@buffalo.eduassistant')
+('jesse hartloff', '645-4729hartloff@buffalo.eduassociate')
+('gao', '')
+('ken regan', '645-4738regan@buffalo.edu')
+('paul dickson348', '')
+('matthew hertz', '')
+('andrew hirsch', '645-0247akhirsch@buffalo.edu')
+('andrew hirsch113m', '')
+('ken regan email', '')
+('ji email', '')
+('chen', '')
+('alan hunt354 davis', '')
+('matthew knepley', '')
+('roger', '')
+('david doermann215b', '645-1557doermann@buffalo.edu')
+('dave cutler', '')
+('tim', '')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', '')
+('jennifer wegerer', '')
+('jamie zawinski', '')
+('max levchin', '')
+('erica joy baker', '')
+('dan abramov', '')
+('jason lengstorf', '')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', '')
+('sarah drasner', '')
+('richard gallcoeditor', '')
+('matt rickard', '')
+('dan', '')
+('chris', '')
+('richard gall ', '')
+('audrey webster', '')
+('stephen yauprofessor', '')
+('christopher marcmchristopher marinstructor', '')
+('michael findler', '')
+('tim', '')
+('kevin garyassociate', '')
+('javier gonzalezsanchez', '')
+('michael findlerlecturer', '')
+('tim lindquist', '')
+('robert heinrichsrobert heinrichslecturer', '')
+('kevin gary', '')
+('jessica mong', '')
+('alan turing', '')
+('kim', '')
+('ryan desmond', '')
+('kristina trajkovska', '')
+('paul buchheit', '')
+('tim brayonly', '')
+('tim', '')
+('eric mikida208', '645-4755epmikida@buffalo.edu')
+('alan hunt', '')
+('shi li328 davis', '')
+('eric mikida', '645-4755epmikida@buffalo.edu')
+('chen wang', '')
+('xin', '')
+('matthew', '')
+('george mason', '')
+('kenneth joseph email', '')
+('paul dickson', '')
+('carl alphonce', '')
+('david doermann', '645-1557doermann@buffalo.edu')
+('farshad ghanei', '')
+('wen dong', '')
+('kris schindler', '')
+('tom hayes338d davis hallphone', '')
+('shi li', '')
+('jennifer winikus', '')
+('carl', '')
+('kenneth joseph335 davis', '')
+('wen dong306 davis hallphone', '')
+('matthew knepley211a', '')
+('oliver kennedy', '')
+('jesse hartloff344', '645-4729hartloff@buffalo.eduassociate')
+('kenneth joseph', '645-0682kjoseph@buffalo.eduassistant')
+('jesse hartloff', '645-4729hartloff@buffalo.eduassociate')
+('gao', '')
+('ken regan', '645-4738regan@buffalo.edu')
+('paul dickson348', '')
+('matthew hertz', '')
+('andrew hirsch', '645-0247akhirsch@buffalo.edu')
+('andrew hirsch113m', '')
+('ken regan email', '')
+('ji email', '')
+('chen', '')
+('alan hunt354 davis', '')
+('matthew knepley', '')
+('roger', '')
+('david doermann215b', '645-1557doermann@buffalo.edu')
+('tim', '')
+('christopher meiklejohn', '')
+('dave cutler', '')
+('tim', '')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', '')
+('jennifer wegerer', '')
+('jamie zawinski', '')
+('max levchin', '')
+('erica joy baker', '')
+('dan abramov', '')
+('jason lengstorf', '')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', '')
+('sarah drasner', '')
+('richard gallcoeditor', '')
+('matt rickard', '')
+('dan', '')
+('chris', '')
+('richard gall ', '')
+('audrey webster', '')
+('stephen yauprofessor', '')
+('christopher marcmchristopher marinstructor', '')
+('michael findler', '')
+('tim', '')
+('kevin garyassociate', '')
+('javier gonzalezsanchez', '')
+('michael findlerlecturer', '')
+('tim lindquist', '')
+('robert heinrichsrobert heinrichslecturer', '')
+('kevin gary', '')
+('jessica mong', '')
+('alan turing', '')
+('kim', '')
+('ryan desmond', '')
+('kristina trajkovska', '')
+('paul buchheit', '')
+('tim brayonly', '')
+('tim', '')
+('eric mikida208', '645-4755epmikida@buffalo.edu')
+('alan hunt', '')
+('shi li328 davis', '')
+('eric mikida', '645-4755epmikida@buffalo.edu')
+('chen wang', '')
+('xin', '')
+('matthew', '')
+('george mason', '')
+('kenneth joseph email', '')
+('paul dickson', '')
+('carl alphonce', '')
+('david doermann', '645-1557doermann@buffalo.edu')
+('farshad ghanei', '')
+('wen dong', '')
+('kris schindler', '')
+('tom hayes338d davis hallphone', '')
+('shi li', '')
+('jennifer winikus', '')
+('carl', '')
+('kenneth joseph335 davis', '')
+('wen dong306 davis hallphone', '')
+('matthew knepley211a', '')
+('oliver kennedy', '')
+('jesse hartloff344', '645-4729hartloff@buffalo.eduassociate')
+('kenneth joseph', '645-0682kjoseph@buffalo.eduassistant')
+('jesse hartloff', '645-4729hartloff@buffalo.eduassociate')
+('gao', '')
+('ken regan', '645-4738regan@buffalo.edu')
+('paul dickson348', '')
+('matthew hertz', '')
+('andrew hirsch', '645-0247akhirsch@buffalo.edu')
+('andrew hirsch113m', '')
+('ken regan email', '')
+('ji email', '')
+('chen', '')
+('alan hunt354 davis', '')
+('matthew knepley', '')
+('roger', '')
+('david doermann215b', '645-1557doermann@buffalo.edu')
+('tim', '')
+('christopher meiklejohn', '')
+('li xml', '')
+('li', '')
+('dave cutler', 'oliver.batchelor@canterbury.ac.nz')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', 'jack.morgan@canterbury.ac.nz')
+('jennifer wegerer', '')
+('jamie zawinski', 'jack.morgan@canterbury.ac.nz')
+('max levchin', '')
+('erica joy baker', 'joanne.roberts@canterbury.ac.nz')
+('dan abramov', 'tanja.mitrovic@canterbury.ac.nz')
+('jason lengstorf', 'joanne.roberts@canterbury.ac.nz')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', 'marina.filipovic@canterbury.ac.nz')
+('sarah drasner', 'matthias.galster@canterbury.ac.nz')
+('richard gallcoeditor', 'oliver.batchelor@canterbury.ac.nz')
+('matt rickard', 'matthias.galster@canterbury.ac.nz')
+('dan', 'adrian.white@canterbury.ac.nz')
+('chris', '')
+('richard gall ', '')
+('audrey webster', 'andrew.cockburn@canterbury.ac.nz')
+('stephen yauprofessor', '')
+('christopher marcmchristopher marinstructor', '')
+('michael findler', 'sam.schofield@pg.canterbury.ac.nz')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('kevin garyassociate', 'adrian.white@canterbury.ac.nz')
+('javier gonzalezsanchez', '')
+('michael findlerlecturer', '')
+('tim lindquist', '')
+('robert heinrichsrobert heinrichslecturer', '')
+('kevin gary', 'belinda.lansley@canterbury.ac.nz')
+('jessica mong', 'jack.morgan@canterbury.ac.nz')
+('alan turing', 'walter.guttmann@canterbury.ac.nz')
+('kim', 'katia.delu@canterbury.ac.nz')
+('ryan desmond', 'fabian.gilson@canterbury.ac.nz')
+('kristina trajkovska', '')
+('paul buchheit', '')
+('tim brayonly', '')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('eric mikida208', '645-4755epmikida@buffalo.edu')
+('alan hunt', 'adrian.white@canterbury.ac.nz')
+('shi li328 davis', '')
+('eric mikida', '645-4755epmikida@buffalo.edu')
+('chen wang', 'greg.ewing@canterbury.ac.nz')
+('xin', 'adrian.white@canterbury.ac.nz')
+('matthew', 'matthew.mattar@canterbury.ac.nz')
+('george mason', 'greg.ewing@canterbury.ac.nz')
+('kenneth joseph email', '')
+('paul dickson', 'jack.morgan@canterbury.ac.nz')
+('carl alphonce', 'marina.filipovic@canterbury.ac.nz')
+('david doermann', '645-1557doermann@buffalo.edu')
+('farshad ghanei', 'adrian.white@canterbury.ac.nz')
+('wen dong', '')
+('kris schindler', 'sam.schofield@pg.canterbury.ac.nz')
+('tom hayes338d davis hallphone', '')
+('shi li', '')
+('jennifer winikus', '')
+('carl', 'marina.filipovic@canterbury.ac.nz')
+('kenneth joseph335 davis', '')
+('wen dong306 davis hallphone', '')
+('matthew knepley211a', 'matthew.mattar@canterbury.ac.nz')
+('oliver kennedy', 'oliver.batchelor@canterbury.ac.nz')
+('jesse hartloff344', '645-4729hartloff@buffalo.eduassociate')
+('kenneth joseph', '645-0682kjoseph@buffalo.eduassistant')
+('jesse hartloff', '645-4729hartloff@buffalo.eduassociate')
+('gao', 'jack.morgan@canterbury.ac.nz')
+('ken regan', 'jack.morgan@canterbury.ac.nz')
+('paul dickson348', '')
+('matthew hertz', 'matthew.mattar@canterbury.ac.nz')
+('andrew hirsch', 'andreas.willig@canterbury.ac.nz')
+('andrew hirsch113m', 'andreas.willig@canterbury.ac.nz')
+('ken regan email', '')
+('ji email', '')
+('chen', '')
+('alan hunt354 davis', '')
+('matthew knepley', 'moffat.mathews@canterbury.ac.nz')
+('roger', 'joanne.roberts@canterbury.ac.nz')
+('david doermann215b', '645-1557doermann@buffalo.edu')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('christopher meiklejohn', '')
+('li xml', '')
+('li', 'blair.mcmaster@canterbury.ac.nz')
+('jack erskine', 'jack.morgan@canterbury.ac.nz')
 ('jack morgan', 'jack.morgan@canterbury.ac.nz')
-('peter glassenbury', 'pomeranz@ecn.purdue.edu')
-('ben adams', 'belinda.lansley@canterbury.ac.nz')
-('tracy henderson', 'ahalder@ucsc.edu')
 ('oliver batchelor', 'oliver.batchelor@canterbury.ac.nz')
-('jack erskine', 'makeson@soe.ucsc.edu')
+('walter guttmann', 'walter.guttmann@canterbury.ac.nz')
 ('sharon mcgregor', 'sharon.mcgregor@canterbury.ac.nz')
-('jack erskine 320', 'jack.morgan@canterbury.ac.nz')
-('joffre horlor', 'oliver.batchelor@canterbury.ac.nz')
-('sam pell', 'kat.bell@canterbury.ac.nz')
-('jack erskine  room', 'cromom@soe.ucsc.edu')
-('james atlas', 'meparsa@ucsc.edu')
-('andrew bainbridgesmith', 'andreas.willig@canterbury.ac.nz')
+('joffre horlor', '')
 ('jack erskine 221', 'jack.morgan@canterbury.ac.nz')
-('kimberly khalsalecturer iii', 'belinda.lansley@canterbury.ac.nz')
-('donald', 'danaw@purdue.edu')
-('john ejohn l tishman', 'kourosh.neshatian@canterbury.ac.nz')
-('david robertlecturer', 'joanne.roberts@canterbury.ac.nz')
-('andrew', 'andreas.willig@canterbury.ac.nz')
-('mark wprofessor', 'makeson@soe.ucsc.edu')
-('nancy', 'belinda.lansley@canterbury.ac.nz')
-('john pclaude e shannon', 'kourosh.neshatian@canterbury.ac.nz')
-('mark sgeorge herbert', 'joanne.roberts@canterbury.ac.nz')
-('lee', 'larrabee@ucsc.edu')
-('jack hu', 'ychu@purdue.edu')
-('john fprofessor', 'joanne.roberts@canterbury.ac.nz')
-('jeffrey slecturer', '645-4769sreyasee@buffalo.edu')
-('michael jadjunct', 'sam.schofield@pg.canterbury.ac.nz')
-('kang gkevin', 'makeson@soe.ucsc.edu')
+('jay holland', 'jack.morgan@canterbury.ac.nz')
+('andrew bainbridgesmith', 'andreas.willig@canterbury.ac.nz')
+('jack erskine rm', 'jack.morgan@canterbury.ac.nz')
+('sam pell', 'sam.schofield@pg.canterbury.ac.nz')
+('jack erskine 320', 'jack.morgan@canterbury.ac.nz')
+('ben adams', 'belinda.lansley@canterbury.ac.nz')
+('jack erskine  room', 'joanne.roberts@canterbury.ac.nz')
+('tracy henderson', '')
+('james atlas', 'matthias.galster@canterbury.ac.nz')
+('peter glassenbury', '')
+('dave cutler', 'oliver.batchelor@canterbury.ac.nz')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', 'jack.morgan@canterbury.ac.nz')
+('jennifer wegerer', '')
+('jamie zawinski', 'jack.morgan@canterbury.ac.nz')
+('max levchin', '')
+('erica joy baker', 'joanne.roberts@canterbury.ac.nz')
+('dan abramov', 'tanja.mitrovic@canterbury.ac.nz')
+('jason lengstorf', 'joanne.roberts@canterbury.ac.nz')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', 'marina.filipovic@canterbury.ac.nz')
+('sarah drasner', 'matthias.galster@canterbury.ac.nz')
+('richard gallcoeditor', 'oliver.batchelor@canterbury.ac.nz')
+('matt rickard', 'matthias.galster@canterbury.ac.nz')
+('dan', 'adrian.white@canterbury.ac.nz')
+('chris', '')
+('richard gall ', '')
+('audrey webster', 'andrew.cockburn@canterbury.ac.nz')
+('stephen yauprofessor', '')
+('christopher marcmchristopher marinstructor', '')
+('michael findler', 'sam.schofield@pg.canterbury.ac.nz')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('kevin garyassociate', 'adrian.white@canterbury.ac.nz')
+('javier gonzalezsanchez', '')
+('michael findlerlecturer', '')
+('tim lindquist', '')
+('robert heinrichsrobert heinrichslecturer', '')
+('kevin gary', 'belinda.lansley@canterbury.ac.nz')
+('jessica mong', 'jack.morgan@canterbury.ac.nz')
+('alan turing', 'walter.guttmann@canterbury.ac.nz')
+('kim', 'katia.delu@canterbury.ac.nz')
+('ryan desmond', 'fabian.gilson@canterbury.ac.nz')
+('kristina trajkovska', '')
+('paul buchheit', '')
+('tim brayonly', '')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('eric mikida208', '645-4755epmikida@buffalo.edu')
+('alan hunt', 'adrian.white@canterbury.ac.nz')
+('shi li328 davis', '')
+('eric mikida', '645-4755epmikida@buffalo.edu')
+('chen wang', 'greg.ewing@canterbury.ac.nz')
+('xin', 'adrian.white@canterbury.ac.nz')
+('matthew', 'matthew.mattar@canterbury.ac.nz')
+('george mason', 'greg.ewing@canterbury.ac.nz')
+('kenneth joseph email', '')
+('paul dickson', 'jack.morgan@canterbury.ac.nz')
+('carl alphonce', 'marina.filipovic@canterbury.ac.nz')
+('david doermann', '645-1557doermann@buffalo.edu')
+('farshad ghanei', 'adrian.white@canterbury.ac.nz')
+('wen dong', '')
+('kris schindler', 'sam.schofield@pg.canterbury.ac.nz')
+('tom hayes338d davis hallphone', '')
+('shi li', '')
+('jennifer winikus', '')
+('carl', 'marina.filipovic@canterbury.ac.nz')
+('kenneth joseph335 davis', '')
+('wen dong306 davis hallphone', '')
+('matthew knepley211a', 'matthew.mattar@canterbury.ac.nz')
+('oliver kennedy', 'oliver.batchelor@canterbury.ac.nz')
+('jesse hartloff344', '645-4729hartloff@buffalo.eduassociate')
+('kenneth joseph', '645-0682kjoseph@buffalo.eduassistant')
+('jesse hartloff', '645-4729hartloff@buffalo.eduassociate')
+('gao', 'jack.morgan@canterbury.ac.nz')
+('ken regan', 'jack.morgan@canterbury.ac.nz')
+('paul dickson348', '')
+('matthew hertz', 'matthew.mattar@canterbury.ac.nz')
+('andrew hirsch', 'andreas.willig@canterbury.ac.nz')
+('andrew hirsch113m', 'andreas.willig@canterbury.ac.nz')
+('ken regan email', '')
+('ji email', '')
+('chen', '')
+('alan hunt354 davis', '')
+('matthew knepley', 'moffat.mathews@canterbury.ac.nz')
+('roger', 'joanne.roberts@canterbury.ac.nz')
+('david doermann215b', '645-1557doermann@buffalo.edu')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('christopher meiklejohn', '')
+('li xml', '')
+('li', 'blair.mcmaster@canterbury.ac.nz')
+('jack erskine', 'jack.morgan@canterbury.ac.nz')
+('jack morgan', 'jack.morgan@canterbury.ac.nz')
+('oliver batchelor', 'oliver.batchelor@canterbury.ac.nz')
+('walter guttmann', 'walter.guttmann@canterbury.ac.nz')
+('sharon mcgregor', 'sharon.mcgregor@canterbury.ac.nz')
+('joffre horlor', '')
+('jack erskine 221', 'jack.morgan@canterbury.ac.nz')
+('jay holland', 'jack.morgan@canterbury.ac.nz')
+('andrew bainbridgesmith', 'andreas.willig@canterbury.ac.nz')
+('jack erskine rm', 'jack.morgan@canterbury.ac.nz')
+('sam pell', 'sam.schofield@pg.canterbury.ac.nz')
+('jack erskine 320', 'jack.morgan@canterbury.ac.nz')
+('ben adams', 'belinda.lansley@canterbury.ac.nz')
+('jack erskine  room', 'joanne.roberts@canterbury.ac.nz')
+('tracy henderson', '')
+('james atlas', 'matthias.galster@canterbury.ac.nz')
+('peter glassenbury', '')
+('dave cutler', 'oliver.batchelor@canterbury.ac.nz')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', 'jack.morgan@canterbury.ac.nz')
+('jennifer wegerer', '')
+('jamie zawinski', 'jack.morgan@canterbury.ac.nz')
+('max levchin', '')
+('erica joy baker', 'joanne.roberts@canterbury.ac.nz')
+('dan abramov', 'tanja.mitrovic@canterbury.ac.nz')
+('jason lengstorf', 'joanne.roberts@canterbury.ac.nz')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', 'marina.filipovic@canterbury.ac.nz')
+('sarah drasner', 'matthias.galster@canterbury.ac.nz')
+('richard gallcoeditor', 'oliver.batchelor@canterbury.ac.nz')
+('matt rickard', 'matthias.galster@canterbury.ac.nz')
+('dan', 'adrian.white@canterbury.ac.nz')
+('chris', '')
+('richard gall ', '')
+('audrey webster', 'andrew.cockburn@canterbury.ac.nz')
+('stephen yauprofessor', '')
+('christopher marcmchristopher marinstructor', '')
+('michael findler', 'sam.schofield@pg.canterbury.ac.nz')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('kevin garyassociate', 'adrian.white@canterbury.ac.nz')
+('javier gonzalezsanchez', '')
+('michael findlerlecturer', '')
+('tim lindquist', '')
+('robert heinrichsrobert heinrichslecturer', '')
+('kevin gary', 'belinda.lansley@canterbury.ac.nz')
+('jessica mong', 'jack.morgan@canterbury.ac.nz')
+('alan turing', 'walter.guttmann@canterbury.ac.nz')
+('kim', 'katia.delu@canterbury.ac.nz')
+('ryan desmond', 'fabian.gilson@canterbury.ac.nz')
+('kristina trajkovska', '')
+('paul buchheit', '')
+('tim brayonly', '')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('eric mikida208', '645-4755epmikida@buffalo.edu')
+('alan hunt', 'adrian.white@canterbury.ac.nz')
+('shi li328 davis', '')
+('eric mikida', '645-4755epmikida@buffalo.edu')
+('chen wang', 'greg.ewing@canterbury.ac.nz')
+('xin', 'adrian.white@canterbury.ac.nz')
+('matthew', 'matthew.mattar@canterbury.ac.nz')
+('george mason', 'greg.ewing@canterbury.ac.nz')
+('kenneth joseph email', '')
+('paul dickson', 'jack.morgan@canterbury.ac.nz')
+('carl alphonce', 'marina.filipovic@canterbury.ac.nz')
+('david doermann', '645-1557doermann@buffalo.edu')
+('farshad ghanei', 'adrian.white@canterbury.ac.nz')
+('wen dong', '')
+('kris schindler', 'sam.schofield@pg.canterbury.ac.nz')
+('tom hayes338d davis hallphone', '')
+('shi li', '')
+('jennifer winikus', '')
+('carl', 'marina.filipovic@canterbury.ac.nz')
+('kenneth joseph335 davis', '')
+('wen dong306 davis hallphone', '')
+('matthew knepley211a', 'matthew.mattar@canterbury.ac.nz')
+('oliver kennedy', 'oliver.batchelor@canterbury.ac.nz')
+('jesse hartloff344', '645-4729hartloff@buffalo.eduassociate')
+('kenneth joseph', '645-0682kjoseph@buffalo.eduassistant')
+('jesse hartloff', '645-4729hartloff@buffalo.eduassociate')
+('gao', 'jack.morgan@canterbury.ac.nz')
+('ken regan', 'jack.morgan@canterbury.ac.nz')
+('paul dickson348', '')
+('matthew hertz', 'matthew.mattar@canterbury.ac.nz')
+('andrew hirsch', 'andreas.willig@canterbury.ac.nz')
+('andrew hirsch113m', 'andreas.willig@canterbury.ac.nz')
+('ken regan email', '')
+('ji email', '')
+('chen', '')
+('alan hunt354 davis', '')
+('matthew knepley', 'moffat.mathews@canterbury.ac.nz')
+('roger', 'joanne.roberts@canterbury.ac.nz')
+('david doermann215b', '645-1557doermann@buffalo.edu')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('christopher meiklejohn', '')
+('li xml', '')
+('li', 'blair.mcmaster@canterbury.ac.nz')
+('jack erskine', 'jack.morgan@canterbury.ac.nz')
+('jack morgan', 'jack.morgan@canterbury.ac.nz')
+('oliver batchelor', 'oliver.batchelor@canterbury.ac.nz')
+('walter guttmann', 'walter.guttmann@canterbury.ac.nz')
+('sharon mcgregor', 'sharon.mcgregor@canterbury.ac.nz')
+('joffre horlor', '')
+('jack erskine 221', 'jack.morgan@canterbury.ac.nz')
+('jay holland', 'jack.morgan@canterbury.ac.nz')
+('andrew bainbridgesmith', 'andreas.willig@canterbury.ac.nz')
+('jack erskine rm', 'jack.morgan@canterbury.ac.nz')
+('sam pell', 'sam.schofield@pg.canterbury.ac.nz')
+('jack erskine 320', 'jack.morgan@canterbury.ac.nz')
+('ben adams', 'belinda.lansley@canterbury.ac.nz')
+('jack erskine  room', 'joanne.roberts@canterbury.ac.nz')
+('tracy henderson', '')
+('james atlas', 'matthias.galster@canterbury.ac.nz')
+('peter glassenbury', '')
+('dave cutler', 'oliver.batchelor@canterbury.ac.nz')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', 'jack.morgan@canterbury.ac.nz')
+('jennifer wegerer', '')
+('jamie zawinski', 'jack.morgan@canterbury.ac.nz')
+('max levchin', '')
+('erica joy baker', 'joanne.roberts@canterbury.ac.nz')
+('dan abramov', 'tanja.mitrovic@canterbury.ac.nz')
+('jason lengstorf', 'joanne.roberts@canterbury.ac.nz')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', 'marina.filipovic@canterbury.ac.nz')
+('sarah drasner', 'matthias.galster@canterbury.ac.nz')
+('richard gallcoeditor', 'oliver.batchelor@canterbury.ac.nz')
+('matt rickard', 'matthias.galster@canterbury.ac.nz')
+('dan', 'adrian.white@canterbury.ac.nz')
+('chris', '')
+('richard gall ', '')
+('audrey webster', 'andrew.cockburn@canterbury.ac.nz')
+('stephen yauprofessor', '')
+('christopher marcmchristopher marinstructor', '')
+('michael findler', 'sam.schofield@pg.canterbury.ac.nz')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('kevin garyassociate', 'adrian.white@canterbury.ac.nz')
+('javier gonzalezsanchez', '')
+('michael findlerlecturer', '')
+('tim lindquist', '')
+('robert heinrichsrobert heinrichslecturer', '')
+('kevin gary', 'belinda.lansley@canterbury.ac.nz')
+('jessica mong', 'jack.morgan@canterbury.ac.nz')
+('alan turing', 'walter.guttmann@canterbury.ac.nz')
+('kim', 'katia.delu@canterbury.ac.nz')
+('ryan desmond', 'fabian.gilson@canterbury.ac.nz')
+('kristina trajkovska', '')
+('paul buchheit', '')
+('tim brayonly', '')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('eric mikida208', '645-4755epmikida@buffalo.edu')
+('alan hunt', 'adrian.white@canterbury.ac.nz')
+('shi li328 davis', '')
+('eric mikida', '645-4755epmikida@buffalo.edu')
+('chen wang', 'greg.ewing@canterbury.ac.nz')
+('xin', 'adrian.white@canterbury.ac.nz')
+('matthew', 'matthew.mattar@canterbury.ac.nz')
+('george mason', 'greg.ewing@canterbury.ac.nz')
+('kenneth joseph email', '')
+('paul dickson', 'jack.morgan@canterbury.ac.nz')
+('carl alphonce', 'marina.filipovic@canterbury.ac.nz')
+('david doermann', '645-1557doermann@buffalo.edu')
+('farshad ghanei', 'adrian.white@canterbury.ac.nz')
+('wen dong', '')
+('kris schindler', 'sam.schofield@pg.canterbury.ac.nz')
+('tom hayes338d davis hallphone', '')
+('shi li', '')
+('jennifer winikus', '')
+('carl', 'marina.filipovic@canterbury.ac.nz')
+('kenneth joseph335 davis', '')
+('wen dong306 davis hallphone', '')
+('matthew knepley211a', 'matthew.mattar@canterbury.ac.nz')
+('oliver kennedy', 'oliver.batchelor@canterbury.ac.nz')
+('jesse hartloff344', '645-4729hartloff@buffalo.eduassociate')
+('kenneth joseph', '645-0682kjoseph@buffalo.eduassistant')
+('jesse hartloff', '645-4729hartloff@buffalo.eduassociate')
+('gao', 'jack.morgan@canterbury.ac.nz')
+('ken regan', 'jack.morgan@canterbury.ac.nz')
+('paul dickson348', '')
+('matthew hertz', 'matthew.mattar@canterbury.ac.nz')
+('andrew hirsch', 'andreas.willig@canterbury.ac.nz')
+('andrew hirsch113m', 'andreas.willig@canterbury.ac.nz')
+('ken regan email', '')
+('ji email', '')
+('chen', '')
+('alan hunt354 davis', '')
+('matthew knepley', 'moffat.mathews@canterbury.ac.nz')
+('roger', 'joanne.roberts@canterbury.ac.nz')
+('david doermann215b', '645-1557doermann@buffalo.edu')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('christopher meiklejohn', '')
+('li xml', '')
+('li', 'blair.mcmaster@canterbury.ac.nz')
+('jack erskine', 'jack.morgan@canterbury.ac.nz')
+('jack morgan', 'jack.morgan@canterbury.ac.nz')
+('oliver batchelor', 'oliver.batchelor@canterbury.ac.nz')
+('walter guttmann', 'walter.guttmann@canterbury.ac.nz')
+('sharon mcgregor', 'sharon.mcgregor@canterbury.ac.nz')
+('joffre horlor', '')
+('jack erskine 221', 'jack.morgan@canterbury.ac.nz')
+('jay holland', 'jack.morgan@canterbury.ac.nz')
+('andrew bainbridgesmith', 'andreas.willig@canterbury.ac.nz')
+('jack erskine rm', 'jack.morgan@canterbury.ac.nz')
+('sam pell', 'sam.schofield@pg.canterbury.ac.nz')
+('jack erskine 320', 'jack.morgan@canterbury.ac.nz')
+('ben adams', 'belinda.lansley@canterbury.ac.nz')
+('jack erskine  room', 'joanne.roberts@canterbury.ac.nz')
+('tracy henderson', '')
+('james atlas', 'matthias.galster@canterbury.ac.nz')
+('peter glassenbury', '')
+('jeffrey slecturer', '')
+('quentin fcodirector', '')
+('john pclaude e shannon', '')
+('nancy', '')
 ('mary loucollegiate lecturer emerita', '')
-('kevin jassociate', 'belinda.lansley@canterbury.ac.nz')
-('quentin fcodirector', 'sharon.mcgregor@canterbury.ac.nz')
-('david eprofessor emeritus', 'idemertz@ucsc.edu')
-('betty williams', 'andreas.willig@canterbury.ac.nz')
-('thomas microgrid', 'tanja.mitrovic@canterbury.ac.nz')
-('thomas', 'makeson@soe.ucsc.edu')
-('paul', 'yunglu@ecn.purdue.edu')
+('andrew', 'andreas.willig@canterbury.ac.nz')
+('john ejohn l tishman', 'joanne.roberts@canterbury.ac.nz')
+('lee', 'greg.ewing@canterbury.ac.nz')
+('kang gkevin', 'greg.ewing@canterbury.ac.nz')
+('mark wprofessor', '')
+('david robertlecturer', 'oliver.batchelor@canterbury.ac.nz')
+('jack hu', 'jack.morgan@canterbury.ac.nz')
+('kimberly khalsalecturer iii', 'blair.mcmaster@canterbury.ac.nz')
+('john fprofessor', 'joanne.roberts@canterbury.ac.nz')
+('mark sgeorge herbert', 'sharon.mcgregor@canterbury.ac.nz')
+('david eprofessor emeritus', '')
+('michael jadjunct', '')
+('betty williams', '')
+('kevin jassociate', 'tanja.mitrovic@canterbury.ac.nz')
+('donald', '')
+('dave cutler', 'oliver.batchelor@canterbury.ac.nz')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', 'jack.morgan@canterbury.ac.nz')
+('jennifer wegerer', '')
+('jamie zawinski', 'jack.morgan@canterbury.ac.nz')
+('max levchin', '')
+('erica joy baker', 'joanne.roberts@canterbury.ac.nz')
+('dan abramov', 'tanja.mitrovic@canterbury.ac.nz')
+('jason lengstorf', 'joanne.roberts@canterbury.ac.nz')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', 'marina.filipovic@canterbury.ac.nz')
+('sarah drasner', 'matthias.galster@canterbury.ac.nz')
+('richard gallcoeditor', 'oliver.batchelor@canterbury.ac.nz')
+('matt rickard', 'matthias.galster@canterbury.ac.nz')
+('dan', 'adrian.white@canterbury.ac.nz')
+('chris', '')
+('richard gall ', '')
+('audrey webster', 'andrew.cockburn@canterbury.ac.nz')
+('stephen yauprofessor', '')
+('christopher marcmchristopher marinstructor', '')
+('michael findler', 'sam.schofield@pg.canterbury.ac.nz')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('kevin garyassociate', 'adrian.white@canterbury.ac.nz')
+('javier gonzalezsanchez', '')
+('michael findlerlecturer', '')
+('tim lindquist', '')
+('robert heinrichsrobert heinrichslecturer', '')
+('kevin gary', 'belinda.lansley@canterbury.ac.nz')
+('jessica mong', 'jack.morgan@canterbury.ac.nz')
+('alan turing', 'walter.guttmann@canterbury.ac.nz')
+('kim', 'katia.delu@canterbury.ac.nz')
+('ryan desmond', 'fabian.gilson@canterbury.ac.nz')
+('kristina trajkovska', '')
+('paul buchheit', '')
+('tim brayonly', '')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('eric mikida208', '645-4755epmikida@buffalo.edu')
+('alan hunt', 'adrian.white@canterbury.ac.nz')
+('shi li328 davis', '')
+('eric mikida', '645-4755epmikida@buffalo.edu')
+('chen wang', 'greg.ewing@canterbury.ac.nz')
+('xin', 'adrian.white@canterbury.ac.nz')
+('matthew', 'matthew.mattar@canterbury.ac.nz')
+('george mason', 'greg.ewing@canterbury.ac.nz')
+('kenneth joseph email', '')
+('paul dickson', 'jack.morgan@canterbury.ac.nz')
+('carl alphonce', 'marina.filipovic@canterbury.ac.nz')
+('david doermann', '645-1557doermann@buffalo.edu')
+('farshad ghanei', 'adrian.white@canterbury.ac.nz')
+('wen dong', '')
+('kris schindler', 'sam.schofield@pg.canterbury.ac.nz')
+('tom hayes338d davis hallphone', '')
+('shi li', '')
+('jennifer winikus', '')
+('carl', 'marina.filipovic@canterbury.ac.nz')
+('kenneth joseph335 davis', '')
+('wen dong306 davis hallphone', '')
+('matthew knepley211a', 'matthew.mattar@canterbury.ac.nz')
+('oliver kennedy', 'oliver.batchelor@canterbury.ac.nz')
+('jesse hartloff344', '645-4729hartloff@buffalo.eduassociate')
+('kenneth joseph', '645-0682kjoseph@buffalo.eduassistant')
+('jesse hartloff', '645-4729hartloff@buffalo.eduassociate')
+('gao', 'jack.morgan@canterbury.ac.nz')
+('ken regan', 'jack.morgan@canterbury.ac.nz')
+('paul dickson348', '')
+('matthew hertz', 'matthew.mattar@canterbury.ac.nz')
+('andrew hirsch', 'andreas.willig@canterbury.ac.nz')
+('andrew hirsch113m', 'andreas.willig@canterbury.ac.nz')
+('ken regan email', '')
+('ji email', '')
+('chen', '')
+('alan hunt354 davis', '')
+('matthew knepley', 'moffat.mathews@canterbury.ac.nz')
+('roger', 'joanne.roberts@canterbury.ac.nz')
+('david doermann215b', '645-1557doermann@buffalo.edu')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('christopher meiklejohn', '')
+('li xml', '')
+('li', 'blair.mcmaster@canterbury.ac.nz')
+('jack erskine', 'jack.morgan@canterbury.ac.nz')
+('jack morgan', 'jack.morgan@canterbury.ac.nz')
+('oliver batchelor', 'oliver.batchelor@canterbury.ac.nz')
+('walter guttmann', 'walter.guttmann@canterbury.ac.nz')
+('sharon mcgregor', 'sharon.mcgregor@canterbury.ac.nz')
+('joffre horlor', '')
+('jack erskine 221', 'jack.morgan@canterbury.ac.nz')
+('jay holland', 'jack.morgan@canterbury.ac.nz')
+('andrew bainbridgesmith', 'andreas.willig@canterbury.ac.nz')
+('jack erskine rm', 'jack.morgan@canterbury.ac.nz')
+('sam pell', 'sam.schofield@pg.canterbury.ac.nz')
+('jack erskine 320', 'jack.morgan@canterbury.ac.nz')
+('ben adams', 'belinda.lansley@canterbury.ac.nz')
+('jack erskine  room', 'joanne.roberts@canterbury.ac.nz')
+('tracy henderson', '')
+('james atlas', 'matthias.galster@canterbury.ac.nz')
+('peter glassenbury', '')
+('jeffrey slecturer', '')
+('quentin fcodirector', '')
+('john pclaude e shannon', '')
+('nancy', '')
+('mary loucollegiate lecturer emerita', '')
+('andrew', 'andreas.willig@canterbury.ac.nz')
+('john ejohn l tishman', 'joanne.roberts@canterbury.ac.nz')
+('lee', 'greg.ewing@canterbury.ac.nz')
+('kang gkevin', 'greg.ewing@canterbury.ac.nz')
+('mark wprofessor', '')
+('david robertlecturer', 'oliver.batchelor@canterbury.ac.nz')
+('jack hu', 'jack.morgan@canterbury.ac.nz')
+('kimberly khalsalecturer iii', 'blair.mcmaster@canterbury.ac.nz')
+('john fprofessor', 'joanne.roberts@canterbury.ac.nz')
+('mark sgeorge herbert', 'sharon.mcgregor@canterbury.ac.nz')
+('david eprofessor emeritus', '')
+('michael jadjunct', '')
+('betty williams', '')
+('kevin jassociate', 'tanja.mitrovic@canterbury.ac.nz')
+('donald', '')
+('thomas', 'sam.schofield@pg.canterbury.ac.nz')
+('paul', '')
+('thomas microgrid', '')
+('dave cutler', 'oliver.batchelor@canterbury.ac.nz')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', 'jack.morgan@canterbury.ac.nz')
+('jennifer wegerer', '')
+('jamie zawinski', 'jack.morgan@canterbury.ac.nz')
+('max levchin', '')
+('erica joy baker', 'joanne.roberts@canterbury.ac.nz')
+('dan abramov', 'tanja.mitrovic@canterbury.ac.nz')
+('jason lengstorf', 'joanne.roberts@canterbury.ac.nz')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', 'marina.filipovic@canterbury.ac.nz')
+('sarah drasner', 'matthias.galster@canterbury.ac.nz')
+('richard gallcoeditor', 'oliver.batchelor@canterbury.ac.nz')
+('matt rickard', 'matthias.galster@canterbury.ac.nz')
+('dan', 'adrian.white@canterbury.ac.nz')
+('chris', '')
+('richard gall ', '')
+('audrey webster', 'andrew.cockburn@canterbury.ac.nz')
+('stephen yauprofessor', '')
+('christopher marcmchristopher marinstructor', '')
+('michael findler', 'sam.schofield@pg.canterbury.ac.nz')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('kevin garyassociate', 'adrian.white@canterbury.ac.nz')
+('javier gonzalezsanchez', '')
+('michael findlerlecturer', '')
+('tim lindquist', '')
+('robert heinrichsrobert heinrichslecturer', '')
+('kevin gary', 'belinda.lansley@canterbury.ac.nz')
+('jessica mong', 'jack.morgan@canterbury.ac.nz')
+('alan turing', 'walter.guttmann@canterbury.ac.nz')
+('kim', 'katia.delu@canterbury.ac.nz')
+('ryan desmond', 'fabian.gilson@canterbury.ac.nz')
+('kristina trajkovska', '')
+('paul buchheit', '')
+('tim brayonly', '')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('eric mikida208', '645-4755epmikida@buffalo.edu')
+('alan hunt', 'adrian.white@canterbury.ac.nz')
+('shi li328 davis', '')
+('eric mikida', '645-4755epmikida@buffalo.edu')
+('chen wang', 'greg.ewing@canterbury.ac.nz')
+('xin', 'adrian.white@canterbury.ac.nz')
+('matthew', 'matthew.mattar@canterbury.ac.nz')
+('george mason', 'greg.ewing@canterbury.ac.nz')
+('kenneth joseph email', '')
+('paul dickson', 'jack.morgan@canterbury.ac.nz')
+('carl alphonce', 'marina.filipovic@canterbury.ac.nz')
+('david doermann', '645-1557doermann@buffalo.edu')
+('farshad ghanei', 'adrian.white@canterbury.ac.nz')
+('wen dong', '')
+('kris schindler', 'sam.schofield@pg.canterbury.ac.nz')
+('tom hayes338d davis hallphone', '')
+('shi li', '')
+('jennifer winikus', '')
+('carl', 'marina.filipovic@canterbury.ac.nz')
+('kenneth joseph335 davis', '')
+('wen dong306 davis hallphone', '')
+('matthew knepley211a', 'matthew.mattar@canterbury.ac.nz')
+('oliver kennedy', 'oliver.batchelor@canterbury.ac.nz')
+('jesse hartloff344', '645-4729hartloff@buffalo.eduassociate')
+('kenneth joseph', '645-0682kjoseph@buffalo.eduassistant')
+('jesse hartloff', '645-4729hartloff@buffalo.eduassociate')
+('gao', 'jack.morgan@canterbury.ac.nz')
+('ken regan', 'jack.morgan@canterbury.ac.nz')
+('paul dickson348', '')
+('matthew hertz', 'matthew.mattar@canterbury.ac.nz')
+('andrew hirsch', 'andreas.willig@canterbury.ac.nz')
+('andrew hirsch113m', 'andreas.willig@canterbury.ac.nz')
+('ken regan email', '')
+('ji email', '')
+('chen', '')
+('alan hunt354 davis', '')
+('matthew knepley', 'moffat.mathews@canterbury.ac.nz')
+('roger', 'joanne.roberts@canterbury.ac.nz')
+('david doermann215b', '645-1557doermann@buffalo.edu')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('christopher meiklejohn', '')
+('li xml', '')
+('li', 'blair.mcmaster@canterbury.ac.nz')
+('jack erskine', 'jack.morgan@canterbury.ac.nz')
+('jack morgan', 'jack.morgan@canterbury.ac.nz')
+('oliver batchelor', 'oliver.batchelor@canterbury.ac.nz')
+('walter guttmann', 'walter.guttmann@canterbury.ac.nz')
+('sharon mcgregor', 'sharon.mcgregor@canterbury.ac.nz')
+('joffre horlor', '')
+('jack erskine 221', 'jack.morgan@canterbury.ac.nz')
+('jay holland', 'jack.morgan@canterbury.ac.nz')
+('andrew bainbridgesmith', 'andreas.willig@canterbury.ac.nz')
+('jack erskine rm', 'jack.morgan@canterbury.ac.nz')
+('sam pell', 'sam.schofield@pg.canterbury.ac.nz')
+('jack erskine 320', 'jack.morgan@canterbury.ac.nz')
+('ben adams', 'belinda.lansley@canterbury.ac.nz')
+('jack erskine  room', 'joanne.roberts@canterbury.ac.nz')
+('tracy henderson', '')
+('james atlas', 'matthias.galster@canterbury.ac.nz')
+('peter glassenbury', '')
+('jeffrey slecturer', '')
+('quentin fcodirector', '')
+('john pclaude e shannon', '')
+('nancy', '')
+('mary loucollegiate lecturer emerita', '')
+('andrew', 'andreas.willig@canterbury.ac.nz')
+('john ejohn l tishman', 'joanne.roberts@canterbury.ac.nz')
+('lee', 'greg.ewing@canterbury.ac.nz')
+('kang gkevin', 'greg.ewing@canterbury.ac.nz')
+('mark wprofessor', '')
+('david robertlecturer', 'oliver.batchelor@canterbury.ac.nz')
+('jack hu', 'jack.morgan@canterbury.ac.nz')
+('kimberly khalsalecturer iii', 'blair.mcmaster@canterbury.ac.nz')
+('john fprofessor', 'joanne.roberts@canterbury.ac.nz')
+('mark sgeorge herbert', 'sharon.mcgregor@canterbury.ac.nz')
+('david eprofessor emeritus', '')
+('michael jadjunct', '')
+('betty williams', '')
+('kevin jassociate', 'tanja.mitrovic@canterbury.ac.nz')
+('donald', '')
+('thomas', 'sam.schofield@pg.canterbury.ac.nz')
+('paul', '')
+('thomas microgrid', '')
+('dave cutler', 'oliver.batchelor@canterbury.ac.nz')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', 'jack.morgan@canterbury.ac.nz')
+('jennifer wegerer', '')
+('jamie zawinski', 'jack.morgan@canterbury.ac.nz')
+('max levchin', '')
+('erica joy baker', 'joanne.roberts@canterbury.ac.nz')
+('dan abramov', 'tanja.mitrovic@canterbury.ac.nz')
+('jason lengstorf', 'joanne.roberts@canterbury.ac.nz')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', 'marina.filipovic@canterbury.ac.nz')
+('sarah drasner', 'matthias.galster@canterbury.ac.nz')
+('richard gallcoeditor', 'oliver.batchelor@canterbury.ac.nz')
+('matt rickard', 'matthias.galster@canterbury.ac.nz')
+('dan', 'adrian.white@canterbury.ac.nz')
+('chris', '')
+('richard gall ', '')
+('audrey webster', 'andrew.cockburn@canterbury.ac.nz')
+('stephen yauprofessor', '')
+('christopher marcmchristopher marinstructor', '')
+('michael findler', 'sam.schofield@pg.canterbury.ac.nz')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('kevin garyassociate', 'adrian.white@canterbury.ac.nz')
+('javier gonzalezsanchez', '')
+('michael findlerlecturer', '')
+('tim lindquist', '')
+('robert heinrichsrobert heinrichslecturer', '')
+('kevin gary', 'belinda.lansley@canterbury.ac.nz')
+('jessica mong', 'jack.morgan@canterbury.ac.nz')
+('alan turing', 'walter.guttmann@canterbury.ac.nz')
+('kim', 'katia.delu@canterbury.ac.nz')
+('ryan desmond', 'fabian.gilson@canterbury.ac.nz')
+('kristina trajkovska', '')
+('paul buchheit', '')
+('tim brayonly', '')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('eric mikida208', '645-4755epmikida@buffalo.edu')
+('alan hunt', 'adrian.white@canterbury.ac.nz')
+('shi li328 davis', '')
+('eric mikida', '645-4755epmikida@buffalo.edu')
+('chen wang', 'greg.ewing@canterbury.ac.nz')
+('xin', 'adrian.white@canterbury.ac.nz')
+('matthew', 'matthew.mattar@canterbury.ac.nz')
+('george mason', 'greg.ewing@canterbury.ac.nz')
+('kenneth joseph email', '')
+('paul dickson', 'jack.morgan@canterbury.ac.nz')
+('carl alphonce', 'marina.filipovic@canterbury.ac.nz')
+('david doermann', '645-1557doermann@buffalo.edu')
+('farshad ghanei', 'adrian.white@canterbury.ac.nz')
+('wen dong', '')
+('kris schindler', 'sam.schofield@pg.canterbury.ac.nz')
+('tom hayes338d davis hallphone', '')
+('shi li', '')
+('jennifer winikus', '')
+('carl', 'marina.filipovic@canterbury.ac.nz')
+('kenneth joseph335 davis', '')
+('wen dong306 davis hallphone', '')
+('matthew knepley211a', 'matthew.mattar@canterbury.ac.nz')
+('oliver kennedy', 'oliver.batchelor@canterbury.ac.nz')
+('jesse hartloff344', '645-4729hartloff@buffalo.eduassociate')
+('kenneth joseph', '645-0682kjoseph@buffalo.eduassistant')
+('jesse hartloff', '645-4729hartloff@buffalo.eduassociate')
+('gao', 'jack.morgan@canterbury.ac.nz')
+('ken regan', 'jack.morgan@canterbury.ac.nz')
+('paul dickson348', '')
+('matthew hertz', 'matthew.mattar@canterbury.ac.nz')
+('andrew hirsch', 'andreas.willig@canterbury.ac.nz')
+('andrew hirsch113m', 'andreas.willig@canterbury.ac.nz')
+('ken regan email', '')
+('ji email', '')
+('chen', '')
+('alan hunt354 davis', '')
+('matthew knepley', 'moffat.mathews@canterbury.ac.nz')
+('roger', 'joanne.roberts@canterbury.ac.nz')
+('david doermann215b', '645-1557doermann@buffalo.edu')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('christopher meiklejohn', '')
+('li xml', '')
+('li', 'blair.mcmaster@canterbury.ac.nz')
+('jack erskine', 'jack.morgan@canterbury.ac.nz')
+('jack morgan', 'jack.morgan@canterbury.ac.nz')
+('oliver batchelor', 'oliver.batchelor@canterbury.ac.nz')
+('walter guttmann', 'walter.guttmann@canterbury.ac.nz')
+('sharon mcgregor', 'sharon.mcgregor@canterbury.ac.nz')
+('joffre horlor', '')
+('jack erskine 221', 'jack.morgan@canterbury.ac.nz')
+('jay holland', 'jack.morgan@canterbury.ac.nz')
+('andrew bainbridgesmith', 'andreas.willig@canterbury.ac.nz')
+('jack erskine rm', 'jack.morgan@canterbury.ac.nz')
+('sam pell', 'sam.schofield@pg.canterbury.ac.nz')
+('jack erskine 320', 'jack.morgan@canterbury.ac.nz')
+('ben adams', 'belinda.lansley@canterbury.ac.nz')
+('jack erskine  room', 'joanne.roberts@canterbury.ac.nz')
+('tracy henderson', '')
+('james atlas', 'matthias.galster@canterbury.ac.nz')
+('peter glassenbury', '')
+('jeffrey slecturer', '')
+('quentin fcodirector', '')
+('john pclaude e shannon', '')
+('nancy', '')
+('mary loucollegiate lecturer emerita', '')
+('andrew', 'andreas.willig@canterbury.ac.nz')
+('john ejohn l tishman', 'joanne.roberts@canterbury.ac.nz')
+('lee', 'greg.ewing@canterbury.ac.nz')
+('kang gkevin', 'greg.ewing@canterbury.ac.nz')
+('mark wprofessor', '')
+('david robertlecturer', 'oliver.batchelor@canterbury.ac.nz')
+('jack hu', 'jack.morgan@canterbury.ac.nz')
+('kimberly khalsalecturer iii', 'blair.mcmaster@canterbury.ac.nz')
+('john fprofessor', 'joanne.roberts@canterbury.ac.nz')
+('mark sgeorge herbert', 'sharon.mcgregor@canterbury.ac.nz')
+('david eprofessor emeritus', '')
+('michael jadjunct', '')
+('betty williams', '')
+('kevin jassociate', 'tanja.mitrovic@canterbury.ac.nz')
+('donald', '')
+('thomas', 'sam.schofield@pg.canterbury.ac.nz')
+('paul', '')
+('thomas microgrid', '')
+('dave cutler', 'oliver.batchelor@canterbury.ac.nz')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', 'jack.morgan@canterbury.ac.nz')
+('jennifer wegerer', '')
+('jamie zawinski', 'jack.morgan@canterbury.ac.nz')
+('max levchin', '')
+('erica joy baker', 'joanne.roberts@canterbury.ac.nz')
+('dan abramov', 'tanja.mitrovic@canterbury.ac.nz')
+('jason lengstorf', 'joanne.roberts@canterbury.ac.nz')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', 'marina.filipovic@canterbury.ac.nz')
+('sarah drasner', 'matthias.galster@canterbury.ac.nz')
+('richard gallcoeditor', 'oliver.batchelor@canterbury.ac.nz')
+('matt rickard', 'matthias.galster@canterbury.ac.nz')
+('dan', 'adrian.white@canterbury.ac.nz')
+('chris', '')
+('richard gall ', '')
+('audrey webster', 'andrew.cockburn@canterbury.ac.nz')
+('stephen yauprofessor', '')
+('christopher marcmchristopher marinstructor', '')
+('michael findler', 'sam.schofield@pg.canterbury.ac.nz')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('kevin garyassociate', 'adrian.white@canterbury.ac.nz')
+('javier gonzalezsanchez', '')
+('michael findlerlecturer', '')
+('tim lindquist', '')
+('robert heinrichsrobert heinrichslecturer', '')
+('kevin gary', 'belinda.lansley@canterbury.ac.nz')
+('jessica mong', 'jack.morgan@canterbury.ac.nz')
+('alan turing', 'walter.guttmann@canterbury.ac.nz')
+('kim', 'katia.delu@canterbury.ac.nz')
+('ryan desmond', 'fabian.gilson@canterbury.ac.nz')
+('kristina trajkovska', '')
+('paul buchheit', '')
+('tim brayonly', '')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('eric mikida208', '645-4755epmikida@buffalo.edu')
+('alan hunt', 'adrian.white@canterbury.ac.nz')
+('shi li328 davis', '')
+('eric mikida', '645-4755epmikida@buffalo.edu')
+('chen wang', 'greg.ewing@canterbury.ac.nz')
+('xin', 'adrian.white@canterbury.ac.nz')
+('matthew', 'matthew.mattar@canterbury.ac.nz')
+('george mason', 'greg.ewing@canterbury.ac.nz')
+('kenneth joseph email', '')
+('paul dickson', 'jack.morgan@canterbury.ac.nz')
+('carl alphonce', 'marina.filipovic@canterbury.ac.nz')
+('david doermann', '645-1557doermann@buffalo.edu')
+('farshad ghanei', 'adrian.white@canterbury.ac.nz')
+('wen dong', '')
+('kris schindler', 'sam.schofield@pg.canterbury.ac.nz')
+('tom hayes338d davis hallphone', '')
+('shi li', '')
+('jennifer winikus', '')
+('carl', 'marina.filipovic@canterbury.ac.nz')
+('kenneth joseph335 davis', '')
+('wen dong306 davis hallphone', '')
+('matthew knepley211a', 'matthew.mattar@canterbury.ac.nz')
+('oliver kennedy', 'oliver.batchelor@canterbury.ac.nz')
+('jesse hartloff344', '645-4729hartloff@buffalo.eduassociate')
+('kenneth joseph', '645-0682kjoseph@buffalo.eduassistant')
+('jesse hartloff', '645-4729hartloff@buffalo.eduassociate')
+('gao', 'jack.morgan@canterbury.ac.nz')
+('ken regan', 'jack.morgan@canterbury.ac.nz')
+('paul dickson348', '')
+('matthew hertz', 'matthew.mattar@canterbury.ac.nz')
+('andrew hirsch', 'andreas.willig@canterbury.ac.nz')
+('andrew hirsch113m', 'andreas.willig@canterbury.ac.nz')
+('ken regan email', '')
+('ji email', '')
+('chen', '')
+('alan hunt354 davis', '')
+('matthew knepley', 'moffat.mathews@canterbury.ac.nz')
+('roger', 'joanne.roberts@canterbury.ac.nz')
+('david doermann215b', '645-1557doermann@buffalo.edu')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('christopher meiklejohn', '')
+('li xml', '')
+('li', 'blair.mcmaster@canterbury.ac.nz')
+('jack erskine', 'jack.morgan@canterbury.ac.nz')
+('jack morgan', 'jack.morgan@canterbury.ac.nz')
+('oliver batchelor', 'oliver.batchelor@canterbury.ac.nz')
+('walter guttmann', 'walter.guttmann@canterbury.ac.nz')
+('sharon mcgregor', 'sharon.mcgregor@canterbury.ac.nz')
+('joffre horlor', '')
+('jack erskine 221', 'jack.morgan@canterbury.ac.nz')
+('jay holland', 'jack.morgan@canterbury.ac.nz')
+('andrew bainbridgesmith', 'andreas.willig@canterbury.ac.nz')
+('jack erskine rm', 'jack.morgan@canterbury.ac.nz')
+('sam pell', 'sam.schofield@pg.canterbury.ac.nz')
+('jack erskine 320', 'jack.morgan@canterbury.ac.nz')
+('ben adams', 'belinda.lansley@canterbury.ac.nz')
+('jack erskine  room', 'joanne.roberts@canterbury.ac.nz')
+('tracy henderson', '')
+('james atlas', 'matthias.galster@canterbury.ac.nz')
+('peter glassenbury', '')
+('jeffrey slecturer', '')
+('quentin fcodirector', '')
+('john pclaude e shannon', '')
+('nancy', '')
+('mary loucollegiate lecturer emerita', '')
+('andrew', 'andreas.willig@canterbury.ac.nz')
+('john ejohn l tishman', 'joanne.roberts@canterbury.ac.nz')
+('lee', 'greg.ewing@canterbury.ac.nz')
+('kang gkevin', 'greg.ewing@canterbury.ac.nz')
+('mark wprofessor', '')
+('david robertlecturer', 'oliver.batchelor@canterbury.ac.nz')
+('jack hu', 'jack.morgan@canterbury.ac.nz')
+('kimberly khalsalecturer iii', 'blair.mcmaster@canterbury.ac.nz')
+('john fprofessor', 'joanne.roberts@canterbury.ac.nz')
+('mark sgeorge herbert', 'sharon.mcgregor@canterbury.ac.nz')
+('david eprofessor emeritus', '')
+('michael jadjunct', '')
+('betty williams', '')
+('kevin jassociate', 'tanja.mitrovic@canterbury.ac.nz')
+('donald', '')
+('thomas', 'sam.schofield@pg.canterbury.ac.nz')
+('paul', '')
+('thomas microgrid', '')
+('william griswold', '')
+('bill howden', 'belinda.lansley@canterbury.ac.nz')
+('dave cutler', 'oliver.batchelor@canterbury.ac.nz')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', 'jack.morgan@canterbury.ac.nz')
+('jennifer wegerer', '')
+('jamie zawinski', 'jack.morgan@canterbury.ac.nz')
+('max levchin', '')
+('erica joy baker', 'joanne.roberts@canterbury.ac.nz')
+('dan abramov', 'tanja.mitrovic@canterbury.ac.nz')
+('jason lengstorf', 'joanne.roberts@canterbury.ac.nz')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', 'marina.filipovic@canterbury.ac.nz')
+('sarah drasner', 'matthias.galster@canterbury.ac.nz')
+('richard gallcoeditor', 'oliver.batchelor@canterbury.ac.nz')
+('matt rickard', 'matthias.galster@canterbury.ac.nz')
+('dan', 'adrian.white@canterbury.ac.nz')
+('chris', '')
+('richard gall ', '')
+('audrey webster', 'andrew.cockburn@canterbury.ac.nz')
+('stephen yauprofessor', '')
+('christopher marcmchristopher marinstructor', '')
+('michael findler', 'sam.schofield@pg.canterbury.ac.nz')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('kevin garyassociate', 'adrian.white@canterbury.ac.nz')
+('javier gonzalezsanchez', '')
+('michael findlerlecturer', '')
+('tim lindquist', '')
+('robert heinrichsrobert heinrichslecturer', '')
+('kevin gary', 'belinda.lansley@canterbury.ac.nz')
+('jessica mong', 'jack.morgan@canterbury.ac.nz')
+('alan turing', 'walter.guttmann@canterbury.ac.nz')
+('kim', 'katia.delu@canterbury.ac.nz')
+('ryan desmond', 'fabian.gilson@canterbury.ac.nz')
+('kristina trajkovska', '')
+('paul buchheit', '')
+('tim brayonly', '')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('eric mikida208', '645-4755epmikida@buffalo.edu')
+('alan hunt', 'adrian.white@canterbury.ac.nz')
+('shi li328 davis', '')
+('eric mikida', '645-4755epmikida@buffalo.edu')
+('chen wang', 'greg.ewing@canterbury.ac.nz')
+('xin', 'adrian.white@canterbury.ac.nz')
+('matthew', 'matthew.mattar@canterbury.ac.nz')
+('george mason', 'greg.ewing@canterbury.ac.nz')
+('kenneth joseph email', '')
+('paul dickson', 'jack.morgan@canterbury.ac.nz')
+('carl alphonce', 'marina.filipovic@canterbury.ac.nz')
+('david doermann', '645-1557doermann@buffalo.edu')
+('farshad ghanei', 'adrian.white@canterbury.ac.nz')
+('wen dong', '')
+('kris schindler', 'sam.schofield@pg.canterbury.ac.nz')
+('tom hayes338d davis hallphone', '')
+('shi li', '')
+('jennifer winikus', '')
+('carl', 'marina.filipovic@canterbury.ac.nz')
+('kenneth joseph335 davis', '')
+('wen dong306 davis hallphone', '')
+('matthew knepley211a', 'matthew.mattar@canterbury.ac.nz')
+('oliver kennedy', 'oliver.batchelor@canterbury.ac.nz')
+('jesse hartloff344', '645-4729hartloff@buffalo.eduassociate')
+('kenneth joseph', '645-0682kjoseph@buffalo.eduassistant')
+('jesse hartloff', '645-4729hartloff@buffalo.eduassociate')
+('gao', 'jack.morgan@canterbury.ac.nz')
+('ken regan', 'jack.morgan@canterbury.ac.nz')
+('paul dickson348', '')
+('matthew hertz', 'matthew.mattar@canterbury.ac.nz')
+('andrew hirsch', 'andreas.willig@canterbury.ac.nz')
+('andrew hirsch113m', 'andreas.willig@canterbury.ac.nz')
+('ken regan email', '')
+('ji email', '')
+('chen', '')
+('alan hunt354 davis', '')
+('matthew knepley', 'moffat.mathews@canterbury.ac.nz')
+('roger', 'joanne.roberts@canterbury.ac.nz')
+('david doermann215b', '645-1557doermann@buffalo.edu')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('christopher meiklejohn', '')
+('li xml', '')
+('li', 'blair.mcmaster@canterbury.ac.nz')
+('jack erskine', 'jack.morgan@canterbury.ac.nz')
+('jack morgan', 'jack.morgan@canterbury.ac.nz')
+('oliver batchelor', 'oliver.batchelor@canterbury.ac.nz')
+('walter guttmann', 'walter.guttmann@canterbury.ac.nz')
+('sharon mcgregor', 'sharon.mcgregor@canterbury.ac.nz')
+('joffre horlor', '')
+('jack erskine 221', 'jack.morgan@canterbury.ac.nz')
+('jay holland', 'jack.morgan@canterbury.ac.nz')
+('andrew bainbridgesmith', 'andreas.willig@canterbury.ac.nz')
+('jack erskine rm', 'jack.morgan@canterbury.ac.nz')
+('sam pell', 'sam.schofield@pg.canterbury.ac.nz')
+('jack erskine 320', 'jack.morgan@canterbury.ac.nz')
+('ben adams', 'belinda.lansley@canterbury.ac.nz')
+('jack erskine  room', 'joanne.roberts@canterbury.ac.nz')
+('tracy henderson', '')
+('james atlas', 'matthias.galster@canterbury.ac.nz')
+('peter glassenbury', '')
+('jeffrey slecturer', '')
+('quentin fcodirector', '')
+('john pclaude e shannon', '')
+('nancy', '')
+('mary loucollegiate lecturer emerita', '')
+('andrew', 'andreas.willig@canterbury.ac.nz')
+('john ejohn l tishman', 'joanne.roberts@canterbury.ac.nz')
+('lee', 'greg.ewing@canterbury.ac.nz')
+('kang gkevin', 'greg.ewing@canterbury.ac.nz')
+('mark wprofessor', '')
+('david robertlecturer', 'oliver.batchelor@canterbury.ac.nz')
+('jack hu', 'jack.morgan@canterbury.ac.nz')
+('kimberly khalsalecturer iii', 'blair.mcmaster@canterbury.ac.nz')
+('john fprofessor', 'joanne.roberts@canterbury.ac.nz')
+('mark sgeorge herbert', 'sharon.mcgregor@canterbury.ac.nz')
+('david eprofessor emeritus', '')
+('michael jadjunct', '')
+('betty williams', '')
+('kevin jassociate', 'tanja.mitrovic@canterbury.ac.nz')
+('donald', '')
+('thomas', 'sam.schofield@pg.canterbury.ac.nz')
+('paul', '')
+('thomas microgrid', '')
+('william griswold', '')
+('bill howden', 'belinda.lansley@canterbury.ac.nz')
+('william n pennington', '')
+('dave cutler', 'oliver.batchelor@canterbury.ac.nz')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', 'jack.morgan@canterbury.ac.nz')
+('jennifer wegerer', '')
+('jamie zawinski', 'jack.morgan@canterbury.ac.nz')
+('max levchin', '')
+('erica joy baker', 'joanne.roberts@canterbury.ac.nz')
+('dan abramov', 'tanja.mitrovic@canterbury.ac.nz')
+('jason lengstorf', 'joanne.roberts@canterbury.ac.nz')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', 'marina.filipovic@canterbury.ac.nz')
+('sarah drasner', 'matthias.galster@canterbury.ac.nz')
+('richard gallcoeditor', 'oliver.batchelor@canterbury.ac.nz')
+('matt rickard', 'matthias.galster@canterbury.ac.nz')
+('dan', 'adrian.white@canterbury.ac.nz')
+('chris', '')
+('richard gall ', '')
+('audrey webster', 'andrew.cockburn@canterbury.ac.nz')
+('stephen yauprofessor', '')
+('christopher marcmchristopher marinstructor', '')
+('michael findler', 'sam.schofield@pg.canterbury.ac.nz')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('kevin garyassociate', 'adrian.white@canterbury.ac.nz')
+('javier gonzalezsanchez', '')
+('michael findlerlecturer', '')
+('tim lindquist', '')
+('robert heinrichsrobert heinrichslecturer', '')
+('kevin gary', 'belinda.lansley@canterbury.ac.nz')
+('jessica mong', 'jack.morgan@canterbury.ac.nz')
+('alan turing', 'walter.guttmann@canterbury.ac.nz')
+('kim', 'katia.delu@canterbury.ac.nz')
+('ryan desmond', 'fabian.gilson@canterbury.ac.nz')
+('kristina trajkovska', '')
+('paul buchheit', '')
+('tim brayonly', '')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('eric mikida208', '645-4755epmikida@buffalo.edu')
+('alan hunt', 'adrian.white@canterbury.ac.nz')
+('shi li328 davis', '')
+('eric mikida', '645-4755epmikida@buffalo.edu')
+('chen wang', 'greg.ewing@canterbury.ac.nz')
+('xin', 'adrian.white@canterbury.ac.nz')
+('matthew', 'matthew.mattar@canterbury.ac.nz')
+('george mason', 'greg.ewing@canterbury.ac.nz')
+('kenneth joseph email', '')
+('paul dickson', 'jack.morgan@canterbury.ac.nz')
+('carl alphonce', 'marina.filipovic@canterbury.ac.nz')
+('david doermann', '645-1557doermann@buffalo.edu')
+('farshad ghanei', 'adrian.white@canterbury.ac.nz')
+('wen dong', '')
+('kris schindler', 'sam.schofield@pg.canterbury.ac.nz')
+('tom hayes338d davis hallphone', '')
+('shi li', '')
+('jennifer winikus', '')
+('carl', 'marina.filipovic@canterbury.ac.nz')
+('kenneth joseph335 davis', '')
+('wen dong306 davis hallphone', '')
+('matthew knepley211a', 'matthew.mattar@canterbury.ac.nz')
+('oliver kennedy', 'oliver.batchelor@canterbury.ac.nz')
+('jesse hartloff344', '645-4729hartloff@buffalo.eduassociate')
+('kenneth joseph', '645-0682kjoseph@buffalo.eduassistant')
+('jesse hartloff', '645-4729hartloff@buffalo.eduassociate')
+('gao', 'jack.morgan@canterbury.ac.nz')
+('ken regan', 'jack.morgan@canterbury.ac.nz')
+('paul dickson348', '')
+('matthew hertz', 'matthew.mattar@canterbury.ac.nz')
+('andrew hirsch', 'andreas.willig@canterbury.ac.nz')
+('andrew hirsch113m', 'andreas.willig@canterbury.ac.nz')
+('ken regan email', '')
+('ji email', '')
+('chen', '')
+('alan hunt354 davis', '')
+('matthew knepley', 'moffat.mathews@canterbury.ac.nz')
+('roger', 'joanne.roberts@canterbury.ac.nz')
+('david doermann215b', '645-1557doermann@buffalo.edu')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('christopher meiklejohn', '')
+('li xml', '')
+('li', 'blair.mcmaster@canterbury.ac.nz')
+('jack erskine', 'jack.morgan@canterbury.ac.nz')
+('jack morgan', 'jack.morgan@canterbury.ac.nz')
+('oliver batchelor', 'oliver.batchelor@canterbury.ac.nz')
+('walter guttmann', 'walter.guttmann@canterbury.ac.nz')
+('sharon mcgregor', 'sharon.mcgregor@canterbury.ac.nz')
+('joffre horlor', '')
+('jack erskine 221', 'jack.morgan@canterbury.ac.nz')
+('jay holland', 'jack.morgan@canterbury.ac.nz')
+('andrew bainbridgesmith', 'andreas.willig@canterbury.ac.nz')
+('jack erskine rm', 'jack.morgan@canterbury.ac.nz')
+('sam pell', 'sam.schofield@pg.canterbury.ac.nz')
+('jack erskine 320', 'jack.morgan@canterbury.ac.nz')
+('ben adams', 'belinda.lansley@canterbury.ac.nz')
+('jack erskine  room', 'joanne.roberts@canterbury.ac.nz')
+('tracy henderson', '')
+('james atlas', 'matthias.galster@canterbury.ac.nz')
+('peter glassenbury', '')
+('jeffrey slecturer', '')
+('quentin fcodirector', '')
+('john pclaude e shannon', '')
+('nancy', '')
+('mary loucollegiate lecturer emerita', '')
+('andrew', 'andreas.willig@canterbury.ac.nz')
+('john ejohn l tishman', 'joanne.roberts@canterbury.ac.nz')
+('lee', 'greg.ewing@canterbury.ac.nz')
+('kang gkevin', 'greg.ewing@canterbury.ac.nz')
+('mark wprofessor', '')
+('david robertlecturer', 'oliver.batchelor@canterbury.ac.nz')
+('jack hu', 'jack.morgan@canterbury.ac.nz')
+('kimberly khalsalecturer iii', 'blair.mcmaster@canterbury.ac.nz')
+('john fprofessor', 'joanne.roberts@canterbury.ac.nz')
+('mark sgeorge herbert', 'sharon.mcgregor@canterbury.ac.nz')
+('david eprofessor emeritus', '')
+('michael jadjunct', '')
+('betty williams', '')
+('kevin jassociate', 'tanja.mitrovic@canterbury.ac.nz')
+('donald', '')
+('thomas', 'sam.schofield@pg.canterbury.ac.nz')
+('paul', '')
+('thomas microgrid', '')
+('william griswold', '')
+('bill howden', 'belinda.lansley@canterbury.ac.nz')
+('william n pennington', '')
 ('alex kugell', 'kat.bell@canterbury.ac.nz')
-('bill howden', 'fabian.gilson@canterbury.ac.nz')
-('william griswold', 'andreas.willig@canterbury.ac.nz')
-('adam lippe', 'adrian.white@canterbury.ac.nz')
-('mohammad samarah', 'moffat.mathews@canterbury.ac.nz')
-('francis king', 'fabian.gilson@canterbury.ac.nz')
+('dave cutler', 'oliver.batchelor@canterbury.ac.nz')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', 'jack.morgan@canterbury.ac.nz')
+('jennifer wegerer', '')
+('jamie zawinski', 'jack.morgan@canterbury.ac.nz')
+('max levchin', '')
+('erica joy baker', 'joanne.roberts@canterbury.ac.nz')
+('dan abramov', 'tanja.mitrovic@canterbury.ac.nz')
+('jason lengstorf', 'joanne.roberts@canterbury.ac.nz')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', 'marina.filipovic@canterbury.ac.nz')
+('sarah drasner', 'matthias.galster@canterbury.ac.nz')
+('richard gallcoeditor', 'oliver.batchelor@canterbury.ac.nz')
+('matt rickard', 'matthias.galster@canterbury.ac.nz')
+('dan', 'adrian.white@canterbury.ac.nz')
+('chris', '')
+('richard gall ', '')
+('audrey webster', 'andrew.cockburn@canterbury.ac.nz')
+('stephen yauprofessor', '')
+('christopher marcmchristopher marinstructor', '')
+('michael findler', 'sam.schofield@pg.canterbury.ac.nz')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('kevin garyassociate', 'adrian.white@canterbury.ac.nz')
+('javier gonzalezsanchez', '')
+('michael findlerlecturer', '')
+('tim lindquist', '')
+('robert heinrichsrobert heinrichslecturer', '')
+('kevin gary', 'belinda.lansley@canterbury.ac.nz')
+('jessica mong', 'jack.morgan@canterbury.ac.nz')
+('alan turing', 'walter.guttmann@canterbury.ac.nz')
+('kim', 'katia.delu@canterbury.ac.nz')
+('ryan desmond', 'fabian.gilson@canterbury.ac.nz')
+('kristina trajkovska', '')
+('paul buchheit', '')
+('tim brayonly', '')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('eric mikida208', '645-4755epmikida@buffalo.edu')
+('alan hunt', 'adrian.white@canterbury.ac.nz')
+('shi li328 davis', '')
+('eric mikida', '645-4755epmikida@buffalo.edu')
+('chen wang', 'greg.ewing@canterbury.ac.nz')
+('xin', 'adrian.white@canterbury.ac.nz')
+('matthew', 'matthew.mattar@canterbury.ac.nz')
+('george mason', 'greg.ewing@canterbury.ac.nz')
+('kenneth joseph email', '')
+('paul dickson', 'jack.morgan@canterbury.ac.nz')
+('carl alphonce', 'marina.filipovic@canterbury.ac.nz')
+('david doermann', '645-1557doermann@buffalo.edu')
+('farshad ghanei', 'adrian.white@canterbury.ac.nz')
+('wen dong', '')
+('kris schindler', 'sam.schofield@pg.canterbury.ac.nz')
+('tom hayes338d davis hallphone', '')
+('shi li', '')
+('jennifer winikus', '')
+('carl', 'marina.filipovic@canterbury.ac.nz')
+('kenneth joseph335 davis', '')
+('wen dong306 davis hallphone', '')
+('matthew knepley211a', 'matthew.mattar@canterbury.ac.nz')
+('oliver kennedy', 'oliver.batchelor@canterbury.ac.nz')
+('jesse hartloff344', '645-4729hartloff@buffalo.eduassociate')
+('kenneth joseph', '645-0682kjoseph@buffalo.eduassistant')
+('jesse hartloff', '645-4729hartloff@buffalo.eduassociate')
+('gao', 'jack.morgan@canterbury.ac.nz')
+('ken regan', 'jack.morgan@canterbury.ac.nz')
+('paul dickson348', '')
+('matthew hertz', 'matthew.mattar@canterbury.ac.nz')
+('andrew hirsch', 'andreas.willig@canterbury.ac.nz')
+('andrew hirsch113m', 'andreas.willig@canterbury.ac.nz')
+('ken regan email', '')
+('ji email', '')
+('chen', '')
+('alan hunt354 davis', '')
+('matthew knepley', 'moffat.mathews@canterbury.ac.nz')
+('roger', 'joanne.roberts@canterbury.ac.nz')
+('david doermann215b', '645-1557doermann@buffalo.edu')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('christopher meiklejohn', '')
+('li xml', '')
+('li', 'blair.mcmaster@canterbury.ac.nz')
+('jack erskine', 'jack.morgan@canterbury.ac.nz')
+('jack morgan', 'jack.morgan@canterbury.ac.nz')
+('oliver batchelor', 'oliver.batchelor@canterbury.ac.nz')
+('walter guttmann', 'walter.guttmann@canterbury.ac.nz')
+('sharon mcgregor', 'sharon.mcgregor@canterbury.ac.nz')
+('joffre horlor', '')
+('jack erskine 221', 'jack.morgan@canterbury.ac.nz')
+('jay holland', 'jack.morgan@canterbury.ac.nz')
+('andrew bainbridgesmith', 'andreas.willig@canterbury.ac.nz')
+('jack erskine rm', 'jack.morgan@canterbury.ac.nz')
+('sam pell', 'sam.schofield@pg.canterbury.ac.nz')
+('jack erskine 320', 'jack.morgan@canterbury.ac.nz')
+('ben adams', 'belinda.lansley@canterbury.ac.nz')
+('jack erskine  room', 'joanne.roberts@canterbury.ac.nz')
+('tracy henderson', '')
+('james atlas', 'matthias.galster@canterbury.ac.nz')
+('peter glassenbury', '')
+('jeffrey slecturer', '')
+('quentin fcodirector', '')
+('john pclaude e shannon', '')
+('nancy', '')
+('mary loucollegiate lecturer emerita', '')
+('andrew', 'andreas.willig@canterbury.ac.nz')
+('john ejohn l tishman', 'joanne.roberts@canterbury.ac.nz')
+('lee', 'greg.ewing@canterbury.ac.nz')
+('kang gkevin', 'greg.ewing@canterbury.ac.nz')
+('mark wprofessor', '')
+('david robertlecturer', 'oliver.batchelor@canterbury.ac.nz')
+('jack hu', 'jack.morgan@canterbury.ac.nz')
+('kimberly khalsalecturer iii', 'blair.mcmaster@canterbury.ac.nz')
+('john fprofessor', 'joanne.roberts@canterbury.ac.nz')
+('mark sgeorge herbert', 'sharon.mcgregor@canterbury.ac.nz')
+('david eprofessor emeritus', '')
+('michael jadjunct', '')
+('betty williams', '')
+('kevin jassociate', 'tanja.mitrovic@canterbury.ac.nz')
+('donald', '')
+('thomas', 'sam.schofield@pg.canterbury.ac.nz')
+('paul', '')
+('thomas microgrid', '')
+('william griswold', '')
+('bill howden', 'belinda.lansley@canterbury.ac.nz')
+('william n pennington', '')
+('alex kugell', 'kat.bell@canterbury.ac.nz')
+('barry brinkman', '')
+('melanie ford', '')
 ('adam bondi', 'adrian.white@canterbury.ac.nz')
-('meng su', 'yunglu@ecn.purdue.edu')
-('shahid hussain', 'kourosh.neshatian@canterbury.ac.nz')
-('thomas rossi', 'makeson@soe.ucsc.edu')
+('thomas rossi', 'sam.schofield@pg.canterbury.ac.nz')
+('meng su', '')
 ('james r meehl innovation commons', 'tanja.mitrovic@canterbury.ac.nz')
-('barry brinkman', 'adrian.white@canterbury.ac.nz')
-('melanie ford', 'meparsa@ucsc.edu')
+('shahid hussain', '')
+('dave cutler', 'oliver.batchelor@canterbury.ac.nz')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', 'jack.morgan@canterbury.ac.nz')
+('jennifer wegerer', '')
+('jamie zawinski', 'jack.morgan@canterbury.ac.nz')
+('max levchin', '')
+('erica joy baker', 'joanne.roberts@canterbury.ac.nz')
+('dan abramov', 'tanja.mitrovic@canterbury.ac.nz')
+('jason lengstorf', 'joanne.roberts@canterbury.ac.nz')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', 'marina.filipovic@canterbury.ac.nz')
+('sarah drasner', 'matthias.galster@canterbury.ac.nz')
+('richard gallcoeditor', 'oliver.batchelor@canterbury.ac.nz')
+('matt rickard', 'matthias.galster@canterbury.ac.nz')
+('dan', 'adrian.white@canterbury.ac.nz')
+('chris', '')
+('richard gall ', '')
+('audrey webster', 'andrew.cockburn@canterbury.ac.nz')
+('stephen yauprofessor', '')
+('christopher marcmchristopher marinstructor', '')
+('michael findler', 'sam.schofield@pg.canterbury.ac.nz')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('kevin garyassociate', 'adrian.white@canterbury.ac.nz')
+('javier gonzalezsanchez', '')
+('michael findlerlecturer', '')
+('tim lindquist', '')
+('robert heinrichsrobert heinrichslecturer', '')
+('kevin gary', 'belinda.lansley@canterbury.ac.nz')
+('jessica mong', 'jack.morgan@canterbury.ac.nz')
+('alan turing', 'walter.guttmann@canterbury.ac.nz')
+('kim', 'katia.delu@canterbury.ac.nz')
+('ryan desmond', 'fabian.gilson@canterbury.ac.nz')
+('kristina trajkovska', '')
+('paul buchheit', '')
+('tim brayonly', '')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('eric mikida208', '645-4755epmikida@buffalo.edu')
+('alan hunt', 'adrian.white@canterbury.ac.nz')
+('shi li328 davis', '')
+('eric mikida', '645-4755epmikida@buffalo.edu')
+('chen wang', 'greg.ewing@canterbury.ac.nz')
+('xin', 'adrian.white@canterbury.ac.nz')
+('matthew', 'matthew.mattar@canterbury.ac.nz')
+('george mason', 'greg.ewing@canterbury.ac.nz')
+('kenneth joseph email', '')
+('paul dickson', 'jack.morgan@canterbury.ac.nz')
+('carl alphonce', 'marina.filipovic@canterbury.ac.nz')
+('david doermann', '645-1557doermann@buffalo.edu')
+('farshad ghanei', 'adrian.white@canterbury.ac.nz')
+('wen dong', '')
+('kris schindler', 'sam.schofield@pg.canterbury.ac.nz')
+('tom hayes338d davis hallphone', '')
+('shi li', '')
+('jennifer winikus', '')
+('carl', 'marina.filipovic@canterbury.ac.nz')
+('kenneth joseph335 davis', '')
+('wen dong306 davis hallphone', '')
+('matthew knepley211a', 'matthew.mattar@canterbury.ac.nz')
+('oliver kennedy', 'oliver.batchelor@canterbury.ac.nz')
+('jesse hartloff344', '645-4729hartloff@buffalo.eduassociate')
+('kenneth joseph', '645-0682kjoseph@buffalo.eduassistant')
+('jesse hartloff', '645-4729hartloff@buffalo.eduassociate')
+('gao', 'jack.morgan@canterbury.ac.nz')
+('ken regan', 'jack.morgan@canterbury.ac.nz')
+('paul dickson348', '')
+('matthew hertz', 'matthew.mattar@canterbury.ac.nz')
+('andrew hirsch', 'andreas.willig@canterbury.ac.nz')
+('andrew hirsch113m', 'andreas.willig@canterbury.ac.nz')
+('ken regan email', '')
+('ji email', '')
+('chen', '')
+('alan hunt354 davis', '')
+('matthew knepley', 'moffat.mathews@canterbury.ac.nz')
+('roger', 'joanne.roberts@canterbury.ac.nz')
+('david doermann215b', '645-1557doermann@buffalo.edu')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('christopher meiklejohn', '')
+('li xml', '')
+('li', 'blair.mcmaster@canterbury.ac.nz')
+('jack erskine', 'jack.morgan@canterbury.ac.nz')
+('jack morgan', 'jack.morgan@canterbury.ac.nz')
+('oliver batchelor', 'oliver.batchelor@canterbury.ac.nz')
+('walter guttmann', 'walter.guttmann@canterbury.ac.nz')
+('sharon mcgregor', 'sharon.mcgregor@canterbury.ac.nz')
+('joffre horlor', '')
+('jack erskine 221', 'jack.morgan@canterbury.ac.nz')
+('jay holland', 'jack.morgan@canterbury.ac.nz')
+('andrew bainbridgesmith', 'andreas.willig@canterbury.ac.nz')
+('jack erskine rm', 'jack.morgan@canterbury.ac.nz')
+('sam pell', 'sam.schofield@pg.canterbury.ac.nz')
+('jack erskine 320', 'jack.morgan@canterbury.ac.nz')
+('ben adams', 'belinda.lansley@canterbury.ac.nz')
+('jack erskine  room', 'joanne.roberts@canterbury.ac.nz')
+('tracy henderson', '')
+('james atlas', 'matthias.galster@canterbury.ac.nz')
+('peter glassenbury', '')
+('jeffrey slecturer', '')
+('quentin fcodirector', '')
+('john pclaude e shannon', '')
+('nancy', '')
+('mary loucollegiate lecturer emerita', '')
+('andrew', 'andreas.willig@canterbury.ac.nz')
+('john ejohn l tishman', 'joanne.roberts@canterbury.ac.nz')
+('lee', 'greg.ewing@canterbury.ac.nz')
+('kang gkevin', 'greg.ewing@canterbury.ac.nz')
+('mark wprofessor', '')
+('david robertlecturer', 'oliver.batchelor@canterbury.ac.nz')
+('jack hu', 'jack.morgan@canterbury.ac.nz')
+('kimberly khalsalecturer iii', 'blair.mcmaster@canterbury.ac.nz')
+('john fprofessor', 'joanne.roberts@canterbury.ac.nz')
+('mark sgeorge herbert', 'sharon.mcgregor@canterbury.ac.nz')
+('david eprofessor emeritus', '')
+('michael jadjunct', '')
+('betty williams', '')
+('kevin jassociate', 'tanja.mitrovic@canterbury.ac.nz')
+('donald', '')
+('thomas', 'sam.schofield@pg.canterbury.ac.nz')
+('paul', '')
+('thomas microgrid', '')
+('william griswold', '')
+('bill howden', 'belinda.lansley@canterbury.ac.nz')
+('william n pennington', '')
+('alex kugell', 'kat.bell@canterbury.ac.nz')
+('barry brinkman', '')
+('melanie ford', '')
+('adam bondi', 'adrian.white@canterbury.ac.nz')
+('thomas rossi', 'sam.schofield@pg.canterbury.ac.nz')
+('meng su', '')
+('james r meehl innovation commons', 'tanja.mitrovic@canterbury.ac.nz')
+('shahid hussain', '')
+('adam lippe', 'andreas.willig@canterbury.ac.nz')
+('mohammad samarah', '')
+('francis king', 'fabian.gilson@canterbury.ac.nz')
+('dave cutler', 'oliver.batchelor@canterbury.ac.nz')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('michael widenius', '')
+('paul buchheit', '')
+('john carmack', 'jack.morgan@canterbury.ac.nz')
+('jennifer wegerer', '')
+('jamie zawinski', 'jack.morgan@canterbury.ac.nz')
+('max levchin', '')
+('erica joy baker', 'joanne.roberts@canterbury.ac.nz')
+('dan abramov', 'tanja.mitrovic@canterbury.ac.nz')
+('jason lengstorf', 'joanne.roberts@canterbury.ac.nz')
+('jessie frazelle', '')
+('ryan burgess', '')
+('mark imbriaco', 'marina.filipovic@canterbury.ac.nz')
+('sarah drasner', 'matthias.galster@canterbury.ac.nz')
+('richard gallcoeditor', 'oliver.batchelor@canterbury.ac.nz')
+('matt rickard', 'matthias.galster@canterbury.ac.nz')
+('dan', 'adrian.white@canterbury.ac.nz')
+('chris', '')
+('richard gall ', '')
+('audrey webster', 'andrew.cockburn@canterbury.ac.nz')
+('stephen yauprofessor', '')
+('christopher marcmchristopher marinstructor', '')
+('michael findler', 'sam.schofield@pg.canterbury.ac.nz')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('kevin garyassociate', 'adrian.white@canterbury.ac.nz')
+('javier gonzalezsanchez', '')
+('michael findlerlecturer', '')
+('tim lindquist', '')
+('robert heinrichsrobert heinrichslecturer', '')
+('kevin gary', 'belinda.lansley@canterbury.ac.nz')
+('jessica mong', 'jack.morgan@canterbury.ac.nz')
+('alan turing', 'walter.guttmann@canterbury.ac.nz')
+('kim', 'katia.delu@canterbury.ac.nz')
+('ryan desmond', 'fabian.gilson@canterbury.ac.nz')
+('kristina trajkovska', '')
+('paul buchheit', '')
+('tim brayonly', '')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('eric mikida208', '645-4755epmikida@buffalo.edu')
+('alan hunt', 'adrian.white@canterbury.ac.nz')
+('shi li328 davis', '')
+('eric mikida', '645-4755epmikida@buffalo.edu')
+('chen wang', 'greg.ewing@canterbury.ac.nz')
+('xin', 'adrian.white@canterbury.ac.nz')
+('matthew', 'matthew.mattar@canterbury.ac.nz')
+('george mason', 'greg.ewing@canterbury.ac.nz')
+('kenneth joseph email', '')
+('paul dickson', 'jack.morgan@canterbury.ac.nz')
+('carl alphonce', 'marina.filipovic@canterbury.ac.nz')
+('david doermann', '645-1557doermann@buffalo.edu')
+('farshad ghanei', 'adrian.white@canterbury.ac.nz')
+('wen dong', '')
+('kris schindler', 'sam.schofield@pg.canterbury.ac.nz')
+('tom hayes338d davis hallphone', '')
+('shi li', '')
+('jennifer winikus', '')
+('carl', 'marina.filipovic@canterbury.ac.nz')
+('kenneth joseph335 davis', '')
+('wen dong306 davis hallphone', '')
+('matthew knepley211a', 'matthew.mattar@canterbury.ac.nz')
+('oliver kennedy', 'oliver.batchelor@canterbury.ac.nz')
+('jesse hartloff344', '645-4729hartloff@buffalo.eduassociate')
+('kenneth joseph', '645-0682kjoseph@buffalo.eduassistant')
+('jesse hartloff', '645-4729hartloff@buffalo.eduassociate')
+('gao', 'jack.morgan@canterbury.ac.nz')
+('ken regan', 'jack.morgan@canterbury.ac.nz')
+('paul dickson348', '')
+('matthew hertz', 'matthew.mattar@canterbury.ac.nz')
+('andrew hirsch', 'andreas.willig@canterbury.ac.nz')
+('andrew hirsch113m', 'andreas.willig@canterbury.ac.nz')
+('ken regan email', '')
+('ji email', '')
+('chen', '')
+('alan hunt354 davis', '')
+('matthew knepley', 'moffat.mathews@canterbury.ac.nz')
+('roger', 'joanne.roberts@canterbury.ac.nz')
+('david doermann215b', '645-1557doermann@buffalo.edu')
+('tim', 'tanja.mitrovic@canterbury.ac.nz')
+('christopher meiklejohn', '')
+('li xml', '')
+('li', 'blair.mcmaster@canterbury.ac.nz')
+('jack erskine', 'jack.morgan@canterbury.ac.nz')
+('jack morgan', 'jack.morgan@canterbury.ac.nz')
+('oliver batchelor', 'oliver.batchelor@canterbury.ac.nz')
+('walter guttmann', 'walter.guttmann@canterbury.ac.nz')
+('sharon mcgregor', 'sharon.mcgregor@canterbury.ac.nz')
+('joffre horlor', '')
+('jack erskine 221', 'jack.morgan@canterbury.ac.nz')
+('jay holland', 'jack.morgan@canterbury.ac.nz')
+('andrew bainbridgesmith', 'andreas.willig@canterbury.ac.nz')
+('jack erskine rm', 'jack.morgan@canterbury.ac.nz')
+('sam pell', 'sam.schofield@pg.canterbury.ac.nz')
+('jack erskine 320', 'jack.morgan@canterbury.ac.nz')
+('ben adams', 'belinda.lansley@canterbury.ac.nz')
+('jack erskine  room', 'joanne.roberts@canterbury.ac.nz')
+('tracy henderson', '')
+('james atlas', 'matthias.galster@canterbury.ac.nz')
+('peter glassenbury', '')
+('jeffrey slecturer', '')
+('quentin fcodirector', '')
+('john pclaude e shannon', '')
+('nancy', '')
+('mary loucollegiate lecturer emerita', '')
+('andrew', 'andreas.willig@canterbury.ac.nz')
+('john ejohn l tishman', 'joanne.roberts@canterbury.ac.nz')
+('lee', 'greg.ewing@canterbury.ac.nz')
+('kang gkevin', 'greg.ewing@canterbury.ac.nz')
+('mark wprofessor', '')
+('david robertlecturer', 'oliver.batchelor@canterbury.ac.nz')
+('jack hu', 'jack.morgan@canterbury.ac.nz')
+('kimberly khalsalecturer iii', 'blair.mcmaster@canterbury.ac.nz')
+('john fprofessor', 'joanne.roberts@canterbury.ac.nz')
+('mark sgeorge herbert', 'sharon.mcgregor@canterbury.ac.nz')
+('david eprofessor emeritus', '')
+('michael jadjunct', '')
+('betty williams', '')
+('kevin jassociate', 'tanja.mitrovic@canterbury.ac.nz')
+('donald', '')
+('thomas', 'sam.schofield@pg.canterbury.ac.nz')
+('paul', '')
+('thomas microgrid', '')
+('william griswold', '')
+('bill howden', 'belinda.lansley@canterbury.ac.nz')
+('william n pennington', '')
+('alex kugell', 'kat.bell@canterbury.ac.nz')
+('barry brinkman', '')
+('melanie ford', '')
+('adam bondi', 'adrian.white@canterbury.ac.nz')
+('thomas rossi', 'sam.schofield@pg.canterbury.ac.nz')
+('meng su', '')
+('james r meehl innovation commons', 'tanja.mitrovic@canterbury.ac.nz')
+('shahid hussain', '')
+('adam lippe', 'andreas.willig@canterbury.ac.nz')
+('mohammad samarah', '')
+('francis king', 'fabian.gilson@canterbury.ac.nz')
+('michael', 'sam.schofield@pg.canterbury.ac.nz')
 ('henry nicholas', 'belinda.lansley@canterbury.ac.nz')
-('michael', 'sam.schofield@pg.canterbury.ac.nz')
-('dan c marinescu', 'danaw@purdue.edu')
-('gary t leavens', 'greg.ewing@canterbury.ac.nz')
-('damla turgut', 'amakur@purdue.edu')
-('paul', 'yunglu@ecn.purdue.edu')
-('damian', 'danaw@purdue.edu')
-('robert r mccormick', 'cromom@soe.ucsc.edu')
-('william j white', 'adrian.white@canterbury.ac.nz')
-('daniel wlinna jrhanliuassociate', 'belinda.lansley@canterbury.ac.nz')
-('benjamin slivka', 'tanja.mitrovic@canterbury.ac.nz')
-('katherine birck', 'marina.filipovic@canterbury.ac.nz')
-('michael d zoltowskithomas j', 'matthew.mattar@canterbury.ac.nz')
-('donald w feddersen', 'ahalder@ucsc.edu')
-('david i inouye', 'danaw@purdue.edu')
-('wendy', '645-1589wendong@buffalo.edu')
-('peter', 'pbermel@purdue.edu')
-('mark johnson', 'makeson@soe.ucsc.edu')
-('dean', 'danaw@purdue.edu')
-('michael a capano', 'friedlan@soe.ucsc.edu')
-('charles a boumanshowalter', 'matthias.galster@canterbury.ac.nz')
-('dan jiaosynopsys', 'djiao@purdue.edu')
-('mimi', 'kimkt@purdue.edu')
-('james s lehnert', 'joanne.roberts@canterbury.ac.nz')
-('richard j', '645-3186rsridhar@buffalo.edu')
-('mary jo schwartz', 'meparsa@ucsc.edu')
-('chun wang', 'ychu@purdue.edu')
-('mark s lundstrom', 'matthias.galster@canterbury.ac.nz')
-('charles william harrison', 'andreas.willig@canterbury.ac.nz')
-('james davis', 'meparsa@ucsc.edu')
-('charlie humichael', 'katia.delu@canterbury.ac.nz')
-('david b janes', 'adrian.white@canterbury.ac.nz')
-('michael r melloch', 'pbermel@purdue.edu')
-('hong z tankeysight', 'andreas.willig@canterbury.ac.nz')
-('yong chen', 'yongchen@purdue.edu')
-('steven d pekarekdr', 'andrew.cockburn@canterbury.ac.nz')
-('kevin j webb', 'mckinnjd@purdue.edu')
-('ryan newton', 'andrew.cockburn@canterbury.ac.nz')
-('nick trbovich', 'tanja.mitrovic@canterbury.ac.nz')
-('michael', 'sam.schofield@pg.canterbury.ac.nz')
-('katherine birck head', '645-0247akhirsch@buffalo.edu')
-('jeffrey m siskind', 'mckinnjd@purdue.edu')
-('patricia l epstein', 'matthias.galster@canterbury.ac.nz')
-('anne burnett', 'joanne.roberts@canterbury.ac.nz')
-('thomas roth', 'makeson@soe.ucsc.edu')
-('luis gomez', 'pomeranz@ecn.purdue.edu')
-('dean emerita', 'idemertz@ucsc.edu')
-('edward g tiedemann jr', 'walter.guttmann@canterbury.ac.nz')
-('philip e pare', 'ahalder@ucsc.edu')
-('christopher brinton', '645-4766eblanton@buffalo.edu')
-('scott d sudhoffmichael', 'sam.schofield@pg.canterbury.ac.nz')
-('thomas duncan', 'makeson@soe.ucsc.edu')
-('joseph makin', 'kourosh.neshatian@canterbury.ac.nz')
-('michael manfra', 'friedlan@soe.ucsc.edu')
-('carla zoltowski', 'cromom@soe.ucsc.edu')
-('meng cuiassociate', 'matthias.galster@canterbury.ac.nz')
-('weng c chew', 'yongchen@purdue.edu')
-('vladimir m shalaevbob', 'blair.mcmaster@canterbury.ac.nz')
-('marie gordon', 'makeson@soe.ucsc.edu')
-('daniel s elliott', 'fabian.gilson@canterbury.ac.nz')
-('robert l givan', 'pomeranz@ecn.purdue.edu')
-('david j', 'danaw@purdue.edu')
-('william n pennington', 'andreas.willig@canterbury.ac.nz')
-('william n pennington', 'andreas.willig@canterbury.ac.nz')
-('fred harris', 'friedlan@soe.ucsc.edu')
-('david feilseifer', 'idemertz@ucsc.edu')
-('adam kirn', 'amakur@purdue.edu')
-('monica nicolescu', 'joanne.roberts@canterbury.ac.nz')
-('lee barford', 'oliver.batchelor@canterbury.ac.nz')
-('rose a hoeper', 'ahalder@ucsc.edu')
-('kostas alexis', 'ahalder@ucsc.edu')
-('nancy latourrette', 'larrabee@ucsc.edu')
-('paul sanberg', 'pbermel@purdue.edu')
-('douglas w hood', 'sam.schofield@pg.canterbury.ac.nz')
-('william gauvinemail', 'andreas.willig@canterbury.ac.nz')
-('mauricio pamplona segundo', 'sharon.mcgregor@canterbury.ac.nz')
-('jay ligatti', 'jianli@ku.edu')
-('william hendrix iii', 'oliver.batchelor@canterbury.ac.nz')
-('lawrence hall', 'larrabee@ucsc.edu')
-('john skvoretz', 'jack.morgan@canterbury.ac.nz')
-('matthew peterson', 'matthew.mattar@canterbury.ac.nz')
-('peter r mouton', 'walter.guttmann@canterbury.ac.nz')
-('yan zhang', 'danaw@purdue.edu')
-('kathleen moore', 'ahalder@ucsc.edu')
-('attila a yavuz', 'katia.delu@canterbury.ac.nz')
-('abraham kandel', 'pbermel@purdue.edu')
-('john murraybruce', 'larrabee@ucsc.edu')
-('james anderson', 'ahalder@ucsc.edu')
-('marvin andujar', 'mckinnjd@purdue.edu')
-('hao zheng', 'yongchen@purdue.edu')
-('robert karam', 'joanne.roberts@canterbury.ac.nz')
-('louis kim', 'kimkt@purdue.edu')
-('john licato', 'jianli@ku.edu')
-('chris woolston', 'matthias.galster@canterbury.ac.nz')
-('paul richmond', 'jack.morgan@canterbury.ac.nz')
-('chris woolston0', 'matthias.galster@canterbury.ac.nz')
-('christina gorton', 'cromom@soe.ucsc.edu')
-('nathalie christmanncooper', 'walter.guttmann@canterbury.ac.nz')
-('josh kemp', 'saeedm@purdue.edu')
-('kevin smith', 'kimkt@purdue.edu')
-('jennifer lohoefeners', 'joanne.roberts@canterbury.ac.nz')
-('christopher allens', 'pomeranz@ecn.purdue.edu')
-('jonathan brumbergs', 'joanne.roberts@canterbury.ac.nz')
-('patrick mccormicks', 'jack.morgan@canterbury.ac.nz')
-('joseph evanss', '645-0682kjoseph@buffalo.edu')
-('james mcnaughtons', 'makeson@soe.ucsc.edu')
-('john padens', 'ahalder@ucsc.edu')
-('john gibbonss', 'fabian.gilson@canterbury.ac.nz')
-('gary', 'amakur@purdue.edu')
-('jerzy w grzymalabusses', 'belinda.lansley@canterbury.ac.nz')
-('li', 'jianli@ku.edu')
-('roy a roberts', 'joanne.roberts@canterbury.ac.nz')
-('james r millers', 'joanne.roberts@canterbury.ac.nz')
-('dan f servey', 'belinda.lansley@canterbury.ac.nz')
-('michael branickys', 'pomeranz@ecn.purdue.edu')
-('glenn prescotts', 'joanne.roberts@canterbury.ac.nz')
-('erik perrinss', 'friedlan@soe.ucsc.edu')
-('david johnsons', 'fabian.gilson@canterbury.ac.nz')
-('jian lis', 'jianli@ku.edu')
-('david petrs', 'idemertz@ucsc.edu')
-('mohammad alians', 'moffat.mathews@canterbury.ac.nz')
-('kenneth demarests', 'joanne.roberts@canterbury.ac.nz')
-('johnson', 'makeson@soe.ucsc.edu')
-('james stiless', 'andreas.willig@canterbury.ac.nz')
-('matthew moores', 'matthew.mattar@canterbury.ac.nz')
-('charles e  mary jane spahr professor', 'joanne.roberts@canterbury.ac.nz')
-('francis m thomas', 'fabian.gilson@canterbury.ac.nz')
-('kim', 'kimkt@purdue.edu')
-('jeff huang', 'phuoc.tran-gia@canterbury.ac.nz')
-('frank m shipman', 'adrian.white@canterbury.ac.nz')
-('robert lightfoot', 'joanne.roberts@canterbury.ac.nz')
-('jack baskin', 'jack.morgan@canterbury.ac.nz')
-('david alexander', 'ahalder@ucsc.edu')
-('david helmbold', 'ahalder@ucsc.edu')
-('michael m oye', 'oliver.batchelor@canterbury.ac.nz')
-('john skardon', 'kourosh.neshatian@canterbury.ac.nz')
-('john musacchio', 'sbagchi@purdue.edu')
-('pankaj mehra', 'ahalder@ucsc.edu')
-('alvaro a cardenasalvarocardenasucscedu', '')
-('herbert leeherbiesoeucscedu', 'joanne.roberts@canterbury.ac.nz')
-('chris parsa', 'meparsa@ucsc.edu')
-('rick graziani', 'jianli@ku.edu')
-('richard jullig', 'andreas.willig@canterbury.ac.nz')
-('david bernick', 'idemertz@ucsc.edu')
-('mike parsa', 'meparsa@ucsc.edu')
-('gabriel hugh', 'katia.delu@canterbury.ac.nz')
-('jim whitehead', 'adrian.white@canterbury.ac.nz')
-('jeff lefevrejlefevrecsucscedu', '')
-('david draper', 'blair.mcmaster@canterbury.ac.nz')
-('katherine currie isbister', 'matthias.galster@canterbury.ac.nz')
-('david leedlee105ucscedu', '')
-('camilla forsbergcforsbersoeucscedu', '')
-('linda werner', 'belinda.lansley@canterbury.ac.nz')
-('james davis', 'meparsa@ucsc.edu')
-('michael s isaacsonmsisoeucscedunarinder', '')
-('michael johnmbjohnucscedu', 'sam.schofield@pg.canterbury.ac.nz')
-('steve mcguire', 'sharon.mcgregor@canterbury.ac.nz')
-('sarah meyerrameyerucscedu', 'sam.schofield@pg.canterbury.ac.nz')
-('donald m wibergwibergsoeucscedu', 'oliver.batchelor@canterbury.ac.nz')
-('christopher yonge', 'yongchen@purdue.edu')
-('robert l coffman', 'pomeranz@ecn.purdue.edu')
-('matthew guthaus', 'matthew.mattar@canterbury.ac.nz')
-('xin eric wangxwang366ucscedu', '')
-('steve whittaker', 'matthew.mattar@canterbury.ac.nz')
-('chen qian', 'yongchen@purdue.edu')
-('john veseckyveseckysoeucscedu', '')
-('francis x giraldo', 'fabian.gilson@canterbury.ac.nz')
-('robert lundrolunducscedu', 'belinda.lansley@canterbury.ac.nz')
-('jeffrey bergaminijbergamiucscedu', 'joanne.roberts@canterbury.ac.nz')
-('angela n brooksanbrooksucscedu', '')
-('marcela alfarocrdoba', 'matthew.mattar@canterbury.ac.nz')
-('jeffrey flanigan', 'friedlan@soe.ucsc.edu')
-('daniel h kim', 'adrian.white@canterbury.ac.nz')
-('adam m smithamsmithucscedu', 'tanja.mitrovic@canterbury.ac.nz')
-('jonathan woody', 'kourosh.neshatian@canterbury.ac.nz')
-('raquel prado', 'marina.filipovic@canterbury.ac.nz')
-('brian michael hansen', 'fabian.gilson@canterbury.ac.nz')
-('alex pang', 'walter.guttmann@canterbury.ac.nz')
-('james shanahan', 'jack.morgan@canterbury.ac.nz')
-('richard edward', 'friedlan@soe.ucsc.edu')
-('david c harrisondcharrisucscedu', 'sharon.mcgregor@canterbury.ac.nz')
-('patrick mantey', 'adrian.white@canterbury.ac.nz')
-('kumar malavalli', 'andreas.willig@canterbury.ac.nz')
-('michael mateasmichaelmsoeucscedu', 'moffat.mathews@canterbury.ac.nz')
-('ahmed hamdyahamdyucscedu', 'sam.schofield@pg.canterbury.ac.nz')
-('wei kangwekangucscedu', 'adrian.white@canterbury.ac.nz')
-('hamid r sadjadpour', 'amakur@purdue.edu')
-('patrick tantalo', 'adrian.white@canterbury.ac.nz')
-('leonard a ferrarileferrarucscedu', 'larrabee@ucsc.edu')
-('yang liuyangliuucscedu', 'yunglu@ecn.purdue.edu')
-('andrew quinn', 'andrew.cockburn@canterbury.ac.nz')
-('david haussler', 'ahalder@ucsc.edu')
-('terry smith', 'pbermel@purdue.edu')
-('allen van gelder', 'ahalder@ucsc.edu')
-('yu zhang', 'yunglu@ecn.purdue.edu')
-('david deamer', 'idemertz@ucsc.edu')
-('charlie mcdowell', 'friedlan@soe.ucsc.edu')
-('steve', 'saeedm@purdue.edu')
-('max dunnemdunnesoeucscedubaskin engineering', '')
-('paul a parker', 'ahalder@ucsc.edu')
-('claudia andrea wehrhahn', 'andrew.cockburn@canterbury.ac.nz')
-('peter alvaropalvaroucscedu', 'tanja.mitrovic@canterbury.ac.nz')
