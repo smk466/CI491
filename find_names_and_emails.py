@@ -95,7 +95,7 @@ def is_the_name_in_name_dictionary(entity: Span) -> bool:
     with open("name_dictionary.json", "r") as f:
         nameDictionary: dict[str, str] = json.load(f)
     firstChar = entity.text[:1].upper()
-    return any((entity.text.split(" ")[0].lower() == name.lower()) for name in nameDictionary[firstChar])
+    return any((entity.text.split(" ")[0].lower() == name.lower()) for name in nameDictionary[firstChar] if entity.text[0] != "Data")
 
 def is_the_name_in_name_dictionary_string(text: str) -> bool:
     with open("name_dictionary.json", "r") as f:
