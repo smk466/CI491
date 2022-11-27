@@ -1,4 +1,5 @@
 from difflib import SequenceMatcher
+from web_scrape_classes import Person
 
 nameList: list = ["Chris Bryant", "Michael Jordan", "Michael Jackson", "Kobe Bryant"]
 emailList: list = ["C.Bryant@gmail.com","Kobe.Br@gmail.com","Mich.Jackson@gmail.com","Mich.Jordan@gmail.com"]
@@ -7,8 +8,9 @@ nameList2: list = ["Khalid Salem", "Mutasem Salem"]
 emailList2: list = ["kjs426@drexel.ed", "ms4268@drexel.edu"]
 
 
-def compareLists(nameList: list[str], emailList: list[str]) -> list[str]:
+def compareLists(nameList: list[str], emailList: list[str]) -> tuple[list[tuple], list[Person]]:
     matchList: list = []
+    finalPersonList: list[Person]
     for name in nameList:
         threshold: float = .30
         emailMatched: str = ''
@@ -21,7 +23,8 @@ def compareLists(nameList: list[str], emailList: list[str]) -> list[str]:
         match = (name, emailMatched)
         matchList.append(match)
     finalList: list = iterate_each_tuple(matchList)
-    return finalList        
+    finalPersonList = [Person(personTuple[0], personTuple[1], "WIP", "WIP", "WIP") for personTuple in finalList]
+    return finalList, finalPersonList
 
 def iterate_each_tuple(matchList: list) -> list[tuple]:
     email: str

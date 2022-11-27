@@ -9,6 +9,7 @@ from spacy.tokens import Token
 
 import name_email_comparison as nec
 from web_scrape_classes import LinkContent
+from web_scrape_classes import Person
 
 english_nlp: Language = spacy.load('en_core_web_sm')
 english_nlp.max_length: int = 10000000
@@ -21,11 +22,14 @@ docs: list[Doc] = []
 def names_and_emails(content: list[LinkContent]) -> tuple[list[str], list[str], list[str]]:
     nameList: list[str] = []
     emailList: list[str] = []
-    matchingNamesEmails: list[str] = [] 
+    #matchingNamesEmails: list[str] = [] 
+    matchingNamesEmails: list[Person] = []
     for webObj in content:
         tempNameList: list[str] = retrieve_names(webObj.content)
         tempEmailList: list[str] = retrieve_emails(webObj.content)
-        matchingNamesEmails.extend(nec.compareLists(tempNameList, tempEmailList))
+        tupleList, personList = nec.compareLists(tempNameList, tempEmailList)
+        #matchingNamesEmails.extend(tupleList)
+        matchingNamesEmails.extend(personList)
         nameList.extend(tempNameList)
         emailList.extend(tempEmailList)
         write_entity_text_to_file()
@@ -95,7 +99,7 @@ def is_the_name_in_name_dictionary(entity: Span) -> bool:
     with open("name_dictionary.json", "r") as f:
         nameDictionary: dict[str, str] = json.load(f)
     firstChar = entity.text[:1].upper()
-    return any((entity.text.split(" ")[0].lower() == name.lower()) for name in nameDictionary[firstChar] if entity.text[0] != "Data")
+    return any((entity.text.split(" ")[0].lower() == name.lower()) for name in nameDictionary[firstChar] if "Data" not in entity.text)
 
 def is_the_name_in_name_dictionary_string(text: str) -> bool:
     with open("name_dictionary.json", "r") as f:
