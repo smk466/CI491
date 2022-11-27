@@ -27,7 +27,7 @@ def names_and_emails(content: list[LinkContent]) -> tuple[list[str], list[str], 
     for webObj in content:
         tempNameList: list[str] = retrieve_names(webObj.content)
         tempEmailList: list[str] = retrieve_emails(webObj.content)
-        tupleList, personList = nec.compareLists(tempNameList, tempEmailList)
+        tupleList, personList = nec.compareLists(tempNameList, tempEmailList, webObj.link)
         #matchingNamesEmails.extend(tupleList)
         matchingNamesEmails.extend(personList)
         nameList.extend(tempNameList)

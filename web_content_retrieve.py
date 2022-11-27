@@ -35,9 +35,10 @@ def retrieve_webpage_contents(links: list[str]) -> list[str]:
         page_head.append(soup.head)
         #product = soup.select('div.thumbnail')
         # kill all script and style elements
-        soup = format_and_replace_html_tags(soup)
+        # soup = format_and_replace_html_tags(soup)
         # get text
-        text = soup.get_text()
+        # text = soup.get_text()
+        text = format_and_replace_html_tags(soup)
         # break into lines and remove leading and trailing space on each
         lines = (line.strip() for line in text.splitlines())
         # break multi-headlines into a line each
@@ -53,15 +54,25 @@ def retrieve_webpage_contents(links: list[str]) -> list[str]:
     return content
 
 def format_and_replace_html_tags(soup: BeautifulSoup) -> BeautifulSoup:
-    for script in soup(["script", "style"]):
-        script.extract()    # rip it out
-    for p in soup.findAll('p'):
-        p.replace_with(f" {p.text} ")
-    for a in soup.findAll('a'):
-        a.replace_with(f" {a.text} ")
-    for strong in soup.findAll('strong'):
-        strong.replace_with(f" {strong.text} ")
-    return soup
+    for data in soup(['style', 'script']):
+        # Remove tags
+        data.decompose()
+    return ' '.join(soup.stripped_strings)
+
+# def format_and_replace_html_tags(soup: BeautifulSoup) -> BeautifulSoup:
+#     for script in soup(["script", "style"]):
+#         script.extract()    # rip it out
+#     for p in soup.findAll('p'):
+#         p.replace_with(f" {p.text} ")
+#     for a in soup.findAll('a'):
+#         a.replace_with(f" {a.text} ")
+#     for div in soup.findAll('div'):
+#         div.replace_with(f" {div.text} ")
+#     for strong in soup.findAll('strong'):
+#         strong.replace_with(f" {strong.text} ")
+#     for span in soup.findAll('span'):
+#         span.replace_with(f" {span.text} ")
+#     return soup
 
 def write_content_text_to_file() -> None:
     with open("output_contents.txt", "w", encoding="utf-8-sig") as f:
