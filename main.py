@@ -43,7 +43,7 @@ def get_links_from_search_query():
     pageCount = 0
     pageLimit = 50
     linkContainsExcluded = False
-    for j in search(query, tld="co.in", num=10, stop=30, pause=2):
+    for j in search(query, tld="co.in", num=10, stop=10, pause=2):
         for l in excludedLinkKeywords:
             if l in j:
                 linkContainsExcluded = True
@@ -158,6 +158,10 @@ def find_and_check_names():
     
     f.close()
 
+import pandas as pd 
+data = {'name': ['Tom','John'], 'Email':['Tome345@gmail']}
+df = pd.DataFrame(data)
+print(data)
 def determine_name_and_email_similarity(name, email):
     return SequenceMatcher(None, name, email).ratio() > 0.5
         

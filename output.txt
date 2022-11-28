@@ -1,0 +1,226 @@
+﻿Name: pierre omidyarbachelors
+Name: jamie zawinski
+Name: john carmacknone
+Name: paul buchheit
+Name: michael widenius
+Name: jennifer wegerersoftware
+Name: max levchinbachelors
+('pierre omidyarbachelors', '')
+('jamie zawinski', '')
+('john carmacknone', '')
+('paul buchheit', '')
+('michael widenius', '')
+('jennifer wegerersoftware', '')
+('max levchinbachelors', '')
+Name: everythings
+Name: kelsey alpaiojuly 21
+Name: kelsey alpaio
+Name: erica
+('everythings', '')
+('kelsey alpaiojuly 21', '')
+('kelsey alpaio', '')
+('erica', '')
+Name: altameemi
+Name: zenhub
+Name: ratings65952
+('altameemi', '')
+('zenhub', '')
+('ratings65952', '')
+Name: corey quinn
+Name: liz fongjones
+Name: chris
+Name: matty stratton
+Name: richard gallco
+Name: emma wedekind
+Name: ana medina
+Name: richard gall 
+Name: matt rickard
+Name: jessie frazelle
+Name: dan abramov
+Name: kelsey hightower
+Name: april wensel
+Name: jason lengstorf
+Name: sarah drasner
+('corey quinn', '')
+('liz fongjones', '')
+('chris', '')
+('matty stratton', '')
+('richard gallco', '')
+('emma wedekind', '')
+('ana medina', '')
+('richard gall ', '')
+('matt rickard', '')
+('jessie frazelle', '')
+('dan abramov', '')
+('kelsey hightower', '')
+('april wensel', '')
+('jason lengstorf', '')
+('sarah drasner', '')
+Name: audrey webster
+('audrey webster', '')
+Email: se_program@iastate.edu
+Name: western washington
+Name: paypalpierre omidyar
+Name: paul buchheit
+Name: engineers
+Name: tim
+Name: watson
+Name: kristina trajkovskasoftware
+Name: mysqljamie zawinski
+('western washington', '')
+('paypalpierre omidyar', '')
+('paul buchheit', '')
+('engineers', '')
+('tim', '')
+('watson', '')
+('kristina trajkovskasoftware', '')
+('mysqljamie zawinski', '')
+Name: douglas sandylecturerresearch interestscomputer systems
+Name: kevin gary
+Name: javier gonzalezsanchez
+Name: kevin garyassociate
+Name: christopher marcmchristopher
+Name: michael findler
+Name: stephen yauprofessorresearch
+Name: stephen yau
+Name: michael findlerlecturer
+Name: robert heinrichsrobert heinrichslecturer
+('douglas sandylecturerresearch interestscomputer systems', '')
+('kevin gary', '')
+('javier gonzalezsanchez', '')
+('kevin garyassociate', '')
+('christopher marcmchristopher', '')
+('michael findler', '')
+('stephen yauprofessorresearch', '')
+('stephen yau', '')
+('michael findlerlecturer', '')
+('robert heinrichsrobert heinrichslecturer', '')
+Name: managers
+('managers', '')
+Name: alex kugell
+('alex kugell', '')
+Name: alan
+('alan', '')
+Name: jessica mong
+('jessica mong', '')
+Name: lipaul luo lirdf
+Name: ipwe haqff90hthfini9hl5s
+Name: pjyp
+Name: jbew b
+Name: dusl1bayw8eah
+Name: sontx
+Name: m45 y50 k5cmyk
+Name: limagentardf
+Name: lein
+('lipaul luo lirdf', '')
+('ipwe haqff90hthfini9hl5s', '')
+('pjyp', '')
+('jbew b', '')
+('dusl1bayw8eah', '')
+('sontx', '')
+('m45 y50 k5cmyk', '')
+('limagentardf', '')
+('lein', '')
+Name: andreas willig
+Name: richard lobb
+Name: richard green
+Name: ben
+Name: sharon mcgregorsenior department
+Name: tim bell
+Name: jack erskine rm
+Name: matt philip
+Name: jay holland
+Name: sam pell
+Name: jack erskine
+Name: steve weddell
+Name: eugene mcnearney
+Name: belinda lansleyproject
+Name: jack erskine 245
+Name: andrew bainbridgesmith
+Name: tracy henderson
+Name: jack erskine 212
+Name: walter guttmann
+Name: kourosh neshatian
+Name: josh mccullochresearch
+Name: jack
+Name: jack erskine  room
+Name: jack morgan
+Name: james atlas
+Name: jack erskine 311
+Email: matthew.mattar@canterbury.ac.nz
+Email: greg.ewing@canterbury.ac.nz
+Email: tracy.henderson@canterbury.ac.nz
+('andreas willig', 'greg.ewing@canterbury.ac.nz')
+('richard lobb', 'tracy.henderson@canterbury.ac.nz')
+('richard green', 'greg.ewing@canterbury.ac.nz')
+('ben', 'greg.ewing@canterbury.ac.nz')
+('sharon mcgregorsenior department', '')
+('tim bell', '')
+('jack erskine rm', 'tracy.henderson@canterbury.ac.nz')
+('matt philip', 'matthew.mattar@canterbury.ac.nz')
+('jay holland', 'tracy.henderson@canterbury.ac.nz')
+('sam pell', '')
+('jack erskine', 'tracy.henderson@canterbury.ac.nz')
+('steve weddell', '')
+('eugene mcnearney', 'greg.ewing@canterbury.ac.nz')
+('belinda lansleyproject', '')
+('jack erskine 245', 'tracy.henderson@canterbury.ac.nz')
+('andrew bainbridgesmith', 'greg.ewing@canterbury.ac.nz')
+('tracy henderson', 'tracy.henderson@canterbury.ac.nz')
+('jack erskine 212', 'tracy.henderson@canterbury.ac.nz')
+('walter guttmann', 'matthew.mattar@canterbury.ac.nz')
+('kourosh neshatian', '')
+('josh mccullochresearch', '')
+('jack', '')
+('jack erskine  room', 'tracy.henderson@canterbury.ac.nz')
+('jack morgan', 'tracy.henderson@canterbury.ac.nz')
+('james atlas', 'matthew.mattar@canterbury.ac.nz')
+('jack erskine 311', 'tracy.henderson@canterbury.ac.nz')
+Name: jeffrey slecturer
+Name: michael jadjunct
+Name: donald cdepartmental
+Name: jack hu
+Name: john fprofessor
+Name: andrew wlecturer
+Name: engineeringlynn a conway
+Name: betty williams
+Name: elliotarthur f thurnau professorprofessor
+Name: john ejohn l tishman
+Name: kevin jassociate
+Name: buildingjohnson
+Name: nikhilpatrick c fischer
+Name: mary loucollegiate lecturer emerita
+Name: johnlecturer iii
+Name: michaelrichard h orenstein division
+('jeffrey slecturer', '')
+('michael jadjunct', '')
+('donald cdepartmental', '')
+('jack hu', '')
+('john fprofessor', '')
+('andrew wlecturer', '')
+('engineeringlynn a conway', '')
+('betty williams', '')
+('elliotarthur f thurnau professorprofessor', '')
+('john ejohn l tishman', '')
+('kevin jassociate', '')
+('buildingjohnson', '')
+('nikhilpatrick c fischer', '')
+('mary loucollegiate lecturer emerita', '')
+('johnlecturer iii', '')
+('michaelrichard h orenstein division', '')
+Name: virginia3057278847north dakota2917754148south
+Name: job titlemale
+('virginia3057278847north dakota2917754148south', '')
+('job titlemale', '')
+Name: william n pennington
+('william n pennington', '')
+Name: samarah
+Name: adam lippe
+Name: samarahs
+Name: carolyn seaman
+Name: lippe
+('samarah', '')
+('adam lippe', '')
+('samarahs', '')
+('carolyn seaman', '')
+('lippe', '')
