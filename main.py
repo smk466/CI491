@@ -1,22 +1,13 @@
-import re
 from difflib import SequenceMatcher
 from operator import contains
-import nameEmailComparison
 
+from web_content_retrieve import retrieve_webpage_contents
+from google_retrieve_links import get_links_from_search_query
+from write_output import write_to_file
 
-try:
-    from googlesearch import search
-    from random import randint
-    import requests
-    from requests.packages.urllib3.exceptions import InsecureRequestWarning
-    requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
-    from bs4 import BeautifulSoup
-    import json
-    import time
-    
-except ImportError:
-    print("No module named 'google' found")
+#queryForLinkedin = 'site:linkedin.com/in/ AND "software engineering"'
 
+<<<<<<< HEAD
 # to search
 query = "Software Engineering+People"
 queryForLinkedin = 'site:linkedin.com/in/ AND "software engineering"'
@@ -163,17 +154,16 @@ data = {'name': ['Tom','John'], 'Email':['Tome345@gmail']}
 df = pd.DataFrame(data)
 print(data)
 def determine_name_and_email_similarity(name, email):
+=======
+def determine_name_and_email_similarity(name: str, email: str) -> bool:
+>>>>>>> 68c6632de16cb4bfdb94b3f1f2d8dd70cba1877f
     return SequenceMatcher(None, name, email).ratio() > 0.5
         
-
-def main():
-    ##GET LINKS FROM SEARCH QUERY:
-    links = []
-    for j in search(query, tld="co.in", num=2, stop=2, pause=2):
-        links.append(j)
-    get_links_from_search_query()
-    retrieve_webpage_contents()
-    find_and_check_names()
+def main() -> None:
+    numOfLinks: int = int(input("Number of links to web scrape: "))
+    links: list[str] = get_links_from_search_query(numOfLinks)
+    content: list[str] = retrieve_webpage_contents(links)
+    write_to_file(content)
     print("Done!")
     
 if __name__ == '__main__':
