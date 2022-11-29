@@ -3,10 +3,12 @@ import requests
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
+from web_scrape_classes import LinkContent
+
 page_title: list =[]
 page_body: list =[]
 page_head: list = []
-content: list[str] = []
+content: list[LinkContent] = []
 names: list = []
 headers: dict[str, str] = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0'}
 
@@ -33,9 +35,10 @@ def retrieve_webpage_contents(links: list[str]) -> list[str]:
         page_head.append(soup.head)
         #product = soup.select('div.thumbnail')
         # kill all script and style elements
-        soup = format_and_replace_html_tags(soup)
+        # soup = format_and_replace_html_tags(soup)
         # get text
-        text = soup.get_text().lower()
+        # text = soup.get_text()
+        text = format_and_replace_html_tags(soup)
         # break into lines and remove leading and trailing space on each
         lines = (line.strip() for line in text.splitlines())
         # break multi-headlines into a line each
@@ -44,23 +47,36 @@ def retrieve_webpage_contents(links: list[str]) -> list[str]:
         #text = text.replace('\n', ' ')
         text = '\n'.join(chunk for chunk in chunks if chunk)
         #text = ' '.join(chunk for chunk in chunks if chunk)       
-        content.append(text)
+        # content.append(text)
+        content.append(LinkContent(i, text))
     #print(f'Content size in web_content_retrieve: {len(content)}')
     write_content_text_to_file()
     return content
 
 def format_and_replace_html_tags(soup: BeautifulSoup) -> BeautifulSoup:
-    for script in soup(["script", "style"]):
-        script.extract()    # rip it out
-    for p in soup.findAll('p'):
-        p.replace_with(f" {p.string} ")
-    for a in soup.findAll('a'):
-        a.replace_with(f" {a.string} ")
-    return soup
+    for data in soup(['style', 'script']):
+        # Remove tags
+        data.decompose()
+    return ' '.join(soup.stripped_strings)
+
+# def format_and_replace_html_tags(soup: BeautifulSoup) -> BeautifulSoup:
+#     for script in soup(["script", "style"]):
+#         script.extract()    # rip it out
+#     for p in soup.findAll('p'):
+#         p.replace_with(f" {p.text} ")
+#     for a in soup.findAll('a'):
+#         a.replace_with(f" {a.text} ")
+#     for div in soup.findAll('div'):
+#         div.replace_with(f" {div.text} ")
+#     for strong in soup.findAll('strong'):
+#         strong.replace_with(f" {strong.text} ")
+#     for span in soup.findAll('span'):
+#         span.replace_with(f" {span.text} ")
+#     return soup
 
 def write_content_text_to_file() -> None:
     with open("output_contents.txt", "w", encoding="utf-8-sig") as f:
-        for text in content:
-            print(f'Link: {success_link[content.index(text)]}\n\n{text}\n\n', file=f)
+        for webObj in content:
+            print(f'Link: {webObj.link}\n\n{webObj.content}\n\n', file=f)
     f.close
     

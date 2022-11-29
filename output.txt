@@ -1,3 +1,312 @@
+﻿Name: michael widenius
+Name: john carmack
+Name: max levchin
+Name: jamie zawinski
+Name: paul buchheit
+Name: tim
+Name: jennifer wegerer
+Name: dave cutler
+Name: erica joy baker
+Name: dan
+Name: jason lengstorf
+Name: richard gall
+Name: chris
+Name: audrey webster
+Name: kevin gary
+Name: javier gonzalezsanchez
+Name: christopher marcm
+Name: tim lindquist
+Name: michael findler
+Name: robert heinrichs
+Name: jessica mong
+Name: tim brayonly
+Name: tim
+Name: paul buchheit
+Name: oliver batchelor
+Name: joffre horlor
+Name: sharon mcgregor
+Name: jack erskine  room
+Name: tracy henderson
+Name: jack erskine 221
+Name: ben adams
+Name: jack erskine
+Name: jack erskine rm
+Name: jack erskine 320
+Name: jay holland
+Name: sam pell
+Name: andrew bainbridgesmith
+Name: peter glassenbury
+Name: walter guttmann
+Name: jack morgan
+Name: james atlas
+Name: wu
+Name: li lecturerhungwen
+Name: richard sinn lecturerrichard
+Name: charles w davidsoncollege
+Name: kevin nguyen
+Name: harry li
+Name: donald hung
+Name: paul nguyen lecturerpaulnguyen
+Name: frank lin lecturerfranklinfranklinsjsuedu
+Name: robert bruce lecturerrobertbrucerobertbrucesjsuedu
+Name: michael larkin lecturer
+Name: shai silberman
+Name: charles zhang
+Name: anna meng lectureranna
+Name: john gash
+Name: dan harkey
+Name: monica serna
+Name: ron mak lecturer
+Name: jerry gao
+Name: william n pennington
+Name: adam lippe
+Name: mohammad samarah
+Name: mohammad samarah
+Name: james r meehl innovation commons
+Name: bill howden
+Name: william griswold
+Name: george mcgowan
+Name: ben west
+Name: ben kuhn
+Name: kamal ndousse
+Name: tom conerly
+Name: sasha cooper
+Name: max roser
+Name: jeff kaufman
+Name: al sweigart
+Name: andy jones
+Name: ben mann
+Name: david robertlecturer
+Name: mark wprofessor
+Name: betty williams
+Name: andrew
+Name: jeffrey slecturer
+Name: donald
+Name: john fprofessor
+Name: mary loucollegiate lecturer emerita
+Name: john ejohn l tishman
+Name: david eprofessor emeritus
+Name: kimberly khalsalecturer iii
+Name: mark sgeorge herbert
+Name: huang
+Name: kevin jassociate
+Name: quentin fcodirector
+Name: john pclaude e shannon
+Name: lee
+Name: jack hu
+Name: nancy
+Name: kang gkevin
+Name: michael jadjunct
+Name: justin cappos
+Name: abu dhabi
+Name: frank m shipman
+Name: robert lightfoot
+Name: jeff huang
+Name: chris woolston
+Name: jocelyn blore  chief
+Name: ian gorton
+Name: len bass
+Name: carl sagan
+Name: maya
+Name: steve
+Name: joshua mobley
+Name: jim
+Name: chris bartley
+Name: brown
+Name: sam
+Name: andrew
+Name: george tucker
+Name: jason laferrera
+Name: don denoncourt
+Name: jesse brightman
+Name: joey defrancesco
+Name: nick agliano
+Name: chris
+Name: tim
+Name: david reynolds
+Name: john
+Name: ben wood
+Name: jeremy pulcifer
+Name: al tenhundfeld
+Name: edgar
+Name: stephen siegel
+Name: stephen f siegel
+Name: james
+Name: frank
+Name: karen
+Name: sam mgrdichian
+Name: john grundy
+Name: ariel liebman
+Name: andy song
+Name: sherry
+Email: blair.mcmaster@canterbury.ac.nz
+Email: rainer.unland@canterbury.ac.nz
+Email: joffre.horlor@canterbury.ac.nz
+Email: steven.sykes@canterbury.ac.nz
+Email: richard.lobb@canterbury.ac.nz
+Email: oliver.batchelor@canterbury.ac.nz
+Email: postgrad-coordinator@cosc.canterbury.ac.nz
+Email: sam.pell@canterbury.ac.nz
+Email: tim.bell@canterbury.ac.nz
+Email: sharon.mcgregor@canterbury.ac.nz
+Email: tracy.henderson@canterbury.ac.nz
+Email: matthew.mattar@canterbury.ac.nz
+Email: moffat.mathews@canterbury.ac.nz
+Email: greg.ewing@canterbury.ac.nz
+Email: andrew.bainbridge-smith@canterbury.ac.nz
+Email: enrol@canterbury.ac.nz
+Email: peter.glassenbury@canterbury.ac.nz
+Email: tanja.mitrovic@canterbury.ac.nz
+Email: sophiaellaia.rabara@canterbury.ac.nz
+Email: info@canterbury.ac.nz
+Email: kat.bell@canterbury.ac.nz
+Email: matthias.galster@canterbury.ac.nz
+Email: fabian.gilson@canterbury.ac.nz
+Email: liam.laing@canterbury.ac.nz
+Email: adrian.white@canterbury.ac.nz
+Email: kourosh.neshatian@canterbury.ac.nz
+Email: steve.weddell@canterbury.ac.nz
+Email: tim.rensen@pg.canterbury.ac.nz
+Email: sam.schofield@pg.canterbury.ac.nz
+Email: ray.hunt@canterbury.ac.nz
+Email: katia.delu@canterbury.ac.nz
+Email: andreas.willig@canterbury.ac.nz
+Email: marina.filipovic@canterbury.ac.nz
+Email: jay.holland@canterbury.ac.nz
+Email: joanne.roberts@canterbury.ac.nz
+Email: walter.guttmann@canterbury.ac.nz
+Email: morgan.english@canterbury.ac.nz
+Email: josh.mcculloch@canterbury.ac.nz
+Email: james.atlas@canterbury.ac.nz
+Email: jack.morgan@canterbury.ac.nz
+Email: paul.mckeown@canterbury.ac.nz
+Email: mukundan@canterbury.ac.nz
+Email: neville.churcher@canterbury.ac.nz
+Email: yalini.sundralingam@canterbury.ac.nz
+Email: eugene.mcnearney@canterbury.ac.nz
+Email: benjamin.adams@canterbury.ac.nz
+Email: christoph.bartneck@canterbury.ac.nz
+Email: clementine.gritti@canterbury.ac.nz
+Email: phuoc.tran-gia@canterbury.ac.nz
+Email: andrew.cockburn@canterbury.ac.nz
+Email: miguel.morales@canterbury.ac.nz
+Email: krys.pawlikowski@canterbury.ac.nz
+Email: belinda.lansley@canterbury.ac.nz
+Email: richard.green@canterbury.ac.nz
+Email: haonan.wang@sjsu.edu
+Email: younghee.park@sjsu.edu
+Email: gopinath.vinodh@sjsu.edu
+Email: weider.yu@sjsu.edu
+Email: wencen.wu@sjsu.edu
+Email: jerry.gao@sjsu.edu
+Email: hsin-yi.meng@sjsu.edu
+Email: hungwen.li@sjsu.edu
+Email: ishie.eswar@sjsu.edu
+Email: chair-computer-engineering@sjsu.edu
+Email: sjsucmpecontact@gmail.com
+Email: bapiraju.vinnakota@sjsu.edu
+Email: magdalini.eirinaki@sjsu.edu
+Email: shihyu.chang@sjsu.edu
+Email: chandrasekar.vuppalapati@sjsu.edu
+Email: faramarz.mortezaie@sjsu.edu
+Email: paul.nguyen@sjsu.edu
+Email: melissa.mathews@sjsu.edu
+Email: charles.zhang@sjsu.edu
+Email: michael.larkin@sjsu.edu
+Email: chaoli.tarng@sjsu.edu
+Email: jahan.ghofraniha@sjsu.edu
+Email: simon.shim@sjsu.edu
+Email: andrew.bond@sjsu.edu
+Email: j_carlos_gomez@yahoo.com
+Email: charley.abboud@sjsu.edu
+Email: frank.lin@sjsu.edu
+Email: shai.silberman@sjsu.edu
+Email: robert.bruce@sjsu.edu
+Email: ron.mak@sjsu.edu
+Email: ahmet.bindal@sjsu.edu
+Email: brandi.rubino@sjsu.edu
+Email: frontdesk-computer-engineering@sjsu.edu
+Email: m.fayad@sjsu.edu
+Email: nima.karimianbahnemiri@sjsu.edu
+Email: haluk.ozemek@sjsu.edu
+Email: donald.hung@sjsu.edu
+Email: stas.tiomkin@sjsu.edu
+Email: kaikai.liu@sjsu.edu
+Email: kevin.m.nguyen@sjsu.edu
+Email: ammar.rayes@sjsu.edu
+Email: gokay.saldamli@sjsu.edu
+Email: william.giallo@sjsu.edu
+Email: undergradadvisor-cmpe-se@sjsu.edu
+Email: ranjanr@us.ibm.com
+Email: martin.alvarezlopez@sjsu.edu
+Email: gheorghi.guzun@sjsu.edu
+Email: dan.harkey@sjsu.edu
+Email: brett.hartbeck@sjsu.edu
+Email: vishnu.pendyala@sjsu.edu
+Email: xiao.su@sjsu.edu
+Email: richardsinn@yahoo.com
+Email: mahima.agumbesuresh@sjsu.edu
+Email: jorjeta.jetcheva@sjsu.edu
+Email: frank.butt@sjsu.edu
+Email: kong.li@sjsu.edu
+Email: carlos.rojas@sjsu.edu
+Email: hua.li@sjsu.edu
+Email: john.gash@sjsu.edu
+Email: zhenyu.wu@sjsu.edu
+Email: preetpal.kang@sjsu.edu
+Email: grad_director@cse.unr.edu
+Email: cse@unr.edu
+Email: sampath@umbc.edu
+Email: leizhang@umbc.edu
+Email: msamarah@umbc.edu
+Email: ozok@umbc.edu
+Email: cseaman@umbc.edu
+Email: jeff@cse.tamu.edu
+Email: shipman@cse.tamu.edu
+Email: easa@tamu.edu
+Email: rob.light@tamu.edu
+Email: cse-general@cse.tamu.edu
+Email: dilma@cse.tamu.edu
+Email: walker@cse.tamu.edu
+Email: abdullah.muzahid@cse.tamu.edu
+Email: rwerger@cse.tamu.edu
+Email: paulinewade@tamu.edu
+Email: khanhtn@tamu.edu
+Email: hello@simplethread.com
+Name-Email: ('oliver batchelor', 'oliver.batchelor@canterbury.ac.nz')
+Name-Email: ('joffre horlor', 'joffre.horlor@canterbury.ac.nz')
+Name-Email: ('sharon mcgregor', 'sharon.mcgregor@canterbury.ac.nz')
+Name-Email: ('jack morgan', 'jack.morgan@canterbury.ac.nz')
+Name-Email: ('tracy henderson', 'tracy.henderson@canterbury.ac.nz')
+Name-Email: ('ben adams', 'benjamin.adams@canterbury.ac.nz')
+Name-Email: ('jay holland', 'jay.holland@canterbury.ac.nz')
+Name-Email: ('sam pell', 'sam.pell@canterbury.ac.nz')
+Name-Email: ('andrew bainbridgesmith', 'andrew.bainbridge-smith@canterbury.ac.nz')
+Name-Email: ('peter glassenbury', 'peter.glassenbury@canterbury.ac.nz')
+Name-Email: ('walter guttmann', 'walter.guttmann@canterbury.ac.nz')
+Name-Email: ('james atlas', 'james.atlas@canterbury.ac.nz')
+Name-Email: ('wu', 'weider.yu@sjsu.edu')
+Name-Email: ('li lecturerhungwen', 'hungwen.li@sjsu.edu')
+Name-Email: ('richard sinn lecturerrichard', 'richardsinn@yahoo.com')
+Name-Email: ('charles zhang', 'charles.zhang@sjsu.edu')
+Name-Email: ('kevin nguyen', 'kevin.m.nguyen@sjsu.edu')
+Name-Email: ('harry li', 'hua.li@sjsu.edu')
+Name-Email: ('donald hung', 'donald.hung@sjsu.edu')
+Name-Email: ('paul nguyen lecturerpaulnguyen', 'paul.nguyen@sjsu.edu')
+Name-Email: ('frank lin lecturerfranklinfranklinsjsuedu', 'magdalini.eirinaki@sjsu.edu')
+Name-Email: ('robert bruce lecturerrobertbrucerobertbrucesjsuedu', 'robert.bruce@sjsu.edu')
+Name-Email: ('michael larkin lecturer', 'michael.larkin@sjsu.edu')
+Name-Email: ('shai silberman', 'shai.silberman@sjsu.edu')
+Name-Email: ('anna meng lectureranna', 'chair-computer-engineering@sjsu.edu')
+Name-Email: ('john gash', 'john.gash@sjsu.edu')
+Name-Email: ('dan harkey', 'dan.harkey@sjsu.edu')
+Name-Email: ('ron mak lecturer', 'ron.mak@sjsu.edu')
+Name-Email: ('jerry gao', 'jerry.gao@sjsu.edu')
+Name-Email: ('mohammad samarah', 'msamarah@umbc.edu')
+Name-Email: ('frank m shipman', 'shipman@cse.tamu.edu')
+Name-Email: ('robert lightfoot', 'rob.light@tamu.edu')
+Name-Email: ('jeff huang', 'jeff@cse.tamu.edu')
+Name-Email: ('al tenhundfeld', 'hello@simplethread.com')
 ﻿Name: pierre omidyarbachelors
 Name: jamie zawinski
 Name: john carmacknone
