@@ -1,0 +1,1197 @@
+﻿Name: Tim Bray
+Name: Max Levchin
+Name: Jennifer Wegerer
+Name: Paul Buchheit
+Name: John Carmack
+Name: Jimmy Wales
+Name: Jamie Zawinski
+Name: Dave Cutler
+Name: Alexey Pazhitnov
+Name: Pierre Omidyar
+Name: Michael Widenius
+Name: Data Visuals
+Name: Erica Joy Baker
+Name: A
+Name: Data Science Data Analysis
+Name: Data Driven Decision Making
+Name: Laila Rizvi
+Name: Data Structure
+Name: Data Analytics Degrees
+Name: Data Analysis
+Name: Data Science Python Programming
+Name: Data Analytics Bootcamp
+Name: Data Analytics
+Name: Bridget
+Name: Jessie Frazelle
+Name: Mark Imbriaco
+Name: Richard Gall Coeditor
+Name: Jason Lengstorf
+Name: Emma Wedekind
+Name: Sarah Drasner
+Name: Rachel Coldicutt
+Name: Liz Fong
+Name: Ryan Burgess
+Name: Matt Rickard
+Name: Donald Trump
+Name: Dan
+Name: Ana Medina
+Name: April Wensel
+Name: Yasmine Evjen
+Name: Anil Dash
+Name: Jessie
+Name: Trevor Hess
+Name: Chris Short
+Name: Richard Gall
+Name: Dan Abramov
+Name: Aleksandar Dimovski
+Name: Data U S
+Name: Data Science Ph Online
+Name: Data Scientist
+Name: Data Science
+Name: Audrey Webster
+Name: Audrey
+Name: Tim Bray
+Name: Paul Buchheit
+Name: John Carmack
+Name: Jimmy Wales
+Name: Kristina Trajkovska
+Name: Dave Cutler
+Name: Alexey Pazhitnov
+Name: Pierre Omidyar
+Name: Michael Widenius
+Name: Ruben Acuna
+Name: Vijay Suthar
+Name: Michael Findler
+Name: Ajay Bansal
+Name: Robert Heinrichs
+Name: Alexandra Mehlhase
+Name: Summer Camps
+Name: Data Science
+Name: Kevin Gary
+Name: Tim Lindquist Emeritus
+Name: Stephen Yau
+Name: Douglas Sandy
+Name: Javier Gonzalez
+Name: Christopher Mar
+Name: Tim Lindquist
+Name: U
+Name: Charitable Partners
+Name: A
+Name: Jessica Mong
+Name: George Mc
+Name: Roman Duda
+Name: Al Sweigart
+Name: Kamal Ndousse
+Name: Sasha Cooper
+Name: A Safety Needs Great Engineers
+Name: Jeff Kaufman
+Name: Ben Kuhn
+Name: Apple
+Name: Ben Mann
+Name: A
+Name: Tanya Reilly
+Name: Andy Jones
+Name: Tom Conerly
+Name: Benjamin Hilton
+Name: Ben West
+Name: Max Roser
+Name: Mathias Meyer
+Name: Paul Nguyen Lecturer
+Name: Donald Hung
+Name: Wu
+Name: Ron Mak Lecturer
+Name: Richard
+Name: Mohamed Fayad
+Name: Anna Meng Lecturer
+Name: Gao
+Name: Ammar
+Name: Li
+Name: Ammar Rayes Lecturer
+Name: Carlos
+Name: Harry Li
+Name: Meng
+Name: Shai Silberman
+Name: Frank Lin Lecturer
+Name: Xiao Su
+Name: Jacqueline
+Name: Michael
+Name: Chang
+Name: Xiao
+Name: Juan
+Name: Mohamed
+Name: Charles W Davidson
+Name: Isabella
+Name: Andrew Bond Lecturer
+Name: Ron
+Name: Charles Zhang Lecturer
+Name: Charles
+Name: Martin
+Name: Robert Bruce Lecturer
+Name: Robert
+Name: Frank Butt Lecturer
+Name: Melissa
+Name: John Gash Lecturer
+Name: Dan
+Name: Kang
+Name: Frank
+Name: Lin
+Name: Michael Larkin Lecturer
+Name: Donald
+Name: Wang
+Name: Paul
+Name: Liu
+Name: Kevin Nguyen Lecturer
+Name: Dan Harkey
+Name: Kevin
+Name: Martin Alvarezlopez
+Name: William
+Name: Zhang
+Name: Monica Serna
+Name: Carlos Rojas
+Name: Garcia
+Name: Monica
+Name: Richard Sinn Lecturer
+Name: Melissa Mathews
+Name: Juan Gomez Lecturer
+Name: Data Finder
+Name: Data Retrieval Tools
+Name: Data Tools
+Name: A
+Name: Alex Kugell
+Name: Daniel Alcanja
+Name: Vikram
+Name: Ryan
+Name: Wong
+Name: Miguel
+Name: Pedro
+Name: Brad
+Name: Bogdan
+Name: Tobias
+Name: Tobias Drschmid
+Name: Li
+Name: Santos
+Name: Hsieh
+Name: Claire
+Name: Michael
+Name: Yang
+Name: Tim
+Name: Luo
+Name: Jeffrey
+Name: Courtney
+Name: James
+Name: Claire Le Goues
+Name: Annie
+Name: Cheng
+Name: Kyle
+Name: Luis
+Name: Morgan
+Name: Chu
+Name: Ivan
+Name: Chu Pan
+Name: Leo
+Name: Christopher
+Name: Brown
+Name: Dean
+Name: Kang
+Name: Liang
+Name: Lu
+Name: Shawn
+Name: Jason
+Name: Jane
+Name: Chen
+Name: Kevin
+Name: William
+Name: Luke
+Name: Gilbert
+Name: Maria
+Name: Selva
+Name: Jenna
+Name: Zhang
+Name: Christopher Meiklejohn
+Name: Shawn Butler
+Name: Andreas Willig
+Name: Katia De Lu
+Name: Jack Erskine 
+Name: Kat Bell
+Name: Oliver Batchelor
+Name: Neville Churcher
+Name: Sam Pell
+Name: Summer School
+Name: Christoph Bartneck
+Name: Morgan English
+Name: Andy Cockburn
+Name: Joffre Horlor
+Name: Peter Glassenbury
+Name: Walter Guttmann
+Name: Richard Green
+Name: Jack Erskine Rm
+Name: Jack Erskine
+Name: Richard Lobb
+Name: Gregory Ewing
+Name: James Atlas
+Name: Joanne Roberts
+Name: Bar
+Name: Miguel Morales
+Name: Sharon Mc Gregor
+Name: Belinda Lansley
+Name: Tim Bell
+Name: Clementine Gritti
+Name: Jack Erskine a
+Name: Ramakrishnan Mukundan
+Name: Jay Holland
+Name: Tanja Mitrovic
+Name: Tracy Henderson
+Name: Jack Erskine Room
+Name: Ray Hunt
+Name: Krzysztof Pawlikowski
+Name: Eugene Mc
+Name: Matt Philip Mattar
+Name: Steven Sykes
+Name: Jack Morgan
+Name: Liam Laing
+Name: Fabian Gilson
+Name: Steve Weddell
+Name: Andrew Bainbridge
+Name: Paul Mc
+Name: Josh Mc
+Name: Matthias Galster
+Name: Ben Adams
+Name: Tim Rensen
+Name: Sam Schofield
+Name: Greg Wilson
+Name: Thomas J Mc
+Name: Melvin Conway
+Name: Christian Bird
+Name: Guido Schryen
+Name: Andreas Hfer
+Name: Rob De Line
+Name: Tom Hurlbutt
+Name: Andy Oram
+Name: John Nosek
+Name: Eric Raymond
+Name: Rich
+Name: Tom Dunne
+Name: Steve Mc
+Name: Maurice Halsteads
+Name: My Am
+Name: Andrew Ko
+Name: Xi
+Name: Hassan
+Name: Jorge Aranda
+Name: Mario Cherubini
+Name: Jo Erskine Hannay
+Name: Jan Chong
+Name: Data Center
+Name: Mark
+Name: Mary Lou Lecturer Emerita
+Name: Betty Beyster
+Name: E
+Name: Alfred O H Holland Distinguished University John
+Name: Jack Hu
+Name: Betty Williams
+Name: Lee
+Name: Edward S Emeritus
+Name: David Robert I
+Name: Huang
+Name: Betty Beyster Building
+Name: Thomas F Research Scientist
+Name: Jeffrey S I
+Name: Kevin J
+Name: Andrew W I
+Name: Michael J
+Name: Quentin F
+Name: Evelyn Fuss Chair
+Name: Kang
+Name: John F Emeritus
+Name: Kimberly Khalsa III
+Name: Wang
+Name: Donald
+Name: Liu
+Name: Nancy
+Name: Bob
+Name: M 
+Name: John E L Tishman John
+Name: Mark W
+Name: Georgia Tech
+Name: Data Analytics
+Name: Data Visualizations
+Name: Data Science
+Name: Adam Lippe
+Name: Francis King
+Name: Mohammad Samarah
+Name: Data Collection to Data Wrangling
+Name: Data software
+Name: Bjarne Stroustrup
+Name: William N Pennington Engineering Building
+Name: Henry Nicholas
+Name: Michael Page
+Name: Vivian Knight
+Name: Geraldine Abbey
+Name: U Bristol View
+Name: Lawrence Rauchwerger
+Name: P
+Name: Jeff Huang
+Name: Pauline Wade
+Name: Data Mining
+Name: Frank M Shipman
+Name: Dilma Da Silva
+Name: P  Phone
+Name: Data Science
+Name: Abdullah Muzahid
+Name: Robert Lightfoot
+Name: Data Systems Group
+Name: Dan C Marinescu
+Name: Paul Gazzillo
+Name: Damla Turgut
+Name: Damian Dechev
+Name: Gary T Leavens
+Name: Data Analytics
+Name: Kathleen Moore Faculty Excellence Award
+Name: Valentina Korzhova
+Name: Dmitry B Goldgof
+Name: Ken Christensen
+Name: Douglas W Hood
+Name: Attila A Yavuz
+Name: John Murray Bruce
+Name: Yan Zhang
+Name: Lawrence Hall
+Name: Marvin Andujar
+Name: John Licato
+Name: Robert Karam
+Name: Julia Woodward
+Name: Paul Sanberg
+Name: Rafael Perez
+Name: Abraham Kandel
+Name: Richard Rauscher
+Name: John Skvoretz
+Name: Jay Ligatti
+Name: Mauricio Pamplona Segundo
+Name: Hao Zheng
+Name: Peter R Mouton
+Name: Yu Sun
+Name: Matthew Peterson
+Name: James Anderson
+Name: William Hendrix III
+Name: Carol Hoeke
+Name: Jing Wang
+Name: Alfredo Weitzenfeld
+Name: Philip Ventura
+Name: William Gauvin
+Name: Chris Riesbeck
+Name: Bill
+Name: Ken
+Name: Walter P Murphy
+Name: Data Science and Engineering Minor
+Name: Lorraine Morton
+Name: Chris
+Name: Benjamin Slivka
+Name: Jane S
+Name: Ben Golub
+Name: Cathy Osborn
+Name: Robert R Mc School of Engineering
+Name: William J White
+Name: Henry
+Name: Charles Deering
+Name: Lisa Wissner
+Name: Ruth Davee Department
+Name: Daniel W Jr
+Name: Sara Owsley
+Name: Sara Masters
+Name: Data Engineer
+Name: Data Science Machine Learning
+Name: Alan Turing
+Name: Data Science M Career Track
+Name: A M
+Name: Ryan Desmond
+Name: Laura
+Name: Data Science M
+Name: Stephanie
+Name: Bill Gates
+Name: Kim Desmond
+Name: Paul Minnesota
+Name: Data Science M
+Name: Marie
+Name: A
+Name: Mohamed Wiem
+Name: Robert L Givan
+Name: Jing Gao
+Name: Katherine Birck Head
+Name: Phillip Walter
+Name: Saeed Mohammadi
+Name: Ali Shakouri
+Name: Michael
+Name: Edward G Tiedemann Jr
+Name: Theresa Mayer
+Name: David B Janes
+Name: Weng C Chew
+Name: Michael Manfra
+Name: Dan Jiao
+Name: Milind Kulkarni
+Name: Alexandra Boltasseva
+Name: Richard J
+Name: Abolfazl Hashemi
+Name: Carol Scifres
+Name: Andrew M Weiner
+Name: Mark Johnson
+Name: Wendy Engibous
+Name: Stanley Chan
+Name: E
+Name: Mung Chiang
+Name: Vijay Gupta
+Name: Barry M
+Name: Michael A Capano
+Name: Michael R Melloch
+Name: Qiang Qiu
+Name: Muhammad Hussain
+Name: Carla Zoltowski
+Name: Mark R Bell
+Name: Ryan Newton
+Name: Sanjay Rao
+Name: Aaron Brovont
+Name: Scott D Sudhoff
+Name: Lu Su
+Name: Charles William Harrison
+Name: Dana Weinstein
+Name: Maggie Zhu
+Name: Jason D Mc
+Name: James V Krogmeier
+Name: Christopher Brinton
+Name: Jeffrey M Siskind
+Name: Mary Jo Schwartz
+Name: Irith Pomeranz
+Name: Bob
+Name: Michael D Zoltowski
+Name: Daniel S Elliott
+Name: Leah H Jamieson
+Name: Qi Guo
+Name: E Boilermaker Circuit
+Name: Steven D Pekarek
+Name: George R Wodicka
+Name: James Davis
+Name: Kevin J Webb
+Name: Philip E Pare
+Name: Anand Raghunathan
+Name: Alexander Kildishev
+Name: David I Inouye
+Name: Katherine Ngai Pesic Silvaco Associate Professor of Electrical and Computer Engineering
+Name: Ron
+Name: Mary Comer
+Name: Anne Burnett
+Name: Donald W Feddersen
+Name: Babak Ziaie
+Name: Dean
+Name: Muhammad Ashraful Alam
+Name: Mireille Mimi Boutin
+Name: Luis Gomez
+Name: Mark S Lundstrom
+Name: Hong Z Tan
+Name: James S Lehnert
+Name: Yong Chen
+Name: Mahdi Hosseini
+Name: Avinash C Kak
+Name: Vijay Raghunathan
+Name: Bill
+Name: Meng Cui
+Name: Charles A Bouman
+Name: E Mentors
+Name: Sunil A Bhave
+Name: Joseph Makin
+Name: Mahsa Ghasemi
+Name: Patricia L Epstein
+Name: Arif Ghafoor
+Name: Nick Trbovich
+Name: Stanislaw H Zak
+Name: Amy Reibman
+Name: Vishal Shrivastav
+Name: Edward J Delp
+Name: Alexander Quinn
+Name: Vladimir M Shalaev
+Name: David J Love
+Name: Katherine Birck
+Name: Peter Bermel
+Name: Okan K Ersoy
+Name: Thomas Duncan
+Name: Thomas Roth
+Name: Thomas J
+Name: Gerhard Klimeck
+Name: Samuel P Midkiff
+Name: Jan P Allebach
+Name: Ashley Madison
+Name: Ian Responds
+Name: Andrew Brookes
+Name: Fred Brooks
+Name: an Accreditation Board for Engineering and Technology
+Name: Rebecca J Rosen
+Name: Ian Bogost
+Name: Bernard Meisler
+Name: Michael S Teitelbaum
+Name: Peter Thiel
+Name: Joey De Francesco
+Name: Jeremy Pulcifer
+Name: Jan
+Name: Bill
+Name: Nihal Srivastava
+Name: Ercan
+Name: Sam
+Name: Ben Wood
+Name: Benny Alexander
+Name: Al Tenhundfeld
+Name: Matt
+Name: Jonathan Dale
+Name: Markus Klemm
+Name: Bruno
+Name: Sakshi
+Name: Justin Eloff
+Name: Tim
+Name: Mahendra Machhi
+Name: Edgar
+Name: paolo
+Name: Roy
+Name: Andrzej
+Name: Javier Avila
+Name: Joshua Mobley
+Name: Chris
+Name: Nick Agliano
+Name: Diego Guidi
+Name: Hasan
+Name: Sakshi Mital
+Name: Justin
+Name: Roman Makarenko
+Name: Don Denoncourt
+Name: Sean Barton
+Name: Phil Kendall
+Name: Marc
+Name: Dirk
+Name: Justin Etheredge
+Name: Jim
+Name: Terry Pratchett
+Name: David Reynolds
+Name: Luke
+Name: George Tucker
+Name: Glen Allen
+Name: Jason La
+Name: Steve
+Name: Jan Gabriel
+Name: Jesse Brightman
+Name: Dmitriy Rogatkin
+Name: Jeremy
+Name: Stephen Beard
+Name: Alex Dekhtyar
+Name: Hugh Smith
+Name: Teresa Medrano
+Name: Theresa Migler
+Name: John Planck
+Name: Maria Pantoja
+Name: Charles Dana
+Name: A and
+Name: Aaron Keen
+Name: Tim Kearns
+Name: Christopher Siu
+Name: Rodrigo
+Name: Paul Anderson
+Name: Chris
+Name: Michael Haungs
+Name: Data Science
+Name: John Seng
+Name: Jonathan Ventura
+Name: Dennis Sun
+Name: Lubomir Stanchev
+Name: John Clements
+Name: Bruno da Silva
+Name: Brian Jones
+Name: Julie Workman Lecturer
+Name: Paul Hatalsky
+Name: Leanne Fiorentino
+Name: Jane Lehr
+Name: Phillip Nico
+Name: John Bellardo
+Name: Franz Kurfess
+Name: Andrew Migler
+Name: Bruce De
+Name: Kurt Voelker
+Name: Sebastian Thrun
+Name: Apple
+Name: Sam Mgrdichian
+Name: Karen
+Name: Frank
+Name: Ken Shepard
+Name: Asaf Cidon Cidon
+Name: Stephen H Unger Emeritus H Unger Stephen
+Name: Lee
+Name: Edward G Coffman EmeritusEdward G Coffman
+Name: Stephen A Edwards A Edwards
+Name: Jennifer
+Name: Daniel Rubenstein Rubenstein
+Name: Charles Zukowski Zukowski
+Name: Vishal Misra Misra
+Name: Elsa SanchezStaff Sanchez Elsa
+Name: Martha A Kim A Kim
+Name: Gil Zussman Zussman
+Name: Joe Widgetmaker
+Name: Joe M
+Name: Charles Loengard
+Name: John Cleese
+Name: Fred Brooks
+Name: Tom De Marco
+Name: David Dunning
+Name: Bill Gates
+Name: David Maister
+Name: Justin Kruger
+Name: Christopher Alexander
+Name: Fred Brooks 
+Name: Philip Greenspun
+Name: Gerald Mc
+Name: John Iacono
+Name: Gustavo Sandoval
+Name: Peter De Pasquale
+Name: Kari Schwartz
+Name: Nasir Memon
+Name: Lisa Hellerstein
+Name: Abu Dhabi
+Name: Claudio Silva
+Name: Mark Cartwright
+Name: Ann Borray
+Name: Brendan Dolan
+Name: Edward Wong
+Name: Farah Emad
+Name: Martin Shooman
+Name: Juan Pablo Bello
+Name: Ian Morlan
+Name: Paul Torrens
+Name: Juliana Freire
+Name: Qi Sun
+Name: Jessica Pascual
+Name: Ramesh Karri
+Name: Justin Cappos
+Name: Greg Aloupis
+Name: Ming Leung
+Name: Michael Krone
+Name: Jeffrey Epstein
+Name: Dean
+Name: John Sterling
+Name: Rachel Greenstadt
+Name: Daniel Katz
+Name: Chen Feng
+Name: Danny Yuxing Huang
+Name: Christopher Musco
+Name: Thomas Reddington
+Name: Linda Sellie
+Name: Nizar Habash
+Name: Dan Goncalves
+Name: Guido Gerig
+Name: Boris Aronov
+Name: Jay Chen
+Name: Amy Yochum
+Name: Julian Togelius
+Name: Susana Garcia
+Name: Enrico Bertini
+Name: Fred Strauss
+Name: Stuart Steele
+Name: Henry Ruston
+Name: Itay Tal
+Name: Rumi Chunara
+Name: Judy Brown
+Email: se_program@iastate.edu
+Email: frontdesk-computer-engineering@sjsu.edu
+Email: frank.butt@sjsu.edu
+Email: Jahan.Ghofraniha@sjsu.edu
+Email: frank.lin@sjsu.edu
+Email: weider.yu@sjsu.edu
+Email: richardsinn@yahoo.com
+Email: carlos.rojas@sjsu.edu
+Email: brett.hartbeck@sjsu.edu
+Email: Jorjeta.Jetcheva@sjsu.edu
+Email: stas.tiomkin@sjsu.edu
+Email: faramarz.mortezaie@sjsu.edu
+Email: undergradadvisor-cmpe-se@sjsu.edu
+Email: robert.bruce@sjsu.edu
+Email: hua.li@sjsu.edu
+Email: dan.harkey@sjsu.edu
+Email: ron.mak@sjsu.edu
+Email: younghee.park@sjsu.edu
+Email: bapiraju.vinnakota@sjsu.edu
+Email: mahima.agumbesuresh@sjsu.edu
+Email: shihyu.chang@sjsu.edu
+Email: haluk.ozemek@sjsu.edu
+Email: Ishie.Eswar@sjsu.edu
+Email: Charley.Abboud@sjsu.edu
+Email: nima.karimianbahnemiri@sjsu.edu
+Email: paul.nguyen@sjsu.edu
+Email: john.gash@sjsu.edu
+Email: jerry.gao@sjsu.edu
+Email: chaoli.tarng@sjsu.edu
+Email: chair-computer-engineering@sjsu.edu
+Email: donald.hung@sjsu.edu
+Email: kevin.m.nguyen@sjsu.edu
+Email: ammar.rayes@sjsu.edu
+Email: martin.alvarezlopez@sjsu.edu
+Email: chandrasekar.vuppalapati@sjsu.edu
+Email: charles.zhang@sjsu.edu
+Email: zhenyu.wu@sjsu.edu
+Email: m.fayad@sjsu.edu
+Email: vishnu.pendyala@sjsu.edu
+Email: melissa.mathews@sjsu.edu
+Email: Gokay.Saldamli@sjsu.edu
+Email: andrew.bond@sjsu.edu
+Email: Kaikai.liu@sjsu.edu
+Email: brandi.rubino@sjsu.edu
+Email: ranjanr@us.ibm.com
+Email: michael.larkin@sjsu.edu
+Email: gopinath.vinodh@sjsu.edu
+Email: gheorghi.guzun@sjsu.edu
+Email: simon.shim@sjsu.edu
+Email: xiao.su@sjsu.edu
+Email: preetpal.kang@sjsu.edu
+Email: magdalini.eirinaki@sjsu.edu
+Email: wencen.wu@sjsu.edu
+Email: hungwen.li@sjsu.edu
+Email: shai.silberman@sjsu.edu
+Email: William.Giallo@sjsu.edu
+Email: haonan.wang@sjsu.edu
+Email: hsin-yi.meng@sjsu.edu
+Email: sjsucmpecontact@gmail.com
+Email: kong.li@sjsu.edu
+Email: ahmet.bindal@sjsu.edu
+Email: j_carlos_gomez@yahoo.com
+Email: ray.hunt@canterbury.ac.nz
+Email: sophiaellaia.rabara@canterbury.ac.nz
+Email: sam.pell@canterbury.ac.nz
+Email: adrian.white@canterbury.ac.nz
+Email: steve.weddell@canterbury.ac.nz
+Email: kat.bell@canterbury.ac.nz
+Email: joanne.roberts@canterbury.ac.nz
+Email: marina.filipovic@canterbury.ac.nz
+Email: krys.pawlikowski@canterbury.ac.nz
+Email: rainer.unland@canterbury.ac.nz
+Email: mukundan@canterbury.ac.nz
+Email: andrew.bainbridge-smith@canterbury.ac.nz
+Email: sharon.mcgregor@canterbury.ac.nz
+Email: jack.morgan@canterbury.ac.nz
+Email: oliver.batchelor@canterbury.ac.nz
+Email: blair.mcmaster@canterbury.ac.nz
+Email: phuoc.tran-gia@canterbury.ac.nz
+Email: moffat.mathews@canterbury.ac.nz
+Email: tanja.mitrovic@canterbury.ac.nz
+Email: morgan.english@canterbury.ac.nz
+Email: josh.mcculloch@canterbury.ac.nz
+Email: jay.holland@canterbury.ac.nz
+Email: matthias.galster@canterbury.ac.nz
+Email: steven.sykes@canterbury.ac.nz
+Email: belinda.lansley@canterbury.ac.nz
+Email: yalini.sundralingam@canterbury.ac.nz
+Email: benjamin.adams@canterbury.ac.nz
+Email: andrew.cockburn@canterbury.ac.nz
+Email: eugene.mcnearney@canterbury.ac.nz
+Email: neville.churcher@canterbury.ac.nz
+Email: walter.guttmann@canterbury.ac.nz
+Email: fabian.gilson@canterbury.ac.nz
+Email: matthew.mattar@canterbury.ac.nz
+Email: kourosh.neshatian@canterbury.ac.nz
+Email: clementine.gritti@canterbury.ac.nz
+Email: sam.schofield@pg.canterbury.ac.nz
+Email: andreas.willig@canterbury.ac.nz
+Email: peter.glassenbury@canterbury.ac.nz
+Email: paul.mckeown@canterbury.ac.nz
+Email: postgrad-coordinator@cosc.canterbury.ac.nz
+Email: tim.bell@canterbury.ac.nz
+Email: richard.lobb@canterbury.ac.nz
+Email: katia.delu@canterbury.ac.nz
+Email: joffre.horlor@canterbury.ac.nz
+Email: tracy.henderson@canterbury.ac.nz
+Email: christoph.bartneck@canterbury.ac.nz
+Email: info@canterbury.ac.nz
+Email: tim.rensen@pg.canterbury.ac.nz
+Email: greg.ewing@canterbury.ac.nz
+Email: enrol@canterbury.ac.nz
+Email: miguel.morales@canterbury.ac.nz
+Email: james.atlas@canterbury.ac.nz
+Email: liam.laing@canterbury.ac.nz
+Email: richard.green@canterbury.ac.nz
+Email: support@zippia.com
+Email: cse@unr.edu
+Email: grad_director@cse.unr.edu
+Email: cse-general@cse.tamu.edu
+Email: abdullah.muzahid@cse.tamu.edu
+Email: jeff@cse.tamu.edu
+Email: dilma@cse.tamu.edu
+Email: walker@cse.tamu.edu
+Email: paulinewade@tamu.edu
+Email: rob.light@tamu.edu
+Email: shipman@cse.tamu.edu
+Email: rwerger@cse.tamu.edu
+Email: khanhtn@tamu.edu
+Email: easa@tamu.edu
+Email: gccisit@rit.edu
+Email: rothte@purdue.edu
+Email: mh@purdue.edu
+Email: shakouri@purdue.edu
+Email: abolfazl@purdue.edu
+Email: zhchen@purdue.edu
+Email: aeb@purdue.edu
+Email: bhave@purdue.edu
+Email: pbermel@purdue.edu
+Email: lhj@purdue.edu
+Email: elgamala@purdue.edu
+Email: ychu@purdue.edu
+Email: sbagchi@purdue.edu
+Email: datta@ecn.purdue.edu
+Email: davisjam@purdue.edu
+Email: givan@purdue.edu
+Email: qobi@ecn.purdue.edu
+Email: spekarek@ecn.purdue.edu
+Email: lusu@purdue.edu
+Email: kaushik@ecn.purdue.edu
+Email: cgb@purdue.edu
+Email: chiang@purdue.edu
+Email: mboutin@purdue.edu
+Email: ljgomez@purdue.edu
+Email: PhilWalter@purdue.edu
+Email: yep@purdue.edu
+Email: stanchan@purdue.edu
+Email: bziaie@purdue.edu
+Email: gelfand@ecn.purdue.edu
+Email: halaeian@purdue.edu
+Email: kildishev@purdue.edu
+Email: shreyas@purdue.edu
+Email: mmhece@purdue.edu
+Email: aq@purdue.edu
+Email: xkqiu@purdue.edu
+Email: sanjay@purdue.edu
+Email: santiagotorres@purdue.edu
+Email: mikedz@ecn.purdue.edu
+Email: philpare@purdue.edu
+Email: mengcui@purdue.edu
+Email: gekco@purdue.edu
+Email: mkocaoglu@purdue.edu
+Email: webb@ecn.purdue.edu
+Email: amakur@purdue.edu
+Email: brovont@purdue.edu
+Email: raghunathan@purdue.edu
+Email: alam@purdue.edu
+Email: tcli@purdue.edu
+Email: lundstro@ecn.purdue.edu
+Email: amachiry@purdue.edu
+Email: ghafoor@ecn.purdue.edu
+Email: qqiu@purdue.edu
+Email: zak@ecn.purdue.edu
+Email: brookeparks@purdue.edu
+Email: dperouli@purdue.edu
+Email: appenzeller@purdue.edu
+Email: ersoy@ecn.purdue.edu
+Email: csglee@purdue.edu
+Email: smidkiff@ecn.purdue.edu
+Email: mckinnjd@purdue.edu
+Email: kimkt@purdue.edu
+Email: ramani@purdue.edu
+Email: timrogers@purdue.edu
+Email: jvk@ecn.purdue.edu
+Email: guptask@purdue.edu
+Email: shalaev@ecn.purdue.edu
+Email: wasynczu@ecn.purdue.edu
+Email: mcjohnso@ecn.purdue.edu
+Email: junfei@purdue.edu
+Email: hongtan@purdue.edu
+Email: joywang@purdue.edu
+Email: yunglu@ecn.purdue.edu
+Email: zjacob@purdue.edu
+Email: webmaster-ece@ecn.purdue.edu
+Email: allebach@ecn.purdue.edu
+Email: bjesiek@purdue.edu
+Email: vr@purdue.edu
+Email: danaw@purdue.edu
+Email: saeedm@purdue.edu
+Email: linx@purdue.edu
+Email: tsmayer@purdue.edu
+Email: sudhoff@purdue.edu
+Email: capano@ecn.purdue.edu
+Email: dionysios@purdue.edu
+Email: yongchen@purdue.edu
+Email: comerm@purdue.edu
+Email: dinouye@purdue.edu
+Email: jungb@purdue.edu
+Email: wodicka@purdue.edu
+Email: jq@purdue.edu
+Email: vijay@ecn.purdue.edu
+Email: mahsa@purdue.edu
+Email: mrb@ecn.purdue.edu
+Email: wcchew@purdue.edu
+Email: gupta869@purdue.edu
+Email: janes@ecn.purdue.edu
+Email: evgenii@purdue.edu
+Email: tkubis@purdue.edu
+Email: kak@ecn.purdue.edu
+Email: guo675@purdue.edu
+Email: morisett@purdue.edu
+Email: lehnert@ecn.purdue.edu
+Email: mmanfra@purdue.edu
+Email: husheng@purdue.edu
+Email: pomeranz@ecn.purdue.edu
+Email: bouman@purdue.edu
+Email: jgmakin@purdue.edu
+Email: cbz@purdue.edu
+Email: melloch@ecn.purdue.edu
+Email: djlove@purdue.edu
+Email: reibman@purdue.edu
+Email: ace@ecn.purdue.edu
+Email: mithuna@ecn.purdue.edu
+Email: rrnewton@purdue.edu
+Email: djiao@purdue.edu
+Email: chihw@purdue.edu
+Email: zhu0@purdue.edu
+Email: jinggao@purdue.edu
+Email: mqi@purdue.edu
+Email: jianghai@purdue.edu
+Email: vshriva@purdue.edu
+Email: sundara2@purdue.edu
+Email: chengkok@ecn.purdue.edu
+Email: milind@purdue.edu
+Email: Hwang00@purdue.edu
+Email: prameyup@purdue.edu
+Email: amw@ecn.purdue.edu
+Email: elliottd@ecn.purdue.edu
+Email: candidateaccommodations@toasttab.com
+Email: hello@simplethread.com
+Email: giovannyqtech@gmail.com
+Email: lstanche@calpoly.edu
+Email: klmork@calpoly.edu
+Email: jplanck@calpoly.edu
+Email: bellardo@calpoly.edu
+Email: ulindqvi@calpoly.edu
+Email: mukhopad@calpoly.edu
+Email: husmith@calpoly.edu
+Email: jlehr@calpoly.edu
+Email: amgrow@calpoly.edu
+Email: jwang96@calpoly.edu
+Email: btjones@calpoly.edu
+Email: bcdasilv@calpoly.edu
+Email: baburton@calpoly.edu
+Email: fkurfess@calpoly.edu
+Email: dsisodia@calpoly.edu
+Email: foaad@calpoly.edu
+Email: dofang@calpoly.edu
+Email: apieris@calpoly.edu
+Email: jmukherj@calpoly.edu
+Email: zwood@calpoly.edu
+Email: hghariby@calpoly.edu
+Email: bklingen@calpoly.edu
+Email: jworkman@calpoly.edu
+Email: mpanto01@calpoly.edu
+Email: bahartma@calpoly.edu
+Email: jventu09@calpoly.edu
+Email: clements@calpoly.edu
+Email: amigler@calpoly.edu
+Email: cesiu@calpoly.edu
+Email: pnico@calpoly.edu
+Email: vcrivera@calpoly.edu
+Email: chdana@calpoly.edu
+Email: tlmedran@calpoly.edu
+Email: hhassal@calpoly.edu
+Email: znjp@calpoly.edu
+Email: lfiorent@calpoly.edu
+Email: jdavid06@calpoly.edu
+Email: engineeringdean@calpoly.edu
+Email: tkearns@calpoly.edu
+Email: dsparkin@calpoly.edu
+Email: elovagli@calpoly.edu
+Email: bdebruhl@calpoly.edu
+Email: phatalsk@calpoly.edu
+Email: clupo@calpoly.edu
+Email: seinakia@calpoly.edu
+Email: mrwebang@calpoly.edu
+Email: eckhardt@calpoly.edu
+Email: tmigler@calpoly.edu
+Email: rcanaan@calpoly.edu
+Email: mhaungs@calpoly.edu
+Email: ayaank@calpoly.edu
+Email: kvoelker@calpoly.edu
+Email: akeen@calpoly.edu
+Email: dsun09@calpoly.edu
+Email: pander14@calpoly.edu
+Email: rmatteso@calpoly.edu
+Email: dekhtyar@calpoly.edu
+Email: javiergs@calpoly.edu
+Email: jseng@calpoly.edu
+Email: srbeard@calpoly.edu
+Email: ihumer@calpoly.edu
+Name-Email: ('Paul Nguyen Lecturer', 'paul.nguyen@sjsu.edu')
+Name-Email: ('Donald Hung', 'donald.hung@sjsu.edu')
+Name-Email: ('Monica', 'ron.mak@sjsu.edu')
+Name-Email: ('Richard', 'richardsinn@yahoo.com')
+Name-Email: ('Mohamed Fayad', 'm.fayad@sjsu.edu')
+Name-Email: ('Anna Meng Lecturer', 'chair-computer-engineering@sjsu.edu')
+Name-Email: ('Xiao Su', 'xiao.su@sjsu.edu')
+Name-Email: ('Ammar Rayes Lecturer', 'ammar.rayes@sjsu.edu')
+Name-Email: ('Carlos Rojas', 'carlos.rojas@sjsu.edu')
+Name-Email: ('Meng', 'hsin-yi.meng@sjsu.edu')
+Name-Email: ('Shai Silberman', 'shai.silberman@sjsu.edu')
+Name-Email: ('Frank', 'frank.lin@sjsu.edu')
+Name-Email: ('Michael Larkin Lecturer', 'michael.larkin@sjsu.edu')
+Name-Email: ('Chang', 'haonan.wang@sjsu.edu')
+Name-Email: ('Juan', 'hua.li@sjsu.edu')
+Name-Email: ('Mohamed', 'haluk.ozemek@sjsu.edu')
+Name-Email: ('Charles', 'charles.zhang@sjsu.edu')
+Name-Email: ('Andrew Bond Lecturer', 'andrew.bond@sjsu.edu')
+Name-Email: ('Robert', 'robert.bruce@sjsu.edu')
+Name-Email: ('Frank Butt Lecturer', 'frank.butt@sjsu.edu')
+Name-Email: ('Melissa Mathews', 'melissa.mathews@sjsu.edu')
+Name-Email: ('John Gash Lecturer', 'john.gash@sjsu.edu')
+Name-Email: ('Dan', 'ranjanr@us.ibm.com')
+Name-Email: ('Kevin Nguyen Lecturer', 'kevin.m.nguyen@sjsu.edu')
+Name-Email: ('Dan Harkey', 'dan.harkey@sjsu.edu')
+Name-Email: ('Martin Alvarezlopez', 'martin.alvarezlopez@sjsu.edu')
+Name-Email: ('William', 'William.Giallo@sjsu.edu')
+Name-Email: ('Garcia', 'Kaikai.liu@sjsu.edu')
+Name-Email: ('Juan Gomez Lecturer', 'Jahan.Ghofraniha@sjsu.edu')
+Name-Email: ('Andreas Willig', 'andreas.willig@canterbury.ac.nz')
+Name-Email: ('Katia De Lu', 'katia.delu@canterbury.ac.nz')
+Name-Email: ('Jack Morgan', 'jack.morgan@canterbury.ac.nz')
+Name-Email: ('Kat Bell', 'kat.bell@canterbury.ac.nz')
+Name-Email: ('Oliver Batchelor', 'oliver.batchelor@canterbury.ac.nz')
+Name-Email: ('Neville Churcher', 'neville.churcher@canterbury.ac.nz')
+Name-Email: ('Sam Pell', 'sam.pell@canterbury.ac.nz')
+Name-Email: ('Summer School', 'enrol@canterbury.ac.nz')
+Name-Email: ('Christoph Bartneck', 'christoph.bartneck@canterbury.ac.nz')
+Name-Email: ('Morgan English', 'morgan.english@canterbury.ac.nz')
+Name-Email: ('Andy Cockburn', 'andrew.cockburn@canterbury.ac.nz')
+Name-Email: ('Joffre Horlor', 'joffre.horlor@canterbury.ac.nz')
+Name-Email: ('Peter Glassenbury', 'peter.glassenbury@canterbury.ac.nz')
+Name-Email: ('Walter Guttmann', 'walter.guttmann@canterbury.ac.nz')
+Name-Email: ('Richard Green', 'richard.green@canterbury.ac.nz')
+Name-Email: ('Richard Lobb', 'richard.lobb@canterbury.ac.nz')
+Name-Email: ('Gregory Ewing', 'greg.ewing@canterbury.ac.nz')
+Name-Email: ('James Atlas', 'james.atlas@canterbury.ac.nz')
+Name-Email: ('Joanne Roberts', 'joanne.roberts@canterbury.ac.nz')
+Name-Email: ('Miguel Morales', 'miguel.morales@canterbury.ac.nz')
+Name-Email: ('Sharon Mc Gregor', 'sharon.mcgregor@canterbury.ac.nz')
+Name-Email: ('Belinda Lansley', 'belinda.lansley@canterbury.ac.nz')
+Name-Email: ('Tim Bell', 'tim.bell@canterbury.ac.nz')
+Name-Email: ('Clementine Gritti', 'clementine.gritti@canterbury.ac.nz')
+Name-Email: ('Ramakrishnan Mukundan', 'mukundan@canterbury.ac.nz')
+Name-Email: ('Jay Holland', 'jay.holland@canterbury.ac.nz')
+Name-Email: ('Tanja Mitrovic', 'tanja.mitrovic@canterbury.ac.nz')
+Name-Email: ('Tracy Henderson', 'tracy.henderson@canterbury.ac.nz')
+Name-Email: ('Ray Hunt', 'ray.hunt@canterbury.ac.nz')
+Name-Email: ('Krzysztof Pawlikowski', 'krys.pawlikowski@canterbury.ac.nz')
+Name-Email: ('Eugene Mc', 'eugene.mcnearney@canterbury.ac.nz')
+Name-Email: ('Matt Philip Mattar', 'matthew.mattar@canterbury.ac.nz')
+Name-Email: ('Steven Sykes', 'steven.sykes@canterbury.ac.nz')
+Name-Email: ('Liam Laing', 'liam.laing@canterbury.ac.nz')
+Name-Email: ('Fabian Gilson', 'fabian.gilson@canterbury.ac.nz')
+Name-Email: ('Steve Weddell', 'steve.weddell@canterbury.ac.nz')
+Name-Email: ('Andrew Bainbridge', 'andrew.bainbridge-smith@canterbury.ac.nz')
+Name-Email: ('Paul Mc', 'paul.mckeown@canterbury.ac.nz')
+Name-Email: ('Josh Mc', 'josh.mcculloch@canterbury.ac.nz')
+Name-Email: ('Matthias Galster', 'matthias.galster@canterbury.ac.nz')
+Name-Email: ('Ben Adams', 'benjamin.adams@canterbury.ac.nz')
+Name-Email: ('Tim Rensen', 'tim.rensen@pg.canterbury.ac.nz')
+Name-Email: ('Sam Schofield', 'sam.schofield@pg.canterbury.ac.nz')
+Name-Email: ('Bjarne Stroustrup', 'grad_director@cse.unr.edu')
+Name-Email: ('Lawrence Rauchwerger', 'rwerger@cse.tamu.edu')
+Name-Email: ('Jeff Huang', 'jeff@cse.tamu.edu')
+Name-Email: ('Pauline Wade', 'paulinewade@tamu.edu')
+Name-Email: ('Data Mining', 'khanhtn@tamu.edu')
+Name-Email: ('Frank M Shipman', 'shipman@cse.tamu.edu')
+Name-Email: ('Dilma Da Silva', 'dilma@cse.tamu.edu')
+Name-Email: ('Data Science', 'cse-general@cse.tamu.edu')
+Name-Email: ('Abdullah Muzahid', 'abdullah.muzahid@cse.tamu.edu')
+Name-Email: ('Robert Lightfoot', 'rob.light@tamu.edu')
+Name-Email: ('Irith Pomeranz', 'pomeranz@ecn.purdue.edu')
+Name-Email: ('Jing Gao', 'jinggao@purdue.edu')
+Name-Email: ('Katherine Birck', 'webmaster-ece@ecn.purdue.edu')
+Name-Email: ('Phillip Walter', 'PhilWalter@purdue.edu')
+Name-Email: ('Saeed Mohammadi', 'saeedm@purdue.edu')
+Name-Email: ('Ali Shakouri', 'shakouri@purdue.edu')
+Name-Email: ('Michael', 'bhave@purdue.edu')
+Name-Email: ('Amy Reibman', 'reibman@purdue.edu')
+Name-Email: ('Theresa Mayer', 'tsmayer@purdue.edu')
+Name-Email: ('David B Janes', 'janes@ecn.purdue.edu')
+Name-Email: ('Weng C Chew', 'wcchew@purdue.edu')
+Name-Email: ('Michael Manfra', 'mmanfra@purdue.edu')
+Name-Email: ('Dan Jiao', 'danaw@purdue.edu')
+Name-Email: ('Milind Kulkarni', 'milind@purdue.edu')
+Name-Email: ('James S Lehnert', 'lehnert@ecn.purdue.edu')
+Name-Email: ('Mung Chiang', 'chiang@purdue.edu')
+Name-Email: ('Abolfazl Hashemi', 'abolfazl@purdue.edu')
+Name-Email: ('David I Inouye', 'dinouye@purdue.edu')
+Name-Email: ('Mark Johnson', 'mcjohnso@ecn.purdue.edu')
+Name-Email: ('Wendy Engibous', 'dionysios@purdue.edu')
+Name-Email: ('Stanley Chan', 'stanchan@purdue.edu')
+Name-Email: ('Vijay Gupta', 'vijay@ecn.purdue.edu')
+Name-Email: ('Barry M', 'amachiry@purdue.edu')
+Name-Email: ('Michael A Capano', 'capano@ecn.purdue.edu')
+Name-Email: ('Michael R Melloch', 'melloch@ecn.purdue.edu')
+Name-Email: ('Qiang Qiu', 'jianghai@purdue.edu')
+Name-Email: ('Charles A Bouman', 'halaeian@purdue.edu')
+Name-Email: ('E Mentors', 'santiagotorres@purdue.edu')
+Name-Email: ('Mark R Bell', 'appenzeller@purdue.edu')
+Name-Email: ('Ryan Newton', 'rrnewton@purdue.edu')
+Name-Email: ('Sanjay Rao', 'sanjay@purdue.edu')
+Name-Email: ('Aaron Brovont', 'brovont@purdue.edu')
+Name-Email: ('Scott D Sudhoff', 'sudhoff@purdue.edu')
+Name-Email: ('Lu Su', 'lusu@purdue.edu')
+Name-Email: ('Anand Raghunathan', 'raghunathan@purdue.edu')
+Name-Email: ('Jason D Mc', 'wasynczu@ecn.purdue.edu')
+Name-Email: ('James V Krogmeier', 'timrogers@purdue.edu')
+Name-Email: ('Christopher Brinton', 'husheng@purdue.edu')
+Name-Email: ('Mary Jo Schwartz', 'rothte@purdue.edu')
+Name-Email: ('Bob', 'qobi@ecn.purdue.edu')
+Name-Email: ('Michael D Zoltowski', 'chengkok@ecn.purdue.edu')
+Name-Email: ('Daniel S Elliott', 'elliottd@ecn.purdue.edu')
+Name-Email: ('Qi Guo', 'qqiu@purdue.edu')
+Name-Email: ('Steven D Pekarek', 'spekarek@ecn.purdue.edu')
+Name-Email: ('George R Wodicka', 'wodicka@purdue.edu')
+Name-Email: ('James Davis', 'ramani@purdue.edu')
+Name-Email: ('Kevin J Webb', 'webb@ecn.purdue.edu')
+Name-Email: ('Philip E Pare', 'philpare@purdue.edu')
+Name-Email: ('Alexander Kildishev', 'kildishev@purdue.edu')
+Name-Email: ('Ron', 'bouman@purdue.edu')
+Name-Email: ('Mary Comer', 'comerm@purdue.edu')
+Name-Email: ('Hong Z Tan', 'hongtan@purdue.edu')
+Name-Email: ('Babak Ziaie', 'bziaie@purdue.edu')
+Name-Email: ('Dean', 'gelfand@ecn.purdue.edu')
+Name-Email: ('Mireille Mimi Boutin', 'mboutin@purdue.edu')
+Name-Email: ('Luis Gomez', 'ljgomez@purdue.edu')
+Name-Email: ('Mark S Lundstrom', 'lundstro@ecn.purdue.edu')
+Name-Email: ('Yong Chen', 'yongchen@purdue.edu')
+Name-Email: ('Avinash C Kak', 'kaushik@ecn.purdue.edu')
+Name-Email: ('Meng Cui', 'mengcui@purdue.edu')
+Name-Email: ('Thomas J', 'mahsa@purdue.edu')
+Name-Email: ('Arif Ghafoor', 'ghafoor@ecn.purdue.edu')
+Name-Email: ('Vishal Shrivastav', 'vshriva@purdue.edu')
+Name-Email: ('Vladimir M Shalaev', 'shalaev@ecn.purdue.edu')
+Name-Email: ('David J Love', 'djlove@purdue.edu')
+Name-Email: ('Peter Bermel', 'pbermel@purdue.edu')
+Name-Email: ('Okan K Ersoy', 'ersoy@ecn.purdue.edu')
+Name-Email: ('Samuel P Midkiff', 'smidkiff@ecn.purdue.edu')
+Name-Email: ('Jan P Allebach', 'allebach@ecn.purdue.edu')
+Name-Email: ('Phil Kendall', 'hello@simplethread.com')
+Name-Email: ('Jonathan Dale', 'giovannyqtech@gmail.com')
+Name-Email: ('Stephen Beard', 'eckhardt@calpoly.edu')
+Name-Email: ('Alex Dekhtyar', 'dekhtyar@calpoly.edu')
+Name-Email: ('Hugh Smith', 'husmith@calpoly.edu')
+Name-Email: ('Teresa Medrano', 'tlmedran@calpoly.edu')
+Name-Email: ('Theresa Migler', 'amigler@calpoly.edu')
+Name-Email: ('John Planck', 'jplanck@calpoly.edu')
+Name-Email: ('Maria Pantoja', 'ayaank@calpoly.edu')
+Name-Email: ('Charles Dana', 'chdana@calpoly.edu')
+Name-Email: ('Jane Lehr', 'pander14@calpoly.edu')
+Name-Email: ('Aaron Keen', 'akeen@calpoly.edu')
+Name-Email: ('Tim Kearns', 'tkearns@calpoly.edu')
+Name-Email: ('Rodrigo', 'dsisodia@calpoly.edu')
+Name-Email: ('Paul Anderson', 'baburton@calpoly.edu')
+Name-Email: ('Chris', 'apieris@calpoly.edu')
+Name-Email: ('Michael Haungs', 'mhaungs@calpoly.edu')
+Name-Email: ('Data Science', 'lstanche@calpoly.edu')
+Name-Email: ('John Seng', 'jseng@calpoly.edu')
+Name-Email: ('Jonathan Ventura', 'bahartma@calpoly.edu')
+Name-Email: ('Dennis Sun', 'cesiu@calpoly.edu')
+Name-Email: ('John Clements', 'clements@calpoly.edu')
+Name-Email: ('Bruno da Silva', 'bcdasilv@calpoly.edu')
+Name-Email: ('Brian Jones', 'btjones@calpoly.edu')
+Name-Email: ('Julie Workman Lecturer', 'jworkman@calpoly.edu')
+Name-Email: ('Paul Hatalsky', 'phatalsk@calpoly.edu')
+Name-Email: ('Leanne Fiorentino', 'lfiorent@calpoly.edu')
+Name-Email: ('Phillip Nico', 'pnico@calpoly.edu')
+Name-Email: ('John Bellardo', 'bellardo@calpoly.edu')
+Name-Email: ('Franz Kurfess', 'fkurfess@calpoly.edu')
+Name-Email: ('Kurt Voelker', 'kvoelker@calpoly.edu')

@@ -43,20 +43,20 @@ def get_links_from_search_query():
     pageCount = 0
     pageLimit = 50
     linkContainsExcluded = False
-        for l in excludedLinkKeywords:
-            if l in j:
-                linkContainsExcluded = True
-                break
-        if linkContainsExcluded:
-            linkContainsExcluded = False
-            continue
-        links.append(j)
-        totalPageCount += 1
-        print(f'{totalPageCount}). {j}')
-        pageCount += 1
-        if (pageCount == pageLimit):
-            time.sleep(randint(20,40))
-            pageCount = 0
+    for l in excludedLinkKeywords:
+        if l in j:
+            linkContainsExcluded = True
+            break
+    if linkContainsExcluded:
+        linkContainsExcluded = False
+        continue
+    links.append(j)
+    totalPageCount += 1
+    print(f'{totalPageCount}). {j}')
+    pageCount += 1
+    if (pageCount == pageLimit):
+        time.sleep(randint(20,40))
+        pageCount = 0
             
 def retrieve_webpage_contents():
     ##ACHIEVE  CONTENT:
