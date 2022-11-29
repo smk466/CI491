@@ -13,8 +13,8 @@ def write_to_file(content: list[LinkContent]) -> None:
             print(f'Name: {name}', file=f)
         for email in emailList:
             print(f'Email: {email}', file=f)
-        # for person in matchingNamesEmails:
-        #     print(f'Name: {person.name}\nEmail: {person.email}\n', file=f)
+        for person in matchingNamesEmails:
+            print(f'Name: {person.name}\nEmail: {person.email}\nLink: {person.link}\n', file=f)
             
         for person in matchingNamesEmails:
             print(f'Name: {person.name}\nEmail: {person.email}\nPhone: {person.phone}\nPosition: {person.position}\nLink: {person.link}\n\n', file=f)
