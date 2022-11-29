@@ -1,10 +1,11 @@
 from difflib import SequenceMatcher
+import jellyfish
 
 nameList: list = ["Chris Bryant", "Michael Jordan", "Michael Jackson", "Kobe Bryant"]
-emailList: list = ["C.Bryant@gmail.com","Kobe.Br@gmail.com","Mich.Jackson@gmail.com","Mich.Jordan@gmail.com"]
+emailList: list = ["C.Bryant@gmail.com","Kobe.B@gmail.com","Mich.Jackson@gmail.com","Mich.Jordan@gmail.com"]
 
 nameList2: list = ["Khalid Salem", "Mutasem Salem"]
-emailList2: list = ["kjs426@drexel.ed", "ms4268@drexel.edu"]
+emailList2: list = ["kjs426@drexel.edu", "ms4268@drexel.edu"]
 
 
 def compareLists(nameList: list[str], emailList: list[str]) -> list[str]:
@@ -13,7 +14,7 @@ def compareLists(nameList: list[str], emailList: list[str]) -> list[str]:
         threshold: float = .30
         emailMatched: str = ''
         for email in emailList[:]:
-            temp = SequenceMatcher(lambda threshold: threshold == " ", name, email.split("@")[0]).ratio()
+            temp = jellyfish.jaro_winkler_similarity(name, email.split("@")[0])
             if temp > threshold:
                 threshold = temp
                 emailMatched = email
@@ -48,7 +49,7 @@ def iterate_each_tuple(matchList: list) -> list[tuple]:
     return returnList
     
 def get_name_email_similarity_ratio(name: str, email: str) -> float:
-    return SequenceMatcher(None, name, email.split("@")[0]).ratio()
+    return jellyfish.jaro_winkler_similarity(name, email.split("@")[0])
     
 def get_emails_that_are_matched(matchList: list) -> list:
     emailsMatched: list = []
@@ -73,6 +74,6 @@ def determine_most_likely_match(emailsMatched: list[tuple], email: str) -> tuple
             #print(f"Highest ratio: {highestRatio}")
     return mostLikelyMatch[0]
 
-#compareLists(nameList, emailList)
+compareLists(nameList, emailList)
 
 # print(similar("Apple", "Bapple"))
