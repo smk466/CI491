@@ -10,8 +10,8 @@ from web_scrape_classes import LinkContent
 
 #queryForLinkedin = 'site:linkedin.com/in/ AND "software engineering"'
 
-def determine_name_and_email_similarity(name: str, email: str) -> bool:
-    return SequenceMatcher(None, name, email).ratio() > 0.5
+# def determine_name_and_email_similarity(name: str, email: str) -> bool:
+#     return SequenceMatcher(None, name, email).ratio() > 0.5
         
 def main() -> None:
     numOfLinks: int = int(input("Number of links to web scrape: "))
