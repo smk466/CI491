@@ -39,3 +39,39 @@ python -m spacy download en_core_web_sm
 ```
 pip install jellyfish
 ```
+
+**Install Pandas:**
+
+```
+pip install pandas
+```
+
+**Install pymysql:**
+
+```
+pip install pymysql
+```
+
+**Install sqlalchemy:**
+
+```
+pip install sqlalchemy
+```
+
+**Install psycopg2:**
+
+```
+pip install psycopg2
+```
+
+**Install mysql:**
+
+```
+pip install mysql
+```
+
+**Install mysql.connector:**
+
+```
+pip install mysql.connector
+```
