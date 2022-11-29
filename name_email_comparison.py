@@ -13,7 +13,7 @@ def compareLists(nameList: list[str], emailList: list[str], link: str) -> tuple[
     matchList: list = []
     finalPersonList: list[Person]
     for name in nameList:
-        threshold: float = .30
+        threshold: float = .45
         emailMatched: str = ''
         for email in emailList[:]:
             temp = jellyfish.jaro_winkler_similarity(name, email.split("@")[0])
@@ -93,7 +93,9 @@ def determine_most_likely_match(emailsMatched: list[tuple], email: str) -> tuple
             #print(f"Highest ratio: {highestRatio}")
     return mostLikelyMatch[0]
 
-compareLists(nameList, emailList)
+# compareLists(["David Feil Associate Professor"], ["dave@cse.unr.edu"], "dummy")
+print(get_name_email_similarity_ratio("Christopher Lee", "cl@drexel.edu"))
+
 
 # print(similar("Apple", "Bapple"))
 
