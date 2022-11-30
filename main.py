@@ -55,21 +55,21 @@ def main() -> None:
     print(df)
     print("Done")
 
-    #host = 'fieldscrape-db.cnapnv5e3bss.us-east-1.rds.amazonaws.com'
-    #port=int(5432)
-    #user='postgres'
-    #passwd='Seniordesign22_ci491'
-    #database='fieldscrape-db'
+    host = 'fieldscrape-db-1.cnapnv5e3bss.us-east-1.rds.amazonaws.com'
+    port=5432
+    user='postgres'
+    passwd='Seniordesign22_ci491'
+    database='fieldscrape-db-1'
 
-    #mydb=create_engine('mysql+pymysql://' + user + ':' + passwd + '@' + host + ':' + str(port) + '/' + database , echo=False)
-    #df.to_sql(name="table", con=mydb, if_exists = 'replace', index=False)
-    #cnx = mysql.connector.connect(host = config.host,user = config.user,password = config.passwd)
-    #print(cnx)
-    #cursor = cnx.cursor()
-    #insert Database Name
-    #db_name = 'fieldscrape-db'
+    # mydb=create_engine('mysql+pymysql://' + user + ':' + passwd + '@' + host + ':' + str(port) + '/' + database , echo=False)
+    # df.to_sql(name="table", con=mydb, if_exists = 'replace', index=False)
+    cnx = pymysql.connect(host = host, user = user, port = port, password = passwd, db = database)
+    print(cnx)
+    # cursor = cnx.cursor()
+    # #insert Database Name
+    # db_name = 'fieldscrape-db'
 
-    connect()
+    # connect()
     
     content: list[LinkContent] = retrieve_webpage_contents(links)
     cleanedContent: list[LinkContent] = remove_new_lines(content)
