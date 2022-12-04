@@ -28,13 +28,14 @@ def names_and_emails(content: list[LinkContent]) -> tuple[list[str], list[str], 
         tempNameList: list[str] = retrieve_names(webObj.content)
         tempEmailList: list[str] = retrieve_emails(webObj.content)
         tupleList, personList = nec.compareLists(tempNameList, tempEmailList, webObj.link)
+        webObj.personList = personList
         #matchingNamesEmails.extend(tupleList)
         matchingNamesEmails.extend(personList)
         nameList.extend(tempNameList)
         emailList.extend(tempEmailList)
         write_entity_text_to_file()
         write_doc_text_to_file()
-    return nameList, emailList, matchingNamesEmails
+    return nameList, emailList, matchingNamesEmails, content
 
 # def retrieve_names(text: str) -> list[str]:
 #     tempNameList: list = []
