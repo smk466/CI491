@@ -1,16 +1,26 @@
-import os
-import psycopg2
 from flask import Flask, render_template
+from flask_sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
+app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql:///ci491_test'
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
+db = SQLAlchemy(app)
+app.app_context().push()
 
-def get_db_connection():
-    conn = psycopg2.connect(host='localhost',
-                            database='ci491_db',
-                            user=os.environ['DB_USERNAME'],
-                            password=os.environ['DB_PASSWORD'])
-    return conn
+class User(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    link = db.Column(db.String, index=True)
+    names = db.Column(db.String, index=True)
+    emails = db.Column(db.String, index=True)
+    phones = db.Column(db.String)
+
+db.create_all()
 
 @app.route("/")
 def index():
-   return render_template("index.html")
+    users = User.query
+    return render_template('results.html', title='Senior Design Project',
+                           users=users)
+
+if __name__ == '__main__':
+    app.run()

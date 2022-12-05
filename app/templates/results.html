@@ -1,10 +1,55 @@
-<html>
-<body>
-    <div>
-        {% for row in data %}
-        <p>{{ row[0] }}</p>
-        <p>{{ row[1] }}</p>
+{% extends "base.html" %}
+
+{% block content %}
+    <form id="form"> 
+        <input type="search" id="query" placeholder="Search..." required>
+        <input type="number" id="num-pages" placeholder="Number of Pages...">
+        <button id="search-btn">Search</button>
+    </form>
+    <br>
+
+    <table id="data" class="table table-striped">
+        <thead>
+        <tr>
+            <th>Link</th>
+            <th>Names</th>
+            <th>Emails</th>
+            <th>Phone Numbers</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for user in users %}
+            <tr>
+            <td>{{ user.link }}</td>
+            <td>{{ user.names }}</td>
+            <td>{{ user.emails }}</td>
+            <td>{{ user.phones }}</td>
+            </tr>
         {% endfor %}
-    </div>
-</body>
-</html>
+        </tbody>
+    </table>
+{% endblock %}
+        
+{% block scripts %}
+    <script>
+        $(document).ready(function () {
+            $('#data').DataTable({
+                columns: [
+                    null,
+                    {orderable: false},
+                    null,
+                    null,
+                    {searchable: false}],
+            });
+        });
+    </script>
+    <script>
+        function searchDatabase(keyword, numpages = 10) {
+            console.log(numpages);
+        }
+    
+        const query = document.getElementById("query").value;
+        const pages = document.getElementById("num-pages").value;
+        document.getElementById("search-btn").addEventListener("click", function(){ searchDatabase(query, pages); });
+        </script>
+{% endblock %}
