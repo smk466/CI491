@@ -14,12 +14,13 @@ from web_scrape_classes import LinkContent
 #     return SequenceMatcher(None, name, email).ratio() > 0.5
         
 def main() -> None:
+    specialty: str = input("Enter a specialty: ")
     numOfLinks: int = int(input("Number of links to web scrape: "))
-    links: list[str] = get_links_from_search_query(numOfLinks)
+    links: list[str] = get_links_from_search_query(numOfLinks, specialty)
     content: list[LinkContent] = retrieve_webpage_contents(links)
     cleanedContent: list[LinkContent] = remove_new_lines(content)
     # wr.write_to_output_txt(cleanedContent)
-    wr.write_to_csv(cleanedContent)
+    wr.write_to_csv(cleanedContent, specialty)
     print("Done!")
     
 if __name__ == '__main__':

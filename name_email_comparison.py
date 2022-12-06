@@ -9,7 +9,7 @@ nameList2: list = ["Khalid Salem", "Mutasem Salem"]
 emailList2: list = ["kjs426@drexel.edu", "ms4268@drexel.edu"]
 
 
-def compareLists(nameList: list[str], emailList: list[str], link: str) -> tuple[list[tuple], list[Person]]:
+def compareLists(nameList: list[str], emailList: list[str], specialty: str, link: str) -> tuple[list[tuple], list[Person]]:
     matchList: list = []
     finalPersonList: list[Person]
     for name in nameList:
@@ -25,7 +25,7 @@ def compareLists(nameList: list[str], emailList: list[str], link: str) -> tuple[
         matchList.append(match)
     # print(matchList)
     finalList: list = iterate_each_tuple(matchList)
-    finalPersonList = [Person(personTuple[0], personTuple[1], "WIP", "WIP", link) for personTuple in finalList]
+    finalPersonList = [Person(personTuple[0], personTuple[1], "WIP", specialty, link) for personTuple in finalList]
     return finalList, finalPersonList
 
 def iterate_each_tuple(matchList: list) -> list[tuple]:
