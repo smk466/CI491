@@ -6,7 +6,7 @@ class Person:
     name: str
     email: str
     phone: str
-    position: str
+    specialty: str
     link: str
 
 # LinkContent objects will contain link and content both in string

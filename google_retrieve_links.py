@@ -4,11 +4,12 @@ from time import sleep
 
 excludedLinkKeywords: list = ['.jpg', '.png', '.jpeg', 'youtube', 'wikipedia', '.pdf']
 
-query: str = "Software Engineering+People"
+# query: str = "Software Engineering+People"
 links: list = []
 
-def get_links_from_search_query(numOfLinks: int) -> list[str]:
+def get_links_from_search_query(numOfLinks: int, specialty: str) -> list[str]:
     ##GET LINKS FROM SEARCH QUERY:
+    query: str = f"{specialty}+People"
     totalPageCount: int = 0
     pageCount: int = 0
     pageLimit: int = 50

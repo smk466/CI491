@@ -5,10 +5,10 @@ from web_scrape_classes import LinkContent
 
 nameEmailDictionary: dict = {}
 
-def write_to_csv(content: list[LinkContent]) -> None:
-    fields: list = ["Link", "Name", "Email"]
+def write_to_csv(content: list[LinkContent], specialty: str) -> None:
+    fields: list = ["Link", "Name", "Email", "Specialty"]
     filename: str = "output.csv"
-    nameList, emailList, matchingNamesEmails, content = fne.names_and_emails(content)
+    nameList, emailList, matchingNamesEmails, content = fne.names_and_emails(content, specialty)
     with open(filename, "w", encoding="utf-8-sig") as csvfile:
         print(f'Now writing {len(content)} pages into output.csv')
         csvwriter = csv.writer(csvfile)
@@ -16,7 +16,7 @@ def write_to_csv(content: list[LinkContent]) -> None:
         csvwriter.writerow(fields)
         for webObj in content:
             for personObj in webObj.personList:
-                csvwriter.writerow([webObj.link, personObj.name, personObj.email])
+                csvwriter.writerow([webObj.link, personObj.name, personObj.email, personObj.specialty])
     
 def write_to_output_txt(content: list[LinkContent]) -> None:
     with open("output.txt", "w", encoding="utf-8-sig") as f:

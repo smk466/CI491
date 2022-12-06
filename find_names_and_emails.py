@@ -19,7 +19,7 @@ entities: list[Span] = []
 #tokens: list[Token] = []
 docs: list[Doc] = []
 
-def names_and_emails(content: list[LinkContent]) -> tuple[list[str], list[str], list[str]]:
+def names_and_emails(content: list[LinkContent], specialty: str) -> tuple[list[str], list[str], list[str]]:
     nameList: list[str] = []
     emailList: list[str] = []
     #matchingNamesEmails: list[str] = [] 
@@ -27,7 +27,7 @@ def names_and_emails(content: list[LinkContent]) -> tuple[list[str], list[str], 
     for webObj in content:
         tempNameList: list[str] = retrieve_names(webObj.content)
         tempEmailList: list[str] = retrieve_emails(webObj.content)
-        tupleList, personList = nec.compareLists(tempNameList, tempEmailList, webObj.link)
+        tupleList, personList = nec.compareLists(tempNameList, tempEmailList, specialty, webObj.link)
         webObj.personList = personList
         #matchingNamesEmails.extend(tupleList)
         matchingNamesEmails.extend(personList)
