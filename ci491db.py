@@ -33,14 +33,17 @@ tree.column('#3', stretch=NO, minwidth=0, width=300)
 tree.pack()
 
 with open('output.csv') as f:
-    reader = csv.DictReader(f, delimiter=',')
+    # reader = csv.DictReader(f, delimiter=',')
+    reader = csv.reader(f, delimiter=',')
     for row in reader:
-        link = row['link']
-        name = row['name']
-        email = row['email']
+        if len(row) == 0:
+            continue
+        link: str = row[0]
+        name: str = row[1]
+        email: str = row[2]
+        # specialty: str = row[3]
         tree.insert("", 0, values=(link, name, email))
 
-        
 #============================INITIALIZATION==============================
 if __name__ == '__main__':
     root.mainloop()
