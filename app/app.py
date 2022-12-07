@@ -1,5 +1,7 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, request, make_response
 from flask_sqlalchemy import SQLAlchemy
+import csv
+import pandas as pd
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql:///ci491_test'
@@ -7,20 +9,15 @@ app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
 app.app_context().push()
 
-class User(db.Model):
-    id = db.Column(db.Integer, primary_key=True)
-    link = db.Column(db.String, index=True)
-    names = db.Column(db.String, index=True)
-    emails = db.Column(db.String, index=True)
-    phones = db.Column(db.String)
+app = Flask(__name__)
 
-db.create_all()
-
-@app.route("/")
+@app.route('/', methods=['GET', 'POST'])  
 def index():
-    users = User.query
-    return render_template('results.html', title='Senior Design Project',
-                           users=users)
+    usr_query = request.form.get('search_query')
+    df = pd.read_csv('output.csv')
+    myData = df[df['Specialty'].str.contains(str(usr_query), case=False)] 
+    return render_template('home.html', usr_query=usr_query, myData=myData)
+
 
 if __name__ == '__main__':
-    app.run()
+    app.run(debug=True)
